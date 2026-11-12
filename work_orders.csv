@@ -1,0 +1,1201 @@
+work_order_id,site,date_opened,date_closed,trade,priority,work_type,status,response_hours,hours_to_close,cost_cad
+WO-00001,Steeles Corporate Campus,11/1/2025 8:15,11/2/2025 7:51,HVAC,P4 - Low,Preventive,Closed,21.3,23.6,385.79
+WO-00002,Heartlake Medical Plaza,11/1/2025 18:45,11/3/2025 5:57,HVAC,P4 - Low,Reactive,Closed,30.4,35.2,1016.18
+WO-00003,Heartlake Medical Plaza,11/1/2025 23:00,11/2/2025 4:42,General Maintenance,P3 - Routine,Preventive,Closed,4.4,5.7,299.57
+WO-00004,Steeles Corporate Campus,11/2/2025 2:30,11/2/2025 22:24,Electrical,P4 - Low,Preventive,Closed,17.7,19.9,350.35
+WO-00005,Bramalea Logistics Centre,11/2/2025 10:30,11/3/2025 5:12,HVAC,P3 - Routine,Preventive,Closed,11.9,18.7,621.21
+WO-00006,Bramalea Logistics Centre,11/2/2025 13:30,11/4/2025 5:54,HVAC,P4 - Low,Preventive,Closed,30.9,40.4,1279.64
+WO-00007,Heartlake Medical Plaza,11/2/2025 23:00,11/3/2025 20:24,Plumbing,P3 - Routine,Reactive,Closed,18,21.4,787.39
+WO-00008,Heartlake Medical Plaza,11/3/2025 4:30,11/3/2025 21:36,Fire & Life Safety,P4 - Low,Reactive,Closed,14.8,17.1,389.94
+WO-00009,Bramalea Logistics Centre,11/3/2025 4:45,11/4/2025 5:03,General Maintenance,P4 - Low,Reactive,Closed,22.6,24.3,400.64
+WO-00010,Steeles Corporate Campus,11/4/2025 15:45,11/5/2025 5:39,Plumbing,P3 - Routine,Reactive,Closed,10.6,13.9,1045.29
+WO-00011,Bramalea Logistics Centre,11/4/2025 23:30,11/5/2025 14:06,HVAC,P3 - Routine,Reactive,Closed,7.2,14.6,913.49
+WO-00012,Bramalea Logistics Centre,11/5/2025 1:30,11/5/2025 11:36,HVAC,P3 - Routine,Reactive,Closed,5.1,10.1,470.98
+WO-00013,Steeles Corporate Campus,11/5/2025 5:30,11/5/2025 14:30,Grounds & Snow,P3 - Routine,Reactive,Closed,6.3,9,353.16
+WO-00014,Heartlake Medical Plaza,11/5/2025 16:45,11/6/2025 16:03,Plumbing,P4 - Low,Preventive,Closed,21.4,23.3,451.87
+WO-00015,Bramalea Logistics Centre,11/5/2025 22:30,11/9/2025 3:48,Grounds & Snow,P4 - Low,Reactive,Closed,75.7,77.3,264.15
+WO-00016,Heartlake Medical Plaza,11/6/2025 5:15,11/6/2025 8:39,Electrical,P2 - Urgent,Reactive,Closed,0.9,3.4,616.85
+WO-00017,Bramalea Logistics Centre,11/6/2025 7:30,11/6/2025 18:00,HVAC,P3 - Routine,Reactive,Closed,7.8,10.5,676.08
+WO-00018,Heartlake Medical Plaza,11/6/2025 8:00,11/6/2025 20:30,HVAC,P2 - Urgent,Reactive,Closed,1.7,12.5,1792.97
+WO-00019,Heartlake Medical Plaza,11/6/2025 14:00,11/7/2025 1:54,Electrical,P3 - Routine,Reactive,Closed,7.3,11.9,1376.78
+WO-00020,Heartlake Medical Plaza,11/6/2025 21:00,11/7/2025 12:00,Elevator,P3 - Routine,Reactive,Closed,10.7,15,1039.08
+WO-00021,Steeles Corporate Campus,11/7/2025 1:00,11/7/2025 23:42,Elevator,P3 - Routine,Reactive,Closed,12.5,22.7,1043.12
+WO-00022,Heartlake Medical Plaza,11/7/2025 4:45,11/7/2025 21:21,Grounds & Snow,P3 - Routine,Reactive,Closed,5.8,16.6,1126.91
+WO-00023,Heartlake Medical Plaza,11/7/2025 7:15,11/7/2025 17:39,HVAC,P3 - Routine,Preventive,Closed,5.1,10.4,956.16
+WO-00024,Bramalea Logistics Centre,11/7/2025 11:30,11/7/2025 16:30,Plumbing,P2 - Urgent,Reactive,Closed,1.7,5,443.95
+WO-00025,Steeles Corporate Campus,11/7/2025 13:45,11/8/2025 12:33,HVAC,P3 - Routine,Preventive,Closed,6.5,22.8,1217.58
+WO-00026,Bramalea Logistics Centre,11/7/2025 17:30,11/7/2025 23:24,HVAC,P1 - Emergency,Reactive,Closed,0.2,5.9,2155.17
+WO-00027,Bramalea Logistics Centre,11/7/2025 21:15,11/8/2025 8:39,HVAC,P3 - Routine,Preventive,Closed,5.1,11.4,666.13
+WO-00028,Bramalea Logistics Centre,11/8/2025 8:15,11/9/2025 5:57,Electrical,P3 - Routine,Reactive,Closed,17.8,21.7,675.78
+WO-00029,Heartlake Medical Plaza,11/8/2025 9:00,11/9/2025 10:30,General Maintenance,P4 - Low,Preventive,Closed,20,25.5,592.79
+WO-00030,Bramalea Logistics Centre,11/8/2025 10:30,11/9/2025 1:12,General Maintenance,P3 - Routine,Reactive,Closed,9.1,14.7,598.34
+WO-00031,Heartlake Medical Plaza,11/9/2025 2:15,11/10/2025 10:51,Fire & Life Safety,P3 - Routine,Reactive,Closed,16.5,32.6,2037.28
+WO-00032,Heartlake Medical Plaza,11/9/2025 5:15,11/9/2025 23:09,HVAC,P3 - Routine,Preventive,Closed,7.6,17.9,1038.92
+WO-00033,Steeles Corporate Campus,11/9/2025 7:15,11/9/2025 19:27,HVAC,P3 - Routine,Reactive,Closed,4.2,12.2,1344.52
+WO-00034,Bramalea Logistics Centre,11/9/2025 21:00,11/10/2025 4:42,Plumbing,P3 - Routine,Reactive,Closed,6.3,7.7,194.12
+WO-00035,Bramalea Logistics Centre,11/10/2025 6:30,11/10/2025 22:42,Grounds & Snow,P4 - Low,Preventive,Closed,14.4,16.2,329.86
+WO-00036,Bramalea Logistics Centre,11/10/2025 11:45,11/10/2025 20:51,Electrical,P3 - Routine,Preventive,Closed,5.4,9.1,557.57
+WO-00037,Steeles Corporate Campus,11/10/2025 20:30,11/12/2025 13:06,HVAC,P4 - Low,Preventive,Closed,35.9,40.6,853.56
+WO-00038,Heartlake Medical Plaza,11/10/2025 21:15,11/11/2025 6:27,Plumbing,P2 - Urgent,Reactive,Closed,3.4,9.2,1124.07
+WO-00039,Steeles Corporate Campus,11/10/2025 21:30,11/11/2025 10:00,Elevator,P2 - Urgent,Reactive,Closed,2,12.5,1200.85
+WO-00040,Heartlake Medical Plaza,11/10/2025 23:30,11/11/2025 16:54,HVAC,P3 - Routine,Reactive,Closed,14.4,17.4,728.89
+WO-00041,Bramalea Logistics Centre,11/10/2025 23:45,11/11/2025 3:51,Grounds & Snow,P3 - Routine,Preventive,Closed,3.1,4.1,195.84
+WO-00042,Bramalea Logistics Centre,11/11/2025 6:45,11/11/2025 23:39,HVAC,P4 - Low,Preventive,Closed,15.7,16.9,204.69
+WO-00043,Heartlake Medical Plaza,11/11/2025 12:15,11/11/2025 21:15,Electrical,P3 - Routine,Preventive,Closed,4.9,9,700.87
+WO-00044,Bramalea Logistics Centre,11/11/2025 13:30,11/12/2025 13:30,HVAC,P3 - Routine,Reactive,Closed,6.5,24,1831.9
+WO-00045,Bramalea Logistics Centre,11/11/2025 14:00,11/12/2025 15:36,HVAC,P4 - Low,Reactive,Closed,20.4,25.6,1211.45
+WO-00046,Heartlake Medical Plaza,11/11/2025 15:00,11/12/2025 5:18,Plumbing,P3 - Routine,Preventive,Closed,6.7,14.3,790.49
+WO-00047,Bramalea Logistics Centre,11/11/2025 23:45,11/12/2025 12:51,General Maintenance,P3 - Routine,Reactive,Closed,10.6,13.1,532.72
+WO-00048,Heartlake Medical Plaza,11/12/2025 7:00,11/13/2025 8:48,HVAC,P4 - Low,Preventive,Closed,20.6,25.8,567.51
+WO-00049,Heartlake Medical Plaza,11/12/2025 17:00,11/13/2025 2:06,Grounds & Snow,P3 - Routine,Reactive,Closed,4.3,9.1,1341.32
+WO-00050,Bramalea Logistics Centre,11/13/2025 4:15,11/13/2025 15:57,Plumbing,P3 - Routine,Preventive,Closed,6.7,11.7,495.14
+WO-00051,Heartlake Medical Plaza,11/13/2025 5:15,11/13/2025 13:39,HVAC,P3 - Routine,Preventive,Closed,3.8,8.4,733.63
+WO-00052,Steeles Corporate Campus,11/13/2025 13:00,11/14/2025 8:12,Electrical,P3 - Routine,Reactive,Closed,14.6,19.2,1066.23
+WO-00053,Steeles Corporate Campus,11/13/2025 13:30,11/13/2025 20:54,Plumbing,P3 - Routine,Preventive,Closed,3.2,7.4,501.76
+WO-00054,Bramalea Logistics Centre,11/13/2025 16:15,11/14/2025 1:39,Electrical,P3 - Routine,Preventive,Closed,4,9.4,816.75
+WO-00055,Steeles Corporate Campus,11/13/2025 18:30,11/14/2025 4:18,Plumbing,P3 - Routine,Preventive,Closed,5.8,9.8,412.66
+WO-00056,Bramalea Logistics Centre,11/14/2025 14:00,11/15/2025 15:06,HVAC,P4 - Low,Reactive,Closed,18.2,25.1,712.65
+WO-00057,Bramalea Logistics Centre,11/14/2025 22:45,11/15/2025 5:03,General Maintenance,P3 - Routine,Preventive,Closed,4.9,6.3,192.18
+WO-00058,Steeles Corporate Campus,11/15/2025 20:30,11/17/2025 8:12,Plumbing,P4 - Low,Reactive,Closed,33.4,35.7,499.16
+WO-00059,Bramalea Logistics Centre,11/16/2025 1:15,11/16/2025 13:45,General Maintenance,P3 - Routine,Reactive,Closed,9.6,12.5,387.85
+WO-00060,Steeles Corporate Campus,11/16/2025 10:30,11/16/2025 15:48,Plumbing,P3 - Routine,Preventive,Closed,3.6,5.3,254.75
+WO-00061,Heartlake Medical Plaza,11/17/2025 1:30,11/18/2025 16:42,HVAC,P4 - Low,Preventive,Closed,35.3,39.2,420.95
+WO-00062,Heartlake Medical Plaza,11/17/2025 4:45,11/17/2025 17:15,General Maintenance,P4 - Low,Preventive,Closed,11.5,12.5,157.29
+WO-00063,Heartlake Medical Plaza,11/17/2025 5:00,11/19/2025 12:06,General Maintenance,P4 - Low,Reactive,Closed,50.3,55.1,495.59
+WO-00064,Bramalea Logistics Centre,11/17/2025 17:00,11/18/2025 2:48,Plumbing,P3 - Routine,Preventive,Closed,3.9,9.8,642.39
+WO-00065,Heartlake Medical Plaza,11/18/2025 1:45,11/18/2025 5:45,Grounds & Snow,P3 - Routine,Preventive,Closed,2.8,4,668.34
+WO-00066,Bramalea Logistics Centre,11/18/2025 4:30,11/18/2025 10:00,General Maintenance,P3 - Routine,Preventive,Closed,4.1,5.5,236.55
+WO-00067,Steeles Corporate Campus,11/18/2025 5:00,11/19/2025 1:42,General Maintenance,P3 - Routine,Reactive,Closed,12.8,20.7,769.51
+WO-00068,Steeles Corporate Campus,11/19/2025 7:45,11/19/2025 17:51,Plumbing,P3 - Routine,Reactive,Closed,6.8,10.1,490.55
+WO-00069,Steeles Corporate Campus,11/19/2025 10:15,11/19/2025 21:39,HVAC,P3 - Routine,Preventive,Closed,6.6,11.4,655.24
+WO-00070,Steeles Corporate Campus,11/19/2025 16:00,11/20/2025 3:18,Grounds & Snow,P1 - Emergency,Reactive,Closed,0.4,11.3,1131.24
+WO-00071,Steeles Corporate Campus,11/19/2025 16:15,11/20/2025 6:15,HVAC,P3 - Routine,Preventive,Closed,4.4,14,802.96
+WO-00072,Heartlake Medical Plaza,11/20/2025 3:15,11/20/2025 7:03,Plumbing,P1 - Emergency,Reactive,Closed,0.3,3.8,681.51
+WO-00073,Steeles Corporate Campus,11/20/2025 7:15,11/20/2025 21:03,Electrical,P4 - Low,Reactive,Closed,11,13.8,534.89
+WO-00074,Steeles Corporate Campus,11/20/2025 7:45,11/23/2025 5:45,General Maintenance,P4 - Low,Reactive,Closed,60.3,70,970.05
+WO-00075,Heartlake Medical Plaza,11/20/2025 10:30,11/20/2025 20:42,HVAC,P3 - Routine,Preventive,Closed,5.4,10.2,536.84
+WO-00076,Heartlake Medical Plaza,11/21/2025 3:15,11/21/2025 6:57,Electrical,P2 - Urgent,Reactive,Closed,0.8,3.7,319.7
+WO-00077,Heartlake Medical Plaza,11/21/2025 6:00,11/21/2025 14:36,HVAC,P3 - Routine,Preventive,Closed,3.6,8.6,581.44
+WO-00078,Heartlake Medical Plaza,11/21/2025 8:45,11/22/2025 11:45,General Maintenance,P4 - Low,Reactive,Closed,24.8,27,643.27
+WO-00079,Steeles Corporate Campus,11/21/2025 15:45,11/21/2025 21:39,HVAC,P2 - Urgent,Reactive,Closed,3.2,5.9,496.7
+WO-00080,Steeles Corporate Campus,11/21/2025 18:00,11/22/2025 5:42,Grounds & Snow,P3 - Routine,Preventive,Closed,10.1,11.7,218.05
+WO-00081,Heartlake Medical Plaza,11/21/2025 20:30,11/22/2025 10:00,HVAC,P3 - Routine,Reactive,Closed,3.2,13.5,1648.7
+WO-00082,Bramalea Logistics Centre,11/22/2025 3:00,11/22/2025 11:36,Grounds & Snow,P3 - Routine,Reactive,Closed,4.2,8.6,824.85
+WO-00083,Steeles Corporate Campus,11/22/2025 23:15,11/23/2025 9:51,Grounds & Snow,P3 - Routine,Reactive,Closed,7.3,10.6,670.56
+WO-00084,Bramalea Logistics Centre,11/23/2025 5:45,11/23/2025 23:45,HVAC,P4 - Low,Preventive,Closed,15,18,395.96
+WO-00085,Heartlake Medical Plaza,11/23/2025 11:30,11/24/2025 5:06,HVAC,P4 - Low,Preventive,Closed,11,17.6,732.26
+WO-00086,Steeles Corporate Campus,11/23/2025 19:00,11/25/2025 9:48,General Maintenance,P4 - Low,Preventive,Closed,35.7,38.8,303.9
+WO-00087,Heartlake Medical Plaza,11/24/2025 17:45,11/25/2025 2:45,HVAC,P3 - Routine,Reactive,Closed,4.6,9,641.37
+WO-00088,Bramalea Logistics Centre,11/25/2025 10:30,11/25/2025 16:36,Electrical,P3 - Routine,Preventive,Closed,2.7,6.1,568.61
+WO-00089,Bramalea Logistics Centre,11/26/2025 1:30,11/26/2025 9:54,Plumbing,P3 - Routine,Preventive,Closed,7.3,8.4,180.31
+WO-00090,Steeles Corporate Campus,11/26/2025 2:15,11/26/2025 18:33,Elevator,P1 - Emergency,Reactive,Closed,1,16.3,2591.5
+WO-00091,Heartlake Medical Plaza,11/26/2025 11:00,11/26/2025 18:54,General Maintenance,P3 - Routine,Reactive,Closed,4.2,7.9,389.32
+WO-00092,Bramalea Logistics Centre,11/26/2025 12:45,11/27/2025 7:21,Electrical,P3 - Routine,Reactive,Closed,9.4,18.6,1015.14
+WO-00093,Bramalea Logistics Centre,11/26/2025 19:00,11/27/2025 0:06,General Maintenance,P3 - Routine,Reactive,Closed,3.5,5.1,315.95
+WO-00094,Bramalea Logistics Centre,11/27/2025 1:45,11/27/2025 17:33,Grounds & Snow,P3 - Routine,Preventive,Closed,13.7,15.8,274.38
+WO-00095,Bramalea Logistics Centre,11/27/2025 2:15,11/27/2025 10:09,HVAC,P2 - Urgent,Reactive,Closed,1.4,7.9,727.46
+WO-00096,Bramalea Logistics Centre,11/27/2025 11:15,11/27/2025 18:33,Electrical,P2 - Urgent,Reactive,Closed,2,7.3,748.15
+WO-00097,Steeles Corporate Campus,11/27/2025 16:15,11/28/2025 2:33,Plumbing,P3 - Routine,Reactive,Closed,5.6,10.3,623.04
+WO-00098,Steeles Corporate Campus,11/27/2025 22:45,11/28/2025 13:57,Fire & Life Safety,P3 - Routine,Preventive,Closed,4.5,15.2,1220.3
+WO-00099,Heartlake Medical Plaza,11/28/2025 0:15,11/28/2025 7:15,Grounds & Snow,P3 - Routine,Reactive,Closed,5.7,7,251.65
+WO-00100,Bramalea Logistics Centre,11/28/2025 3:00,11/28/2025 15:30,Electrical,P3 - Routine,Reactive,Closed,3.3,12.5,722.75
+WO-00101,Heartlake Medical Plaza,11/28/2025 4:30,11/29/2025 10:12,HVAC,P4 - Low,Preventive,Closed,22.2,29.7,720.19
+WO-00102,Heartlake Medical Plaza,11/28/2025 22:00,11/29/2025 9:36,Elevator,P2 - Urgent,Reactive,Closed,2.1,11.6,4875.71
+WO-00103,Steeles Corporate Campus,11/29/2025 4:30,11/29/2025 8:36,General Maintenance,P2 - Urgent,Reactive,Closed,1.4,4.1,227.09
+WO-00104,Bramalea Logistics Centre,11/30/2025 4:45,11/30/2025 13:03,Plumbing,P3 - Routine,Reactive,Closed,5.7,8.3,520.26
+WO-00105,Bramalea Logistics Centre,11/30/2025 5:30,11/30/2025 17:54,HVAC,P4 - Low,Preventive,Closed,6.3,12.4,856.09
+WO-00106,Steeles Corporate Campus,11/30/2025 12:00,11/30/2025 20:30,Plumbing,P3 - Routine,Preventive,Closed,5.4,8.5,377.46
+WO-00107,Bramalea Logistics Centre,11/30/2025 22:15,12/1/2025 3:39,Plumbing,P2 - Urgent,Reactive,Closed,1.3,5.4,470.69
+WO-00108,Heartlake Medical Plaza,12/1/2025 2:00,12/1/2025 11:36,HVAC,P3 - Routine,Preventive,Closed,4.1,9.6,1064.21
+WO-00109,Bramalea Logistics Centre,12/1/2025 22:00,12/2/2025 7:36,HVAC,P3 - Routine,Reactive,Closed,3.4,9.6,699.94
+WO-00110,Heartlake Medical Plaza,12/2/2025 13:45,12/3/2025 11:45,Plumbing,P4 - Low,Preventive,Closed,17.3,22,590.64
+WO-00111,Bramalea Logistics Centre,12/2/2025 16:00,12/2/2025 21:48,HVAC,P2 - Urgent,Reactive,Closed,1.2,5.8,916.26
+WO-00112,Bramalea Logistics Centre,12/2/2025 18:45,12/3/2025 5:57,Electrical,P3 - Routine,Preventive,Closed,4.4,11.2,965.65
+WO-00113,Heartlake Medical Plaza,12/2/2025 19:00,12/3/2025 3:24,HVAC,P3 - Routine,Preventive,Closed,1.6,8.4,713.97
+WO-00114,Bramalea Logistics Centre,12/3/2025 11:45,12/4/2025 0:57,Elevator,P3 - Routine,Reactive,Closed,6.7,13.2,1267.96
+WO-00115,Steeles Corporate Campus,12/3/2025 21:30,12/4/2025 7:24,General Maintenance,P3 - Routine,Reactive,Closed,7.4,9.9,228.51
+WO-00116,Steeles Corporate Campus,12/4/2025 3:45,12/4/2025 14:57,HVAC,P3 - Routine,Reactive,Closed,5.7,11.2,726.88
+WO-00117,Bramalea Logistics Centre,12/4/2025 17:00,12/5/2025 6:30,General Maintenance,P3 - Routine,Preventive,Closed,10.6,13.5,350.27
+WO-00118,Heartlake Medical Plaza,12/4/2025 17:45,12/5/2025 10:45,HVAC,P4 - Low,Reactive,Closed,9.6,17,1845.55
+WO-00119,Steeles Corporate Campus,12/4/2025 22:45,12/5/2025 14:15,Electrical,P3 - Routine,Preventive,Closed,12.9,15.5,252.4
+WO-00120,Heartlake Medical Plaza,12/5/2025 1:15,12/6/2025 18:09,HVAC,P4 - Low,Preventive,Closed,30.2,40.9,1077.99
+WO-00121,Bramalea Logistics Centre,12/5/2025 1:30,12/5/2025 22:24,HVAC,P4 - Low,Preventive,Closed,15.3,20.9,720.8
+WO-00122,Bramalea Logistics Centre,12/5/2025 8:00,12/5/2025 19:36,Elevator,P4 - Low,Reactive,Closed,8.3,11.6,869.98
+WO-00123,Heartlake Medical Plaza,12/5/2025 22:45,12/6/2025 9:39,Electrical,P3 - Routine,Preventive,Closed,5.7,10.9,508.41
+WO-00124,Steeles Corporate Campus,12/6/2025 4:45,12/6/2025 20:15,Plumbing,P4 - Low,Preventive,Closed,14.3,15.5,254.32
+WO-00125,Heartlake Medical Plaza,12/8/2025 0:30,12/8/2025 10:24,HVAC,P3 - Routine,Preventive,Closed,3.4,9.9,822.72
+WO-00126,Heartlake Medical Plaza,12/8/2025 2:30,12/9/2025 3:48,Electrical,P4 - Low,Preventive,Closed,21.3,25.3,560.68
+WO-00127,Heartlake Medical Plaza,12/8/2025 3:45,12/8/2025 15:51,Electrical,P3 - Routine,Reactive,Closed,8.6,12.1,496.14
+WO-00128,Bramalea Logistics Centre,12/8/2025 6:45,12/8/2025 10:33,Grounds & Snow,P1 - Emergency,Reactive,Closed,0.9,3.8,538.9
+WO-00129,Heartlake Medical Plaza,12/9/2025 13:00,12/9/2025 19:00,HVAC,P1 - Emergency,Reactive,Closed,0.4,6,1239.5
+WO-00130,Bramalea Logistics Centre,12/9/2025 20:30,12/11/2025 1:18,Elevator,P4 - Low,Reactive,Closed,22.6,28.8,2977.46
+WO-00131,Bramalea Logistics Centre,12/10/2025 0:15,12/10/2025 11:51,HVAC,P3 - Routine,Preventive,Closed,5.8,11.6,878.76
+WO-00132,Steeles Corporate Campus,12/10/2025 9:30,12/10/2025 17:54,Electrical,P3 - Routine,Reactive,Closed,5.3,8.4,615.82
+WO-00133,Heartlake Medical Plaza,12/11/2025 16:15,12/12/2025 5:51,Electrical,P3 - Routine,Preventive,Closed,7.3,13.6,1154.55
+WO-00134,Steeles Corporate Campus,12/11/2025 20:30,12/13/2025 15:06,Grounds & Snow,P4 - Low,Preventive,Closed,40.9,42.6,184.4
+WO-00135,Heartlake Medical Plaza,12/12/2025 2:15,12/12/2025 23:09,HVAC,P3 - Routine,Preventive,Closed,15.6,20.9,1038.67
+WO-00136,Bramalea Logistics Centre,12/12/2025 6:15,12/12/2025 14:39,General Maintenance,P3 - Routine,Preventive,Closed,7.2,8.4,170.1
+WO-00137,Heartlake Medical Plaza,12/12/2025 13:30,12/12/2025 16:36,Grounds & Snow,P2 - Urgent,Reactive,Closed,1.7,3.1,586.01
+WO-00138,Heartlake Medical Plaza,12/13/2025 0:15,12/13/2025 4:57,General Maintenance,P2 - Urgent,Reactive,Closed,1.5,4.7,1715.82
+WO-00139,Steeles Corporate Campus,12/13/2025 8:00,12/13/2025 20:36,Plumbing,P3 - Routine,Preventive,Closed,9.1,12.6,373.63
+WO-00140,Steeles Corporate Campus,12/13/2025 23:45,12/15/2025 22:03,HVAC,P4 - Low,Reactive,Closed,43.7,46.3,642.04
+WO-00141,Heartlake Medical Plaza,12/14/2025 5:30,12/14/2025 11:36,HVAC,P3 - Routine,Preventive,Closed,3.5,6.1,487.26
+WO-00142,Steeles Corporate Campus,12/14/2025 8:45,12/14/2025 15:33,Plumbing,P3 - Routine,Reactive,Closed,3.7,6.8,353.82
+WO-00143,Heartlake Medical Plaza,12/14/2025 16:30,12/15/2025 2:06,Electrical,P3 - Routine,Preventive,Closed,7,9.6,355.34
+WO-00144,Heartlake Medical Plaza,12/14/2025 19:45,12/15/2025 9:57,Plumbing,P3 - Routine,Reactive,Closed,6.2,14.2,903.05
+WO-00145,Bramalea Logistics Centre,12/15/2025 3:15,12/15/2025 14:33,HVAC,P3 - Routine,Reactive,Closed,5.5,11.3,760.66
+WO-00146,Heartlake Medical Plaza,12/15/2025 7:00,12/15/2025 23:48,HVAC,P3 - Routine,Reactive,Closed,10.3,16.8,1826.17
+WO-00147,Steeles Corporate Campus,12/15/2025 9:00,12/16/2025 5:00,HVAC,P4 - Low,Reactive,Closed,11.9,20,835.46
+WO-00148,Steeles Corporate Campus,12/15/2025 12:45,12/16/2025 5:15,General Maintenance,P3 - Routine,Reactive,Closed,9,16.5,677.46
+WO-00149,Steeles Corporate Campus,12/16/2025 0:00,12/16/2025 16:48,Fire & Life Safety,P3 - Routine,Reactive,Closed,8.6,16.8,1377.61
+WO-00150,Steeles Corporate Campus,12/16/2025 1:00,12/16/2025 11:54,General Maintenance,P2 - Urgent,Reactive,Closed,3.6,10.9,703.2
+WO-00151,Heartlake Medical Plaza,12/16/2025 11:30,12/17/2025 0:42,HVAC,P3 - Routine,Reactive,Closed,10.3,13.2,502.33
+WO-00152,Heartlake Medical Plaza,12/17/2025 15:45,12/17/2025 23:57,General Maintenance,P3 - Routine,Reactive,Closed,5.8,8.2,343.56
+WO-00153,Steeles Corporate Campus,12/17/2025 18:00,12/18/2025 3:48,Plumbing,P3 - Routine,Preventive,Closed,8.4,9.8,331.77
+WO-00154,Heartlake Medical Plaza,12/18/2025 4:30,12/19/2025 19:06,General Maintenance,P4 - Low,Preventive,Closed,34.8,38.6,528.82
+WO-00155,Heartlake Medical Plaza,12/18/2025 7:00,12/19/2025 0:36,HVAC,P4 - Low,Preventive,Closed,13.7,17.6,484.04
+WO-00156,Steeles Corporate Campus,12/19/2025 4:15,12/19/2025 11:15,Grounds & Snow,P2 - Urgent,Reactive,Closed,2.3,7,637.37
+WO-00157,Bramalea Logistics Centre,12/19/2025 13:45,12/20/2025 2:57,General Maintenance,P3 - Routine,Reactive,Closed,9.2,13.2,521.95
+WO-00158,Bramalea Logistics Centre,12/20/2025 1:00,12/20/2025 17:48,HVAC,P3 - Routine,Preventive,Closed,12.7,16.8,416.35
+WO-00159,Heartlake Medical Plaza,12/20/2025 5:00,12/20/2025 23:00,Elevator,P2 - Urgent,Reactive,Closed,3.9,18,1720.23
+WO-00160,Steeles Corporate Campus,12/20/2025 5:15,12/20/2025 11:57,Plumbing,P2 - Urgent,Reactive,Closed,2.5,6.7,732.52
+WO-00161,Steeles Corporate Campus,12/20/2025 12:45,12/20/2025 18:45,Plumbing,P3 - Routine,Reactive,Closed,4.1,6,210.03
+WO-00162,Heartlake Medical Plaza,12/20/2025 15:00,12/22/2025 22:18,Fire & Life Safety,P4 - Low,Preventive,Closed,48.2,55.3,988.84
+WO-00163,Bramalea Logistics Centre,12/20/2025 19:30,12/21/2025 15:30,HVAC,P3 - Routine,Reactive,Closed,15.6,20,1179.1
+WO-00164,Heartlake Medical Plaza,12/20/2025 23:30,12/21/2025 13:24,Grounds & Snow,P3 - Routine,Reactive,Closed,8.2,13.9,877.91
+WO-00165,Bramalea Logistics Centre,12/21/2025 7:30,12/21/2025 21:00,Electrical,P3 - Routine,Reactive,Closed,3.8,13.5,995.23
+WO-00166,Heartlake Medical Plaza,12/21/2025 8:15,12/22/2025 11:03,HVAC,P4 - Low,Preventive,Closed,17.3,26.8,1690.35
+WO-00167,Bramalea Logistics Centre,12/21/2025 21:00,12/23/2025 23:18,General Maintenance,P4 - Low,Preventive,Closed,45.5,50.3,443
+WO-00168,Heartlake Medical Plaza,12/22/2025 4:15,12/22/2025 23:51,Elevator,P3 - Routine,Reactive,Closed,16.8,19.6,1326.34
+WO-00169,Bramalea Logistics Centre,12/22/2025 15:15,12/23/2025 2:45,General Maintenance,P3 - Routine,Preventive,Closed,8.9,11.5,312.19
+WO-00170,Bramalea Logistics Centre,12/22/2025 15:15,12/23/2025 8:39,HVAC,P3 - Routine,Reactive,Closed,13.9,17.4,614.86
+WO-00171,Bramalea Logistics Centre,12/22/2025 18:45,12/23/2025 5:45,Electrical,P3 - Routine,Preventive,Closed,8.6,11,392.3
+WO-00172,Bramalea Logistics Centre,12/22/2025 21:15,12/24/2025 3:03,Elevator,P3 - Routine,Preventive,Closed,10.7,29.8,1816.55
+WO-00173,Bramalea Logistics Centre,12/24/2025 3:45,12/24/2025 11:15,HVAC,P2 - Urgent,Reactive,Closed,1.7,7.5,635.41
+WO-00174,Heartlake Medical Plaza,12/24/2025 14:00,12/25/2025 4:48,Electrical,P3 - Routine,Reactive,Closed,7.4,14.8,707.6
+WO-00175,Bramalea Logistics Centre,12/24/2025 17:45,12/25/2025 14:57,HVAC,P3 - Routine,Reactive,Closed,6.8,21.2,1495.13
+WO-00176,Bramalea Logistics Centre,12/24/2025 21:00,12/25/2025 16:54,HVAC,P3 - Routine,Reactive,Closed,9,19.9,1426.67
+WO-00177,Heartlake Medical Plaza,12/25/2025 6:15,12/25/2025 16:27,Electrical,P3 - Routine,Preventive,Closed,7.1,10.2,524.8
+WO-00178,Heartlake Medical Plaza,12/25/2025 10:30,12/25/2025 23:24,HVAC,P3 - Routine,Preventive,Closed,3.6,12.9,1279.12
+WO-00179,Steeles Corporate Campus,12/25/2025 13:00,12/27/2025 4:12,Plumbing,P4 - Low,Reactive,Closed,33.3,39.2,1148.58
+WO-00180,Steeles Corporate Campus,12/25/2025 13:30,12/26/2025 10:12,Electrical,P3 - Routine,Reactive,Closed,10.6,20.7,1110.38
+WO-00181,Heartlake Medical Plaza,12/25/2025 15:30,12/26/2025 13:30,General Maintenance,P3 - Routine,Reactive,Closed,19,22,497.5
+WO-00182,Bramalea Logistics Centre,12/25/2025 23:30,12/26/2025 8:30,Plumbing,P4 - Low,Reactive,Closed,6.7,9,341.51
+WO-00183,Heartlake Medical Plaza,12/25/2025 23:45,12/26/2025 12:39,General Maintenance,P2 - Urgent,Reactive,Closed,2.1,12.9,1060.23
+WO-00184,Bramalea Logistics Centre,12/26/2025 1:15,12/26/2025 12:21,HVAC,P3 - Routine,Preventive,Closed,4.8,11.1,913.03
+WO-00185,Bramalea Logistics Centre,12/26/2025 8:15,12/26/2025 13:09,Fire & Life Safety,P3 - Routine,Preventive,Closed,2,4.9,469.91
+WO-00186,Heartlake Medical Plaza,12/26/2025 10:00,12/27/2025 2:06,Electrical,P4 - Low,Reactive,Closed,12.9,16.1,794.49
+WO-00187,Steeles Corporate Campus,12/26/2025 10:45,12/26/2025 17:57,Electrical,P3 - Routine,Reactive,Closed,4.9,7.2,431.12
+WO-00188,Steeles Corporate Campus,12/26/2025 17:30,12/27/2025 4:06,Electrical,P3 - Routine,Preventive,Closed,7.5,10.6,375
+WO-00189,Heartlake Medical Plaza,12/27/2025 2:00,12/27/2025 8:42,Electrical,P3 - Routine,Reactive,Closed,5.4,6.7,724.99
+WO-00190,Steeles Corporate Campus,12/28/2025 8:15,12/29/2025 7:03,Plumbing,P2 - Urgent,Reactive,Closed,3.1,22.8,2077.91
+WO-00191,Heartlake Medical Plaza,12/28/2025 15:15,12/29/2025 12:51,HVAC,P3 - Routine,Preventive,Closed,17.8,21.6,563.68
+WO-00192,Heartlake Medical Plaza,12/29/2025 2:15,12/30/2025 10:03,General Maintenance,P4 - Low,Preventive,Closed,29.4,31.8,331.08
+WO-00193,Heartlake Medical Plaza,12/29/2025 5:30,12/29/2025 10:36,Plumbing,P2 - Urgent,Reactive,Closed,1.7,5.1,1113.7
+WO-00194,Heartlake Medical Plaza,12/29/2025 6:00,12/29/2025 19:36,HVAC,P2 - Urgent,Reactive,Closed,1.7,13.6,1598.99
+WO-00195,Bramalea Logistics Centre,12/29/2025 10:30,12/29/2025 18:24,Plumbing,P3 - Routine,Reactive,Closed,5.2,7.9,508.88
+WO-00196,Bramalea Logistics Centre,12/29/2025 20:15,12/30/2025 12:39,Elevator,P3 - Routine,Reactive,Closed,3.8,16.4,1673.08
+WO-00197,Steeles Corporate Campus,12/29/2025 21:30,12/30/2025 19:54,HVAC,P3 - Routine,Reactive,Closed,12,22.4,1149.02
+WO-00198,Heartlake Medical Plaza,12/30/2025 3:15,12/30/2025 19:03,Electrical,P4 - Low,Reactive,Closed,11.6,15.8,985.86
+WO-00199,Heartlake Medical Plaza,12/30/2025 17:15,1/2/2026 3:21,HVAC,P4 - Low,Reactive,Closed,54.1,58.1,784.93
+WO-00200,Steeles Corporate Campus,12/31/2025 7:30,12/31/2025 13:18,HVAC,P2 - Urgent,Reactive,Closed,2.1,5.8,533.98
+WO-00201,Heartlake Medical Plaza,12/31/2025 20:30,1/1/2026 5:00,Fire & Life Safety,P3 - Routine,Preventive,Closed,6.4,8.5,1320.76
+WO-00202,Bramalea Logistics Centre,1/1/2026 2:45,1/1/2026 11:45,Electrical,P2 - Urgent,Reactive,Closed,3.1,9,934.41
+WO-00203,Steeles Corporate Campus,1/1/2026 8:15,1/1/2026 15:21,General Maintenance,P3 - Routine,Reactive,Closed,5.4,7.1,321.89
+WO-00204,Steeles Corporate Campus,1/1/2026 8:15,1/2/2026 5:33,General Maintenance,P3 - Routine,Reactive,Closed,19.3,21.3,225.14
+WO-00205,Steeles Corporate Campus,1/1/2026 15:45,1/2/2026 7:45,HVAC,P3 - Routine,Preventive,Closed,9,16,819.93
+WO-00206,Bramalea Logistics Centre,1/1/2026 17:30,1/2/2026 6:30,Fire & Life Safety,P3 - Routine,Preventive,Closed,6.1,13,1034.69
+WO-00207,Heartlake Medical Plaza,1/1/2026 20:45,1/3/2026 16:03,Grounds & Snow,P4 - Low,Preventive,Closed,39.4,43.3,599.54
+WO-00208,Steeles Corporate Campus,1/1/2026 21:00,1/2/2026 5:06,General Maintenance,P3 - Routine,Preventive,Closed,3.4,8.1,387.57
+WO-00209,Steeles Corporate Campus,1/1/2026 21:30,1/2/2026 13:12,Fire & Life Safety,P3 - Routine,Reactive,Closed,7.3,15.7,840.01
+WO-00210,Heartlake Medical Plaza,1/1/2026 23:45,1/2/2026 10:03,HVAC,P3 - Routine,Reactive,Closed,5.6,10.3,850.35
+WO-00211,Bramalea Logistics Centre,1/2/2026 5:15,1/2/2026 13:27,Grounds & Snow,P3 - Routine,Preventive,Closed,4.7,8.2,621.77
+WO-00212,Heartlake Medical Plaza,1/2/2026 9:00,1/2/2026 11:42,Electrical,P3 - Routine,Reactive,Closed,1,2.7,566.39
+WO-00213,Steeles Corporate Campus,1/2/2026 11:15,1/3/2026 3:15,HVAC,P4 - Low,Reactive,Closed,11.9,16,623.09
+WO-00214,Bramalea Logistics Centre,1/2/2026 17:45,1/2/2026 23:57,Electrical,P2 - Urgent,Reactive,Closed,1.3,6.2,582.82
+WO-00215,Bramalea Logistics Centre,1/2/2026 23:45,1/3/2026 23:27,Electrical,P3 - Routine,Reactive,Closed,7.7,23.7,1490.66
+WO-00216,Bramalea Logistics Centre,1/3/2026 0:45,1/3/2026 4:39,Electrical,P2 - Urgent,Reactive,Closed,1.1,3.9,937.59
+WO-00217,Steeles Corporate Campus,1/3/2026 17:00,1/4/2026 2:42,General Maintenance,P3 - Routine,Preventive,Closed,8.7,9.7,89.35
+WO-00218,Bramalea Logistics Centre,1/3/2026 22:00,1/4/2026 7:42,Grounds & Snow,P4 - Low,Preventive,Closed,6.1,9.7,497.44
+WO-00219,Bramalea Logistics Centre,1/4/2026 13:45,1/4/2026 20:27,Electrical,P3 - Routine,Preventive,Closed,4,6.7,505.11
+WO-00220,Steeles Corporate Campus,1/4/2026 18:30,1/5/2026 3:30,General Maintenance,P3 - Routine,Preventive,Closed,7.5,9,177.49
+WO-00221,Steeles Corporate Campus,1/4/2026 18:30,1/6/2026 4:24,HVAC,P4 - Low,Preventive,Closed,25.2,33.9,763.93
+WO-00222,Bramalea Logistics Centre,1/4/2026 23:30,1/6/2026 8:30,Elevator,P3 - Routine,Reactive,Closed,17.6,33,1806.37
+WO-00223,Bramalea Logistics Centre,1/5/2026 9:15,1/5/2026 14:27,General Maintenance,P2 - Urgent,Reactive,Closed,2.7,5.2,306.26
+WO-00224,Bramalea Logistics Centre,1/5/2026 11:15,1/5/2026 17:51,HVAC,P3 - Routine,Preventive,Closed,3.1,6.6,366.73
+WO-00225,Steeles Corporate Campus,1/6/2026 2:15,1/6/2026 20:33,HVAC,P3 - Routine,Reactive,Closed,6.1,18.3,1000.41
+WO-00226,Heartlake Medical Plaza,1/6/2026 3:45,1/6/2026 9:21,Electrical,P3 - Routine,Preventive,Closed,3.9,5.6,407.14
+WO-00227,Bramalea Logistics Centre,1/6/2026 8:30,1/6/2026 18:12,General Maintenance,P3 - Routine,Reactive,Closed,1.8,9.7,738.11
+WO-00228,Bramalea Logistics Centre,1/7/2026 5:30,1/7/2026 12:54,Grounds & Snow,P3 - Routine,Preventive,Closed,3.9,7.4,268.12
+WO-00229,Heartlake Medical Plaza,1/7/2026 6:15,1/7/2026 13:09,Electrical,P3 - Routine,Preventive,Closed,1.6,6.9,619.24
+WO-00230,Steeles Corporate Campus,1/7/2026 7:45,1/7/2026 11:27,Plumbing,P2 - Urgent,Reactive,Closed,1.1,3.7,503.82
+WO-00231,Heartlake Medical Plaza,1/7/2026 23:30,1/8/2026 10:06,HVAC,P4 - Low,Preventive,Closed,8.6,10.6,607.08
+WO-00232,Steeles Corporate Campus,1/8/2026 2:15,1/9/2026 0:09,Plumbing,P4 - Low,Preventive,Closed,16.1,21.9,504.39
+WO-00233,Heartlake Medical Plaza,1/8/2026 16:45,1/9/2026 1:33,HVAC,P2 - Urgent,Reactive,Closed,2.3,8.8,842.83
+WO-00234,Steeles Corporate Campus,1/9/2026 2:30,1/9/2026 14:36,Electrical,P3 - Routine,Preventive,Closed,9.5,12.1,356.33
+WO-00235,Steeles Corporate Campus,1/9/2026 10:45,1/10/2026 6:33,Plumbing,P3 - Routine,Reactive,Closed,8.8,19.8,1060.48
+WO-00236,Bramalea Logistics Centre,1/9/2026 13:00,1/9/2026 23:42,General Maintenance,P3 - Routine,Reactive,Closed,7.6,10.7,369.89
+WO-00237,Bramalea Logistics Centre,1/9/2026 23:15,1/10/2026 12:21,HVAC,P4 - Low,Reactive,Closed,9.6,13.1,630.8
+WO-00238,Heartlake Medical Plaza,1/10/2026 3:15,1/11/2026 13:27,Electrical,P3 - Routine,Preventive,Closed,27.6,34.2,915.52
+WO-00239,Steeles Corporate Campus,1/10/2026 4:45,1/10/2026 16:15,HVAC,P3 - Routine,Preventive,Closed,5.3,11.5,586.3
+WO-00240,Heartlake Medical Plaza,1/10/2026 13:45,1/10/2026 22:45,Electrical,P2 - Urgent,Reactive,Closed,1.8,9,729.82
+WO-00241,Bramalea Logistics Centre,1/10/2026 17:45,1/11/2026 9:57,Elevator,P3 - Routine,Reactive,Closed,8.4,16.2,1364.16
+WO-00242,Heartlake Medical Plaza,1/11/2026 2:00,1/11/2026 7:06,General Maintenance,P2 - Urgent,Reactive,Closed,4.4,5.1,423.36
+WO-00243,Steeles Corporate Campus,1/11/2026 3:15,1/11/2026 16:21,Elevator,P3 - Routine,Reactive,Closed,6,13.1,1293.06
+WO-00244,Bramalea Logistics Centre,1/11/2026 22:15,1/13/2026 2:45,Fire & Life Safety,P2 - Urgent,Reactive,Closed,6.7,28.5,1720.01
+WO-00245,Bramalea Logistics Centre,1/12/2026 4:30,1/12/2026 10:30,Grounds & Snow,P2 - Urgent,Reactive,Closed,1.1,6,630.7
+WO-00246,Steeles Corporate Campus,1/12/2026 12:15,1/13/2026 0:21,Plumbing,P3 - Routine,Preventive,Closed,4.4,12.1,815.53
+WO-00247,Bramalea Logistics Centre,1/12/2026 21:00,1/13/2026 1:12,HVAC,P2 - Urgent,Reactive,Closed,0.7,4.2,1129.45
+WO-00248,Steeles Corporate Campus,1/13/2026 12:30,1/14/2026 9:48,Fire & Life Safety,P3 - Routine,Preventive,Closed,16.9,21.3,630.52
+WO-00249,Bramalea Logistics Centre,1/13/2026 12:45,1/15/2026 7:51,Electrical,P4 - Low,Reactive,Closed,38.6,43.1,529.13
+WO-00250,Heartlake Medical Plaza,1/13/2026 18:00,1/14/2026 5:00,Electrical,P2 - Urgent,Reactive,Closed,2,11,1213.94
+WO-00251,Bramalea Logistics Centre,1/14/2026 6:00,1/15/2026 0:18,HVAC,P4 - Low,Preventive,Closed,13.4,18.3,552.5
+WO-00252,Steeles Corporate Campus,1/15/2026 0:30,1/15/2026 14:24,Plumbing,P4 - Low,Preventive,Closed,12,13.9,261.65
+WO-00253,Bramalea Logistics Centre,1/15/2026 11:45,1/16/2026 2:03,General Maintenance,P3 - Routine,Preventive,Closed,12.9,14.3,224.34
+WO-00254,Steeles Corporate Campus,1/15/2026 13:45,1/16/2026 0:15,Plumbing,P3 - Routine,Preventive,Closed,5.7,10.5,657.78
+WO-00255,Bramalea Logistics Centre,1/15/2026 17:45,1/15/2026 22:09,General Maintenance,P2 - Urgent,Reactive,Closed,3.1,4.4,456.04
+WO-00256,Bramalea Logistics Centre,1/15/2026 18:15,1/16/2026 15:51,Plumbing,P4 - Low,Preventive,Closed,19.9,21.6,564.55
+WO-00257,Heartlake Medical Plaza,1/15/2026 18:45,1/16/2026 6:27,HVAC,P3 - Routine,Preventive,Closed,6.4,11.7,850.17
+WO-00258,Bramalea Logistics Centre,1/15/2026 19:30,1/16/2026 11:24,General Maintenance,P4 - Low,Preventive,Closed,14.3,15.9,359.43
+WO-00259,Heartlake Medical Plaza,1/16/2026 1:15,1/16/2026 13:09,HVAC,P3 - Routine,Preventive,Closed,5.5,11.9,634.91
+WO-00260,Heartlake Medical Plaza,1/16/2026 3:30,1/16/2026 12:12,Fire & Life Safety,P2 - Urgent,Reactive,Closed,3.7,8.7,1520.94
+WO-00261,Heartlake Medical Plaza,1/16/2026 5:15,1/17/2026 7:03,Grounds & Snow,P4 - Low,Preventive,Closed,24.3,25.8,358.12
+WO-00262,Heartlake Medical Plaza,1/17/2026 6:30,1/17/2026 14:42,General Maintenance,P3 - Routine,Preventive,Closed,5.5,8.2,358.28
+WO-00263,Heartlake Medical Plaza,1/17/2026 7:30,1/17/2026 18:54,HVAC,P3 - Routine,Preventive,Closed,5.4,11.4,709.35
+WO-00264,Steeles Corporate Campus,1/17/2026 14:45,1/18/2026 0:21,Fire & Life Safety,P3 - Routine,Preventive,Closed,7.2,9.6,347.54
+WO-00265,Bramalea Logistics Centre,1/17/2026 22:45,1/18/2026 10:39,Fire & Life Safety,P3 - Routine,Reactive,Closed,6.7,11.9,672.43
+WO-00266,Bramalea Logistics Centre,1/18/2026 8:00,1/18/2026 23:06,HVAC,P3 - Routine,Reactive,Closed,3.7,15.1,1338.38
+WO-00267,Bramalea Logistics Centre,1/18/2026 16:15,1/19/2026 16:45,Grounds & Snow,P4 - Low,Preventive,Closed,22.7,24.5,312.64
+WO-00268,Bramalea Logistics Centre,1/19/2026 15:00,1/19/2026 23:48,HVAC,P1 - Emergency,Reactive,Closed,1.1,8.8,1397.5
+WO-00269,Steeles Corporate Campus,1/20/2026 1:45,1/20/2026 5:51,Electrical,P1 - Emergency,Reactive,Closed,0.3,4.1,693.31
+WO-00270,Steeles Corporate Campus,1/20/2026 2:45,1/20/2026 18:39,HVAC,P4 - Low,Reactive,Closed,13.6,15.9,795.01
+WO-00271,Bramalea Logistics Centre,1/20/2026 16:15,1/21/2026 15:03,HVAC,P3 - Routine,Reactive,Closed,7.5,22.8,1547.74
+WO-00272,Steeles Corporate Campus,1/20/2026 23:45,1/21/2026 13:33,Plumbing,P3 - Routine,Preventive,Closed,8.8,13.8,470.64
+WO-00273,Steeles Corporate Campus,1/21/2026 0:30,1/21/2026 13:06,Elevator,P3 - Routine,Reactive,Closed,3.9,12.6,1848.13
+WO-00274,Bramalea Logistics Centre,1/21/2026 18:15,1/22/2026 16:33,Elevator,P4 - Low,Reactive,Closed,16.7,22.3,2325.44
+WO-00275,Steeles Corporate Campus,1/22/2026 11:00,1/23/2026 0:48,Fire & Life Safety,P3 - Routine,Preventive,Closed,10.9,13.8,354.24
+WO-00276,Steeles Corporate Campus,1/22/2026 15:30,1/23/2026 2:24,Plumbing,P2 - Urgent,Reactive,Closed,2,10.9,953.43
+WO-00277,Bramalea Logistics Centre,1/23/2026 4:15,1/25/2026 0:03,Plumbing,P4 - Low,Reactive,Closed,42.4,43.8,235.69
+WO-00278,Bramalea Logistics Centre,1/23/2026 8:15,1/23/2026 15:57,General Maintenance,P2 - Urgent,Reactive,Closed,1.6,7.7,634.5
+WO-00279,Steeles Corporate Campus,1/23/2026 9:00,1/24/2026 17:06,Plumbing,P4 - Low,Reactive,Closed,28.9,32.1,685.12
+WO-00280,Bramalea Logistics Centre,1/23/2026 14:45,1/23/2026 23:03,Electrical,P2 - Urgent,Reactive,Closed,2.2,8.3,1038.65
+WO-00281,Bramalea Logistics Centre,1/24/2026 10:30,1/24/2026 19:00,HVAC,P3 - Routine,Reactive,Closed,6.5,8.5,675.91
+WO-00282,Steeles Corporate Campus,1/24/2026 17:45,1/25/2026 5:09,Plumbing,P3 - Routine,Reactive,Closed,6.3,11.4,682.5
+WO-00283,Heartlake Medical Plaza,1/24/2026 19:30,1/25/2026 9:36,Plumbing,P3 - Routine,Preventive,Closed,5.6,14.1,1211.94
+WO-00284,Bramalea Logistics Centre,1/25/2026 5:15,1/26/2026 15:21,Grounds & Snow,P4 - Low,Reactive,Closed,31.3,34.1,435.96
+WO-00285,Bramalea Logistics Centre,1/25/2026 6:00,1/26/2026 3:00,General Maintenance,P4 - Low,Reactive,Closed,18.9,21,282.05
+WO-00286,Steeles Corporate Campus,1/25/2026 19:30,1/26/2026 13:42,Plumbing,P3 - Routine,Preventive,Closed,14.6,18.2,301.68
+WO-00287,Bramalea Logistics Centre,1/25/2026 20:45,1/25/2026 22:57,General Maintenance,P1 - Emergency,Reactive,Closed,0.4,2.2,541.39
+WO-00288,Steeles Corporate Campus,1/25/2026 22:30,1/26/2026 11:30,Electrical,P3 - Routine,Reactive,Closed,7.7,13,730.19
+WO-00289,Bramalea Logistics Centre,1/25/2026 23:45,1/26/2026 19:39,HVAC,P4 - Low,Reactive,Closed,11.8,19.9,1125.26
+WO-00290,Steeles Corporate Campus,1/26/2026 8:45,1/27/2026 0:51,Elevator,P3 - Routine,Preventive,Closed,3.8,16.1,1626.16
+WO-00291,Bramalea Logistics Centre,1/26/2026 17:30,1/26/2026 21:42,General Maintenance,P2 - Urgent,Reactive,Closed,1.8,4.2,370.79
+WO-00292,Bramalea Logistics Centre,1/26/2026 22:30,1/27/2026 4:54,General Maintenance,P2 - Urgent,Reactive,Closed,3.4,6.4,354.94
+WO-00293,Heartlake Medical Plaza,1/27/2026 1:30,1/27/2026 15:00,HVAC,P3 - Routine,Preventive,Closed,5.7,13.5,887.66
+WO-00294,Heartlake Medical Plaza,1/27/2026 18:30,1/28/2026 6:12,Electrical,P3 - Routine,Reactive,Closed,2.2,11.7,2677.25
+WO-00295,Steeles Corporate Campus,1/28/2026 2:00,1/28/2026 12:42,General Maintenance,P3 - Routine,Reactive,Closed,9.2,10.7,219.17
+WO-00296,Bramalea Logistics Centre,1/28/2026 3:15,1/29/2026 0:15,HVAC,P3 - Routine,Preventive,Closed,8.1,21,975.3
+WO-00297,Bramalea Logistics Centre,1/28/2026 4:00,1/28/2026 13:24,Electrical,P2 - Urgent,Reactive,Closed,1.2,9.4,718.34
+WO-00298,Heartlake Medical Plaza,1/28/2026 10:15,1/28/2026 22:21,Plumbing,P3 - Routine,Preventive,Closed,8.1,12.1,536.09
+WO-00299,Heartlake Medical Plaza,1/28/2026 22:00,1/29/2026 6:06,General Maintenance,P3 - Routine,Preventive,Closed,4.7,8.1,386.33
+WO-00300,Steeles Corporate Campus,1/28/2026 22:15,1/29/2026 11:39,HVAC,P3 - Routine,Preventive,Closed,2.4,13.4,847.87
+WO-00301,Steeles Corporate Campus,1/29/2026 1:45,1/29/2026 11:09,Plumbing,P2 - Urgent,Reactive,Closed,2.5,9.4,832.94
+WO-00302,Heartlake Medical Plaza,1/29/2026 2:15,1/29/2026 15:15,Fire & Life Safety,P3 - Routine,Reactive,Closed,8.5,13,585.64
+WO-00303,Heartlake Medical Plaza,1/29/2026 7:15,1/30/2026 4:33,General Maintenance,P3 - Routine,Reactive,Closed,16.2,21.3,538.92
+WO-00304,Steeles Corporate Campus,1/29/2026 16:45,1/30/2026 5:27,Fire & Life Safety,P3 - Routine,Preventive,Closed,8.2,12.7,478.91
+WO-00305,Heartlake Medical Plaza,1/29/2026 18:00,1/30/2026 5:48,HVAC,P2 - Urgent,Reactive,Closed,1.7,11.8,1461.24
+WO-00306,Steeles Corporate Campus,1/30/2026 2:15,1/30/2026 22:27,HVAC,P3 - Routine,Reactive,Closed,13.1,20.2,947.06
+WO-00307,Heartlake Medical Plaza,1/30/2026 2:30,1/31/2026 17:24,HVAC,P4 - Low,Reactive,Closed,34.6,38.9,600.54
+WO-00308,Bramalea Logistics Centre,1/31/2026 0:45,1/31/2026 7:15,HVAC,P2 - Urgent,Reactive,Closed,1.5,6.5,1104.45
+WO-00309,Bramalea Logistics Centre,1/31/2026 4:00,1/31/2026 10:06,HVAC,P2 - Urgent,Reactive,Closed,1.4,6.1,761.56
+WO-00310,Bramalea Logistics Centre,1/31/2026 6:00,1/31/2026 16:00,HVAC,P3 - Routine,Reactive,Closed,6,10,662.57
+WO-00311,Heartlake Medical Plaza,1/31/2026 10:15,1/31/2026 23:45,Electrical,P3 - Routine,Reactive,Closed,9.3,13.5,612.63
+WO-00312,Heartlake Medical Plaza,2/1/2026 0:45,2/1/2026 19:45,HVAC,P3 - Routine,Reactive,Closed,8.7,19,2243.72
+WO-00313,Heartlake Medical Plaza,2/1/2026 10:30,2/3/2026 7:42,Plumbing,P4 - Low,Preventive,Closed,43.5,45.2,220.93
+WO-00314,Steeles Corporate Campus,2/1/2026 12:00,2/2/2026 12:48,General Maintenance,P3 - Routine,Preventive,Closed,20.9,24.8,379.1
+WO-00315,Steeles Corporate Campus,2/1/2026 18:00,2/2/2026 23:00,HVAC,P4 - Low,Preventive,Closed,24.2,29,678.51
+WO-00316,Heartlake Medical Plaza,2/2/2026 4:00,2/2/2026 14:30,General Maintenance,P3 - Routine,Preventive,Closed,7.8,10.5,242.85
+WO-00317,Bramalea Logistics Centre,2/2/2026 5:45,2/3/2026 0:15,Grounds & Snow,P3 - Routine,Reactive,Closed,9.5,18.5,892.97
+WO-00318,Bramalea Logistics Centre,2/2/2026 9:30,2/3/2026 18:48,Plumbing,P4 - Low,Reactive,Closed,29.5,33.3,569.14
+WO-00319,Heartlake Medical Plaza,2/2/2026 9:45,2/4/2026 15:27,Plumbing,P4 - Low,Preventive,Closed,50.2,53.7,500.59
+WO-00320,Steeles Corporate Campus,2/3/2026 4:45,2/4/2026 1:09,Fire & Life Safety,P4 - Low,Preventive,Closed,15.6,20.4,475.91
+WO-00321,Bramalea Logistics Centre,2/3/2026 6:45,2/3/2026 16:27,HVAC,P2 - Urgent,Reactive,Closed,0.8,9.7,1007.69
+WO-00322,Heartlake Medical Plaza,2/3/2026 7:00,2/3/2026 15:24,HVAC,P3 - Routine,Reactive,Closed,4,8.4,467
+WO-00323,Steeles Corporate Campus,2/3/2026 22:45,2/4/2026 11:57,HVAC,P4 - Low,Preventive,Closed,8.6,13.2,587.39
+WO-00324,Heartlake Medical Plaza,2/4/2026 0:15,2/4/2026 12:45,Electrical,P3 - Routine,Reactive,Closed,5.2,12.5,926.81
+WO-00325,Bramalea Logistics Centre,2/4/2026 2:45,2/6/2026 5:45,Elevator,P3 - Routine,Reactive,Closed,3.3,51,5384.55
+WO-00326,Steeles Corporate Campus,2/4/2026 17:00,2/4/2026 23:06,Plumbing,P2 - Urgent,Reactive,Closed,2.3,6.1,494.96
+WO-00327,Heartlake Medical Plaza,2/4/2026 21:00,2/5/2026 7:06,Plumbing,P4 - Low,Preventive,Closed,8.6,10.1,319.21
+WO-00328,Steeles Corporate Campus,2/5/2026 1:30,2/6/2026 8:48,Grounds & Snow,P4 - Low,Reactive,Closed,28,31.3,409.38
+WO-00329,Bramalea Logistics Centre,2/5/2026 9:00,2/5/2026 13:18,HVAC,P2 - Urgent,Reactive,Closed,1.3,4.3,650.74
+WO-00330,Heartlake Medical Plaza,2/5/2026 16:00,2/6/2026 9:12,Grounds & Snow,P3 - Routine,Reactive,Closed,8.1,17.2,921.11
+WO-00331,Bramalea Logistics Centre,2/6/2026 5:45,2/6/2026 14:15,Electrical,P3 - Routine,Preventive,Closed,4,8.5,496.28
+WO-00332,Bramalea Logistics Centre,2/7/2026 1:45,2/7/2026 18:39,Electrical,P3 - Routine,Reactive,Closed,12.3,16.9,605.59
+WO-00333,Bramalea Logistics Centre,2/7/2026 1:45,2/8/2026 14:03,HVAC,P4 - Low,Preventive,Closed,29.4,36.3,779.31
+WO-00334,Bramalea Logistics Centre,2/7/2026 7:15,2/7/2026 23:57,Elevator,P3 - Routine,Preventive,Closed,6.4,16.7,1837.34
+WO-00335,Heartlake Medical Plaza,2/7/2026 7:15,2/7/2026 15:27,Grounds & Snow,P3 - Routine,Preventive,Closed,4.8,8.2,371.88
+WO-00336,Heartlake Medical Plaza,2/7/2026 15:15,2/8/2026 21:33,HVAC,P3 - Routine,Reactive,Closed,22.4,30.3,1366.14
+WO-00337,Steeles Corporate Campus,2/7/2026 16:15,2/7/2026 22:33,Fire & Life Safety,P3 - Routine,Preventive,Closed,4.7,6.3,318.3
+WO-00338,Steeles Corporate Campus,2/7/2026 21:15,2/8/2026 14:39,General Maintenance,P3 - Routine,Reactive,Closed,12.8,17.4,364.46
+WO-00339,Steeles Corporate Campus,2/8/2026 20:15,2/9/2026 11:39,General Maintenance,P4 - Low,Preventive,Closed,12.8,15.4,216.3
+WO-00340,Bramalea Logistics Centre,2/9/2026 1:00,2/10/2026 13:36,General Maintenance,P4 - Low,Preventive,Closed,34.7,36.6,175.13
+WO-00341,Heartlake Medical Plaza,2/9/2026 20:15,2/10/2026 10:45,HVAC,P3 - Routine,Preventive,Closed,7.7,14.5,784.28
+WO-00342,Steeles Corporate Campus,2/10/2026 5:00,2/10/2026 15:24,HVAC,P2 - Urgent,Reactive,Closed,3.2,10.4,610.81
+WO-00343,Steeles Corporate Campus,2/10/2026 18:00,2/11/2026 17:24,Plumbing,P4 - Low,Reactive,Closed,17.2,23.4,615.54
+WO-00344,Heartlake Medical Plaza,2/11/2026 2:45,2/12/2026 3:15,HVAC,P3 - Routine,Reactive,Closed,14.9,24.5,2206.6
+WO-00345,Heartlake Medical Plaza,2/11/2026 4:45,2/11/2026 16:51,Fire & Life Safety,P3 - Routine,Preventive,Closed,7.6,12.1,605.53
+WO-00346,Heartlake Medical Plaza,2/12/2026 0:30,2/16/2026 0:00,Fire & Life Safety,P4 - Low,Preventive,Closed,93.1,95.5,534.66
+WO-00347,Steeles Corporate Campus,2/12/2026 13:00,2/13/2026 18:30,HVAC,P3 - Routine,Reactive,Closed,14.8,29.5,1844.86
+WO-00348,Heartlake Medical Plaza,2/12/2026 18:00,2/14/2026 6:18,HVAC,P3 - Routine,Reactive,Closed,30,36.3,1330.64
+WO-00349,Bramalea Logistics Centre,2/12/2026 22:30,2/13/2026 4:36,Plumbing,P3 - Routine,Preventive,Closed,3.9,6.1,245.21
+WO-00350,Steeles Corporate Campus,2/13/2026 5:45,2/13/2026 20:21,General Maintenance,P4 - Low,Preventive,Closed,12.8,14.6,346.35
+WO-00351,Heartlake Medical Plaza,2/13/2026 17:45,2/14/2026 16:09,Electrical,P4 - Low,Reactive,Closed,17.6,22.4,667.34
+WO-00352,Heartlake Medical Plaza,2/14/2026 21:00,2/15/2026 6:24,Grounds & Snow,P3 - Routine,Preventive,Closed,7.3,9.4,389.08
+WO-00353,Bramalea Logistics Centre,2/15/2026 21:15,2/16/2026 13:09,General Maintenance,P3 - Routine,Preventive,Closed,12.1,15.9,372.2
+WO-00354,Heartlake Medical Plaza,2/15/2026 23:45,2/16/2026 4:57,Grounds & Snow,P1 - Emergency,Reactive,Closed,0.6,5.2,889.42
+WO-00355,Steeles Corporate Campus,2/16/2026 11:15,2/16/2026 20:09,HVAC,P3 - Routine,Preventive,Closed,6.3,8.9,609.25
+WO-00356,Bramalea Logistics Centre,2/16/2026 11:30,2/17/2026 6:42,HVAC,P4 - Low,Preventive,Closed,17.2,19.2,377.34
+WO-00357,Heartlake Medical Plaza,2/16/2026 17:15,2/16/2026 22:33,Electrical,P1 - Emergency,Reactive,Closed,0.3,5.3,648.67
+WO-00358,Steeles Corporate Campus,2/16/2026 20:30,2/18/2026 14:48,Electrical,P3 - Routine,Reactive,Closed,30.4,42.3,1239.8
+WO-00359,Heartlake Medical Plaza,2/16/2026 22:30,2/17/2026 7:00,Electrical,P3 - Routine,Reactive,Closed,4.7,8.5,743.4
+WO-00360,Heartlake Medical Plaza,2/17/2026 0:30,2/17/2026 10:18,HVAC,P3 - Routine,Preventive,Closed,5.8,9.8,1134.09
+WO-00361,Bramalea Logistics Centre,2/17/2026 6:15,2/17/2026 16:51,General Maintenance,P3 - Routine,Reactive,Closed,8.8,10.6,308.03
+WO-00362,Steeles Corporate Campus,2/18/2026 17:30,2/18/2026 23:00,Elevator,P2 - Urgent,Reactive,Closed,0.9,5.5,693.09
+WO-00363,Bramalea Logistics Centre,2/18/2026 21:45,2/19/2026 3:45,Elevator,P3 - Routine,Preventive,Closed,4,6,564.97
+WO-00364,Heartlake Medical Plaza,2/19/2026 12:45,2/19/2026 19:51,General Maintenance,P3 - Routine,Reactive,Closed,5.1,7.1,377.86
+WO-00365,Bramalea Logistics Centre,2/19/2026 13:15,2/19/2026 21:51,Plumbing,P3 - Routine,Preventive,Closed,6.5,8.6,354.75
+WO-00366,Steeles Corporate Campus,2/19/2026 18:30,2/20/2026 8:18,Fire & Life Safety,P3 - Routine,Reactive,Closed,7.5,13.8,813.79
+WO-00367,Heartlake Medical Plaza,2/20/2026 2:15,2/20/2026 17:27,HVAC,P3 - Routine,Preventive,Closed,6.6,15.2,861.65
+WO-00368,Bramalea Logistics Centre,2/20/2026 2:45,2/20/2026 10:03,Fire & Life Safety,P2 - Urgent,Reactive,Closed,2.6,7.3,673.06
+WO-00369,Heartlake Medical Plaza,2/20/2026 11:45,2/20/2026 21:15,Electrical,P1 - Emergency,Reactive,Closed,0.6,9.5,1449.37
+WO-00370,Bramalea Logistics Centre,2/20/2026 12:15,2/21/2026 8:57,General Maintenance,P3 - Routine,Reactive,Closed,13.4,20.7,621.22
+WO-00371,Heartlake Medical Plaza,2/20/2026 12:15,2/20/2026 23:21,Electrical,P3 - Routine,Preventive,Closed,6.4,11.1,618.79
+WO-00372,Heartlake Medical Plaza,2/20/2026 19:15,2/21/2026 8:39,Electrical,P3 - Routine,Preventive,Closed,2.8,13.4,870.51
+WO-00373,Bramalea Logistics Centre,2/21/2026 7:45,2/22/2026 5:21,Electrical,P4 - Low,Reactive,Closed,15.7,21.6,953.74
+WO-00374,Heartlake Medical Plaza,2/21/2026 12:45,2/23/2026 4:33,General Maintenance,P4 - Low,Preventive,Closed,39.1,39.8,137.64
+WO-00375,Bramalea Logistics Centre,2/21/2026 13:30,2/21/2026 20:24,HVAC,P2 - Urgent,Reactive,Closed,1.6,6.9,1120.8
+WO-00376,Steeles Corporate Campus,2/21/2026 18:30,2/22/2026 21:06,Electrical,P4 - Low,Preventive,Closed,21.9,26.6,487.87
+WO-00377,Steeles Corporate Campus,2/21/2026 19:00,2/22/2026 6:00,Electrical,P3 - Routine,Reactive,Closed,6.5,11,1108.61
+WO-00378,Heartlake Medical Plaza,2/21/2026 19:15,2/22/2026 10:03,Grounds & Snow,P3 - Routine,Reactive,Closed,10,14.8,528.93
+WO-00379,Bramalea Logistics Centre,2/21/2026 22:00,2/22/2026 9:18,Plumbing,P3 - Routine,Reactive,Closed,9,11.3,552.2
+WO-00380,Heartlake Medical Plaza,2/22/2026 11:00,2/22/2026 18:54,Plumbing,P3 - Routine,Reactive,Closed,4.5,7.9,687.68
+WO-00381,Bramalea Logistics Centre,2/22/2026 12:00,2/23/2026 2:54,Plumbing,P3 - Routine,Preventive,Closed,10,14.9,658.91
+WO-00382,Steeles Corporate Campus,2/22/2026 15:00,2/22/2026 17:42,General Maintenance,P1 - Emergency,Reactive,Closed,0.8,2.7,601.98
+WO-00383,Steeles Corporate Campus,2/22/2026 15:15,2/23/2026 7:39,Fire & Life Safety,P3 - Routine,Preventive,Closed,11.1,16.4,749.68
+WO-00384,Bramalea Logistics Centre,2/23/2026 8:00,2/23/2026 16:24,Plumbing,P3 - Routine,Reactive,Closed,6.6,8.4,293.2
+WO-00385,Bramalea Logistics Centre,2/23/2026 9:15,2/23/2026 13:27,Grounds & Snow,P1 - Emergency,Reactive,Closed,0.3,4.2,393.97
+WO-00386,Steeles Corporate Campus,2/23/2026 18:15,2/24/2026 4:09,General Maintenance,P3 - Routine,Preventive,Closed,7.4,9.9,314.23
+WO-00387,Steeles Corporate Campus,2/24/2026 0:15,2/24/2026 13:39,HVAC,P1 - Emergency,Reactive,Closed,0.8,13.4,2598.39
+WO-00388,Steeles Corporate Campus,2/24/2026 11:00,2/25/2026 1:54,HVAC,P3 - Routine,Reactive,Closed,10.9,14.9,865.29
+WO-00389,Steeles Corporate Campus,2/24/2026 15:30,2/25/2026 3:42,Grounds & Snow,P3 - Routine,Preventive,Closed,7.5,12.2,363.84
+WO-00390,Bramalea Logistics Centre,2/24/2026 16:30,2/25/2026 5:54,General Maintenance,P3 - Routine,Preventive,Closed,10.4,13.4,313.74
+WO-00391,Heartlake Medical Plaza,2/25/2026 2:15,2/25/2026 13:21,Plumbing,P3 - Routine,Reactive,Closed,8,11.1,622.64
+WO-00392,Bramalea Logistics Centre,2/25/2026 4:00,2/25/2026 10:48,General Maintenance,P3 - Routine,Reactive,Closed,5.3,6.8,193.3
+WO-00393,Steeles Corporate Campus,2/25/2026 9:00,2/25/2026 23:30,Plumbing,P3 - Routine,Reactive,Closed,9.9,14.5,458.62
+WO-00394,Steeles Corporate Campus,2/25/2026 12:00,2/25/2026 23:48,Elevator,P3 - Routine,Reactive,Closed,8.4,11.8,556.38
+WO-00395,Heartlake Medical Plaza,2/25/2026 12:45,2/26/2026 11:51,General Maintenance,P4 - Low,Preventive,Closed,21.9,23.1,217.02
+WO-00396,Bramalea Logistics Centre,2/25/2026 17:45,2/27/2026 8:09,Plumbing,P4 - Low,Reactive,Closed,34.4,38.4,572.64
+WO-00397,Bramalea Logistics Centre,2/25/2026 23:15,2/27/2026 22:21,Plumbing,P4 - Low,Reactive,Closed,43.6,47.1,734.33
+WO-00398,Bramalea Logistics Centre,2/26/2026 4:15,2/26/2026 19:21,HVAC,P3 - Routine,Preventive,Closed,5.3,15.1,1283.63
+WO-00399,Steeles Corporate Campus,2/26/2026 6:30,2/26/2026 13:12,Fire & Life Safety,P1 - Emergency,Reactive,Closed,0.5,6.7,920.62
+WO-00400,Heartlake Medical Plaza,2/26/2026 17:00,2/27/2026 2:42,General Maintenance,P2 - Urgent,Reactive,Closed,4,9.7,513.37
+WO-00401,Heartlake Medical Plaza,2/26/2026 22:45,2/27/2026 17:33,HVAC,P3 - Routine,Reactive,Closed,10.2,18.8,1181.68
+WO-00402,Heartlake Medical Plaza,2/27/2026 1:45,2/27/2026 10:33,Plumbing,P3 - Routine,Preventive,Closed,1.5,8.8,644.73
+WO-00403,Steeles Corporate Campus,2/27/2026 13:30,2/28/2026 9:00,Fire & Life Safety,P3 - Routine,Preventive,Closed,3.3,19.5,1621.19
+WO-00404,Steeles Corporate Campus,2/27/2026 20:45,2/28/2026 4:27,HVAC,P3 - Routine,Preventive,Closed,3.7,7.7,960.05
+WO-00405,Bramalea Logistics Centre,2/28/2026 12:30,3/2/2026 14:54,HVAC,P4 - Low,Reactive,Closed,44.3,50.4,973.49
+WO-00406,Steeles Corporate Campus,2/28/2026 15:15,3/1/2026 7:57,Plumbing,P3 - Routine,Reactive,Closed,10.8,16.7,639.38
+WO-00407,Steeles Corporate Campus,2/28/2026 16:45,3/1/2026 11:45,Electrical,P1 - Emergency,Reactive,Closed,0.5,19,1739.16
+WO-00408,Heartlake Medical Plaza,2/28/2026 17:15,3/1/2026 11:21,HVAC,P3 - Routine,Reactive,Closed,11.1,18.1,760.17
+WO-00409,Steeles Corporate Campus,3/1/2026 9:15,3/2/2026 1:27,HVAC,P3 - Routine,Preventive,Closed,6.5,16.2,1014.36
+WO-00410,Heartlake Medical Plaza,3/1/2026 13:15,3/1/2026 20:57,Grounds & Snow,P3 - Routine,Preventive,Closed,6.1,7.7,173.97
+WO-00411,Heartlake Medical Plaza,3/2/2026 2:15,3/2/2026 15:51,HVAC,P2 - Urgent,Reactive,Closed,2.2,13.6,1373.23
+WO-00412,Heartlake Medical Plaza,3/2/2026 3:45,3/2/2026 8:39,Electrical,P3 - Routine,Preventive,Closed,3.3,4.9,274.49
+WO-00413,Heartlake Medical Plaza,3/2/2026 5:15,3/3/2026 3:09,Fire & Life Safety,P3 - Routine,Reactive,Closed,12.4,21.9,1146.92
+WO-00414,Heartlake Medical Plaza,3/2/2026 8:00,3/2/2026 12:42,General Maintenance,P1 - Emergency,Reactive,Closed,0.3,4.7,781.15
+WO-00415,Steeles Corporate Campus,3/2/2026 10:30,3/3/2026 9:00,Fire & Life Safety,P3 - Routine,Preventive,Closed,16.7,22.5,434.47
+WO-00416,Steeles Corporate Campus,3/2/2026 12:15,3/3/2026 2:27,Electrical,P3 - Routine,Preventive,Closed,11.4,14.2,313.93
+WO-00417,Bramalea Logistics Centre,3/3/2026 15:30,3/4/2026 0:42,Fire & Life Safety,P2 - Urgent,Reactive,Closed,4.3,9.2,1103.57
+WO-00418,Heartlake Medical Plaza,3/3/2026 16:00,3/3/2026 19:12,General Maintenance,P2 - Urgent,Reactive,Closed,1.8,3.2,220.67
+WO-00419,Bramalea Logistics Centre,3/3/2026 16:45,3/3/2026 23:09,General Maintenance,P3 - Routine,Preventive,Closed,4.9,6.4,235.26
+WO-00420,Heartlake Medical Plaza,3/3/2026 18:45,3/4/2026 1:03,Plumbing,P3 - Routine,Reactive,Closed,4.4,6.3,296.94
+WO-00421,Heartlake Medical Plaza,3/5/2026 0:15,3/5/2026 7:39,Grounds & Snow,P3 - Routine,Preventive,Closed,3.3,7.4,672.41
+WO-00422,Bramalea Logistics Centre,3/5/2026 2:15,3/5/2026 12:57,General Maintenance,P3 - Routine,Preventive,Closed,9.7,10.7,191.51
+WO-00423,Heartlake Medical Plaza,3/5/2026 5:30,3/6/2026 0:18,Elevator,P4 - Low,Preventive,Closed,14.2,18.8,1012.9
+WO-00424,Bramalea Logistics Centre,3/5/2026 7:00,3/5/2026 16:12,Plumbing,P3 - Routine,Preventive,Closed,6.3,9.2,306.87
+WO-00425,Steeles Corporate Campus,3/5/2026 14:15,3/6/2026 4:33,Grounds & Snow,P3 - Routine,Preventive,Closed,9.8,14.3,552.42
+WO-00426,Steeles Corporate Campus,3/6/2026 8:15,3/6/2026 16:57,Plumbing,P2 - Urgent,Reactive,Closed,2,8.7,561.17
+WO-00427,Heartlake Medical Plaza,3/6/2026 8:30,3/7/2026 17:42,HVAC,P4 - Low,Preventive,Closed,26.2,33.2,1482.92
+WO-00428,Steeles Corporate Campus,3/6/2026 13:30,3/6/2026 22:36,General Maintenance,P2 - Urgent,Reactive,Closed,4.2,9.1,519.42
+WO-00429,Heartlake Medical Plaza,3/6/2026 18:00,3/7/2026 8:48,HVAC,P3 - Routine,Preventive,Closed,2.9,14.8,1372.09
+WO-00430,Heartlake Medical Plaza,3/7/2026 10:15,3/7/2026 16:57,Electrical,P1 - Emergency,Reactive,Closed,0.4,6.7,1004.9
+WO-00431,Bramalea Logistics Centre,3/7/2026 17:00,3/8/2026 3:00,Electrical,P2 - Urgent,Reactive,Closed,6.5,10,719.58
+WO-00432,Heartlake Medical Plaza,3/7/2026 20:45,3/8/2026 21:51,Plumbing,P4 - Low,Preventive,Closed,20.4,25.1,722.15
+WO-00433,Steeles Corporate Campus,3/8/2026 0:30,3/8/2026 6:24,General Maintenance,P3 - Routine,Reactive,Closed,3.5,5.9,284.29
+WO-00434,Steeles Corporate Campus,3/8/2026 2:00,3/8/2026 13:06,Electrical,P3 - Routine,Preventive,Closed,8.8,11.1,272.86
+WO-00435,Heartlake Medical Plaza,3/8/2026 19:45,3/9/2026 2:51,Plumbing,P3 - Routine,Reactive,Closed,5.3,7.1,262.48
+WO-00436,Bramalea Logistics Centre,3/8/2026 20:45,3/9/2026 3:15,Fire & Life Safety,P2 - Urgent,Reactive,Closed,3.3,6.5,550.18
+WO-00437,Heartlake Medical Plaza,3/8/2026 22:30,3/9/2026 7:42,HVAC,P3 - Routine,Preventive,Closed,4.2,9.2,603.7
+WO-00438,Steeles Corporate Campus,3/9/2026 2:15,3/9/2026 12:15,Grounds & Snow,P3 - Routine,Reactive,Closed,7.3,10,280.83
+WO-00439,Heartlake Medical Plaza,3/9/2026 7:00,3/9/2026 18:54,Grounds & Snow,P3 - Routine,Preventive,Closed,9.4,11.9,603.28
+WO-00440,Bramalea Logistics Centre,3/10/2026 2:15,3/10/2026 23:27,HVAC,P4 - Low,Preventive,Closed,17.7,21.2,457.71
+WO-00441,Bramalea Logistics Centre,3/10/2026 6:15,3/10/2026 18:15,Plumbing,P3 - Routine,Reactive,Closed,7.1,12,646.51
+WO-00442,Bramalea Logistics Centre,3/10/2026 8:15,3/11/2026 3:33,HVAC,P3 - Routine,Preventive,Closed,15,19.3,504.66
+WO-00443,Bramalea Logistics Centre,3/11/2026 15:00,3/11/2026 22:30,Plumbing,P3 - Routine,Reactive,Closed,4.8,7.5,455.34
+WO-00444,Heartlake Medical Plaza,3/12/2026 5:45,3/12/2026 15:57,HVAC,P2 - Urgent,Reactive,Closed,1,10.2,1770.86
+WO-00445,Steeles Corporate Campus,3/13/2026 2:15,3/13/2026 21:39,General Maintenance,P3 - Routine,Preventive,Closed,17.3,19.4,201.87
+WO-00446,Steeles Corporate Campus,3/13/2026 10:00,3/13/2026 15:12,General Maintenance,P2 - Urgent,Reactive,Closed,3.5,5.2,169.37
+WO-00447,Heartlake Medical Plaza,3/14/2026 16:30,3/15/2026 22:48,Electrical,P4 - Low,Preventive,Closed,24.6,30.3,698.42
+WO-00448,Bramalea Logistics Centre,3/14/2026 22:45,3/15/2026 12:09,Electrical,P4 - Low,Preventive,Closed,10.1,13.4,409.9
+WO-00449,Heartlake Medical Plaza,3/15/2026 1:00,3/15/2026 16:48,General Maintenance,P3 - Routine,Reactive,Closed,11,15.8,570.69
+WO-00450,Bramalea Logistics Centre,3/15/2026 7:30,3/15/2026 19:06,Fire & Life Safety,P3 - Routine,Preventive,Closed,6,11.6,648.51
+WO-00451,Bramalea Logistics Centre,3/15/2026 7:30,3/16/2026 9:12,Electrical,P4 - Low,Reactive,Closed,24.4,25.7,259.14
+WO-00452,Steeles Corporate Campus,3/15/2026 9:00,3/15/2026 15:30,HVAC,P3 - Routine,Preventive,Closed,2.8,6.5,634.38
+WO-00453,Bramalea Logistics Centre,3/15/2026 15:15,3/16/2026 4:09,Electrical,P3 - Routine,Reactive,Closed,7.7,12.9,655.99
+WO-00454,Heartlake Medical Plaza,3/15/2026 17:15,3/15/2026 22:57,General Maintenance,P3 - Routine,Preventive,Closed,4.4,5.7,139.7
+WO-00455,Bramalea Logistics Centre,3/15/2026 18:30,3/16/2026 1:54,Grounds & Snow,P2 - Urgent,Reactive,Closed,1.4,7.4,733.53
+WO-00456,Bramalea Logistics Centre,3/16/2026 7:30,3/16/2026 14:18,Plumbing,P3 - Routine,Preventive,Closed,4.6,6.8,275.79
+WO-00457,Heartlake Medical Plaza,3/16/2026 10:45,3/16/2026 19:33,HVAC,P2 - Urgent,Reactive,Closed,1.3,8.8,1766.9
+WO-00458,Heartlake Medical Plaza,3/16/2026 14:15,3/18/2026 4:09,General Maintenance,P4 - Low,Reactive,Closed,36.6,37.9,293.52
+WO-00459,Bramalea Logistics Centre,3/16/2026 14:45,3/16/2026 17:27,General Maintenance,P1 - Emergency,Reactive,Closed,0.4,2.7,361.38
+WO-00460,Bramalea Logistics Centre,3/16/2026 17:45,3/17/2026 1:33,General Maintenance,P3 - Routine,Preventive,Closed,4.9,7.8,340.12
+WO-00461,Heartlake Medical Plaza,3/16/2026 19:00,3/17/2026 4:30,HVAC,P3 - Routine,Reactive,Closed,4.7,9.5,827.51
+WO-00462,Steeles Corporate Campus,3/16/2026 23:30,3/17/2026 11:18,General Maintenance,P3 - Routine,Reactive,Closed,9.9,11.8,232.25
+WO-00463,Heartlake Medical Plaza,3/17/2026 1:30,3/17/2026 8:12,Grounds & Snow,P2 - Urgent,Reactive,Closed,2.3,6.7,580.6
+WO-00464,Bramalea Logistics Centre,3/17/2026 6:00,3/17/2026 15:30,Plumbing,P3 - Routine,Reactive,Closed,7.7,9.5,629.58
+WO-00465,Heartlake Medical Plaza,3/17/2026 7:15,3/17/2026 13:03,General Maintenance,P2 - Urgent,Reactive,Closed,1.8,5.8,536.51
+WO-00466,Bramalea Logistics Centre,3/17/2026 8:45,3/17/2026 20:03,Fire & Life Safety,P3 - Routine,Preventive,Closed,8.6,11.3,568.6
+WO-00467,Heartlake Medical Plaza,3/18/2026 2:45,3/18/2026 6:15,General Maintenance,P2 - Urgent,Reactive,Closed,1.6,3.5,327.89
+WO-00468,Bramalea Logistics Centre,3/18/2026 6:45,3/18/2026 12:33,Grounds & Snow,P2 - Urgent,Reactive,Closed,5,5.8,295.17
+WO-00469,Steeles Corporate Campus,3/18/2026 10:30,3/18/2026 19:24,Electrical,P3 - Routine,Reactive,Closed,5.9,8.9,605.03
+WO-00470,Heartlake Medical Plaza,3/18/2026 11:30,3/19/2026 6:54,HVAC,P3 - Routine,Reactive,Closed,10.7,19.4,1619.92
+WO-00471,Bramalea Logistics Centre,3/18/2026 23:00,3/19/2026 8:42,Plumbing,P3 - Routine,Reactive,Closed,5.6,9.7,548.33
+WO-00472,Heartlake Medical Plaza,3/19/2026 1:45,3/19/2026 19:57,HVAC,P3 - Routine,Preventive,Closed,6.1,18.2,1649.13
+WO-00473,Steeles Corporate Campus,3/19/2026 3:45,3/19/2026 7:51,Plumbing,P2 - Urgent,Reactive,Closed,2.3,4.1,439.5
+WO-00474,Bramalea Logistics Centre,3/19/2026 14:45,3/20/2026 15:03,HVAC,P2 - Urgent,Reactive,Closed,2.2,24.3,2000.57
+WO-00475,Bramalea Logistics Centre,3/19/2026 16:45,3/20/2026 2:09,Plumbing,P1 - Emergency,Reactive,Closed,1.3,9.4,1028.79
+WO-00476,Steeles Corporate Campus,3/20/2026 0:30,3/21/2026 3:12,Electrical,P4 - Low,Preventive,Closed,25.3,26.7,194.24
+WO-00477,Heartlake Medical Plaza,3/20/2026 5:15,3/20/2026 9:39,General Maintenance,P2 - Urgent,Reactive,Closed,1.2,4.4,460.53
+WO-00478,Steeles Corporate Campus,3/20/2026 14:45,3/20/2026 19:21,Plumbing,P1 - Emergency,Reactive,Closed,0.5,4.6,611.06
+WO-00479,Bramalea Logistics Centre,3/20/2026 21:45,3/21/2026 2:51,General Maintenance,P2 - Urgent,Reactive,Closed,2.7,5.1,282.16
+WO-00480,Bramalea Logistics Centre,3/20/2026 23:30,3/21/2026 10:18,Electrical,P3 - Routine,Reactive,Closed,8.4,10.8,329.5
+WO-00481,Steeles Corporate Campus,3/21/2026 13:45,3/22/2026 0:27,Plumbing,P3 - Routine,Preventive,Closed,9.1,10.7,191.16
+WO-00482,Heartlake Medical Plaza,3/23/2026 11:15,3/23/2026 19:45,Plumbing,P3 - Routine,Preventive,Closed,5.2,8.5,399.6
+WO-00483,Bramalea Logistics Centre,3/23/2026 12:30,3/24/2026 1:18,Grounds & Snow,P3 - Routine,Preventive,Closed,10.2,12.8,304.56
+WO-00484,Bramalea Logistics Centre,3/24/2026 5:30,3/24/2026 21:36,HVAC,P3 - Routine,Reactive,Closed,12.9,16.1,625.33
+WO-00485,Steeles Corporate Campus,3/24/2026 20:15,3/26/2026 0:09,General Maintenance,P4 - Low,Preventive,Closed,26.4,27.9,231
+WO-00486,Steeles Corporate Campus,3/25/2026 3:45,3/25/2026 13:33,Plumbing,P3 - Routine,Reactive,Closed,5.9,9.8,674.71
+WO-00487,Heartlake Medical Plaza,3/25/2026 15:00,3/26/2026 6:36,HVAC,P3 - Routine,Preventive,Closed,9.3,15.6,809.74
+WO-00488,Bramalea Logistics Centre,3/25/2026 18:15,3/25/2026 22:15,Grounds & Snow,P1 - Emergency,Reactive,Closed,0.3,4,1857.11
+WO-00489,Steeles Corporate Campus,3/26/2026 18:15,3/27/2026 4:51,Plumbing,P4 - Low,Reactive,Closed,9.2,10.6,252.24
+WO-00490,Steeles Corporate Campus,3/26/2026 20:15,3/28/2026 1:27,HVAC,P4 - Low,Preventive,Closed,24.7,29.2,1579.36
+WO-00491,Steeles Corporate Campus,3/26/2026 22:15,3/27/2026 19:15,Plumbing,P4 - Low,Preventive,Closed,19.6,21,271.53
+WO-00492,Heartlake Medical Plaza,3/27/2026 4:15,3/28/2026 0:21,HVAC,P3 - Routine,Reactive,Closed,17.1,20.1,587.09
+WO-00493,Heartlake Medical Plaza,3/27/2026 5:45,3/27/2026 15:57,General Maintenance,P3 - Routine,Preventive,Closed,4.2,10.2,528.24
+WO-00494,Bramalea Logistics Centre,3/27/2026 7:00,3/27/2026 15:42,Fire & Life Safety,P2 - Urgent,Reactive,Closed,3.9,8.7,1253.29
+WO-00495,Heartlake Medical Plaza,3/27/2026 7:15,3/28/2026 2:33,Grounds & Snow,P4 - Low,Preventive,Closed,15.9,19.3,406.2
+WO-00496,Heartlake Medical Plaza,3/27/2026 21:00,3/27/2026 22:24,General Maintenance,P2 - Urgent,Reactive,Closed,0.6,1.4,168.8
+WO-00497,Steeles Corporate Campus,3/28/2026 0:00,3/28/2026 12:12,HVAC,P2 - Urgent,Reactive,Closed,1.7,12.2,1205.48
+WO-00498,Bramalea Logistics Centre,3/28/2026 1:45,3/28/2026 5:45,HVAC,P1 - Emergency,Reactive,Closed,0.7,4,811.55
+WO-00499,Steeles Corporate Campus,3/28/2026 7:15,3/28/2026 21:21,HVAC,P3 - Routine,Preventive,Closed,3.3,14.1,1166.35
+WO-00500,Heartlake Medical Plaza,3/28/2026 8:15,3/28/2026 18:09,HVAC,P2 - Urgent,Reactive,Closed,1.6,9.9,1094.37
+WO-00501,Bramalea Logistics Centre,3/28/2026 23:30,3/29/2026 15:48,Electrical,P4 - Low,Preventive,Closed,13.1,16.3,576.95
+WO-00502,Bramalea Logistics Centre,3/29/2026 17:45,3/30/2026 6:45,General Maintenance,P3 - Routine,Preventive,Closed,10.8,13,305.95
+WO-00503,Heartlake Medical Plaza,3/29/2026 22:45,3/31/2026 13:21,General Maintenance,P4 - Low,Preventive,Closed,35.9,38.6,282.51
+WO-00504,Bramalea Logistics Centre,3/30/2026 16:45,3/31/2026 18:51,General Maintenance,P4 - Low,Reactive,Closed,24.5,26.1,212.12
+WO-00505,Heartlake Medical Plaza,3/30/2026 19:45,3/31/2026 20:57,Electrical,P4 - Low,Preventive,Closed,22.3,25.2,603.84
+WO-00506,Bramalea Logistics Centre,3/30/2026 22:00,3/31/2026 11:12,General Maintenance,P3 - Routine,Reactive,Closed,9.7,13.2,410.83
+WO-00507,Heartlake Medical Plaza,3/31/2026 0:45,3/31/2026 11:03,Plumbing,P3 - Routine,Preventive,Closed,7.7,10.3,363.11
+WO-00508,Heartlake Medical Plaza,3/31/2026 8:00,3/31/2026 14:42,Electrical,P3 - Routine,Reactive,Closed,3.4,6.7,701.22
+WO-00509,Bramalea Logistics Centre,3/31/2026 13:15,3/31/2026 22:33,HVAC,P2 - Urgent,Reactive,Closed,1.2,9.3,1298.15
+WO-00510,Heartlake Medical Plaza,3/31/2026 13:15,3/31/2026 20:45,Plumbing,P2 - Urgent,Reactive,Closed,1.8,7.5,915.31
+WO-00511,Steeles Corporate Campus,3/31/2026 13:30,4/1/2026 2:42,Plumbing,P3 - Routine,Preventive,Closed,7.6,13.2,641.2
+WO-00512,Heartlake Medical Plaza,3/31/2026 23:15,4/1/2026 22:45,HVAC,P4 - Low,Preventive,Closed,20,23.5,505.32
+WO-00513,Bramalea Logistics Centre,4/1/2026 1:30,4/1/2026 19:48,Fire & Life Safety,P3 - Routine,Preventive,Closed,8.4,18.3,1105.35
+WO-00514,Heartlake Medical Plaza,4/1/2026 2:00,4/1/2026 20:12,HVAC,P1 - Emergency,Reactive,Closed,0.7,18.2,1721.32
+WO-00515,Steeles Corporate Campus,4/1/2026 22:15,4/2/2026 12:33,Plumbing,P3 - Routine,Reactive,Closed,8.3,14.3,655.41
+WO-00516,Steeles Corporate Campus,4/1/2026 23:15,4/2/2026 17:33,Grounds & Snow,P3 - Routine,Reactive,Closed,15.5,18.3,481
+WO-00517,Bramalea Logistics Centre,4/2/2026 6:00,4/3/2026 7:18,Electrical,P4 - Low,Preventive,Closed,22.1,25.3,342.7
+WO-00518,Steeles Corporate Campus,4/2/2026 21:00,4/3/2026 6:36,General Maintenance,P3 - Routine,Reactive,Closed,8.2,9.6,186.39
+WO-00519,Steeles Corporate Campus,4/2/2026 22:45,4/3/2026 11:57,Plumbing,P4 - Low,Preventive,Closed,11.3,13.2,310.17
+WO-00520,Steeles Corporate Campus,4/3/2026 23:00,4/4/2026 5:42,Electrical,P3 - Routine,Preventive,Closed,1.7,6.7,446.86
+WO-00521,Bramalea Logistics Centre,4/4/2026 11:00,4/5/2026 7:30,HVAC,P4 - Low,Preventive,Closed,17,20.5,998.12
+WO-00522,Bramalea Logistics Centre,4/4/2026 11:00,4/5/2026 10:18,General Maintenance,P4 - Low,Preventive,Closed,20.6,23.3,261.1
+WO-00523,Steeles Corporate Campus,4/4/2026 17:45,4/5/2026 5:21,HVAC,P3 - Routine,Reactive,Closed,4.8,11.6,819.92
+WO-00524,Heartlake Medical Plaza,4/4/2026 18:30,4/5/2026 2:06,Electrical,P1 - Emergency,Reactive,Closed,0.3,7.6,1024.74
+WO-00525,Heartlake Medical Plaza,4/5/2026 0:45,4/5/2026 11:09,Fire & Life Safety,P3 - Routine,Reactive,Closed,8.5,10.4,2049.94
+WO-00526,Steeles Corporate Campus,4/5/2026 2:00,4/5/2026 10:06,Plumbing,P3 - Routine,Preventive,Closed,5.5,8.1,243.06
+WO-00527,Steeles Corporate Campus,4/5/2026 7:15,4/6/2026 1:09,Fire & Life Safety,P4 - Low,Preventive,Closed,13.6,17.9,580.73
+WO-00528,Bramalea Logistics Centre,4/5/2026 14:30,4/6/2026 1:48,Electrical,P2 - Urgent,Reactive,Closed,1.8,11.3,1086.57
+WO-00529,Bramalea Logistics Centre,4/5/2026 16:00,4/5/2026 21:12,Electrical,P2 - Urgent,Reactive,Closed,1.9,5.2,814.99
+WO-00530,Heartlake Medical Plaza,4/7/2026 2:15,4/8/2026 2:57,HVAC,P3 - Routine,Preventive,Closed,4.9,24.7,2419.29
+WO-00531,Bramalea Logistics Centre,4/7/2026 2:15,4/7/2026 7:51,HVAC,P3 - Routine,Preventive,Closed,3.4,5.6,532.14
+WO-00532,Bramalea Logistics Centre,4/7/2026 7:00,4/7/2026 13:30,Grounds & Snow,P2 - Urgent,Reactive,Closed,4.2,6.5,879.97
+WO-00533,Heartlake Medical Plaza,4/7/2026 10:00,4/7/2026 18:24,HVAC,P3 - Routine,Preventive,Closed,5.1,8.4,614.23
+WO-00534,Steeles Corporate Campus,4/7/2026 19:00,4/8/2026 1:06,Plumbing,P3 - Routine,Preventive,Closed,3.9,6.1,284.63
+WO-00535,Bramalea Logistics Centre,4/8/2026 1:15,4/8/2026 12:51,General Maintenance,P3 - Routine,Reactive,Closed,8.3,11.6,513.16
+WO-00536,Steeles Corporate Campus,4/8/2026 8:45,4/9/2026 4:27,HVAC,P4 - Low,Preventive,Closed,15.6,19.7,851.41
+WO-00537,Heartlake Medical Plaza,4/8/2026 13:15,4/9/2026 5:39,HVAC,P3 - Routine,Preventive,Closed,10.6,16.4,1733.26
+WO-00538,Steeles Corporate Campus,4/9/2026 1:00,4/10/2026 0:30,Electrical,P4 - Low,Reactive,Closed,21,23.5,758.39
+WO-00539,Heartlake Medical Plaza,4/9/2026 1:15,4/9/2026 14:03,HVAC,P3 - Routine,Preventive,Closed,8.5,12.8,664.66
+WO-00540,Heartlake Medical Plaza,4/10/2026 1:30,4/10/2026 7:30,General Maintenance,P3 - Routine,Reactive,Closed,4.9,6,428.9
+WO-00541,Bramalea Logistics Centre,4/10/2026 3:45,4/11/2026 6:39,Grounds & Snow,P3 - Routine,Reactive,Closed,17,26.9,1383.3
+WO-00542,Steeles Corporate Campus,4/10/2026 4:00,4/10/2026 15:36,Electrical,P3 - Routine,Reactive,Closed,9,11.6,427.97
+WO-00543,Bramalea Logistics Centre,4/10/2026 6:00,4/10/2026 19:12,HVAC,P3 - Routine,Reactive,Closed,8.2,13.2,694.35
+WO-00544,Steeles Corporate Campus,4/10/2026 22:00,4/11/2026 13:12,HVAC,P3 - Routine,Reactive,Closed,9.2,15.2,963.13
+WO-00545,Steeles Corporate Campus,4/10/2026 23:15,4/11/2026 22:09,HVAC,P3 - Routine,Reactive,Closed,15.1,22.9,1027.84
+WO-00546,Bramalea Logistics Centre,4/10/2026 23:45,4/11/2026 8:27,HVAC,P2 - Urgent,Reactive,Closed,1,8.7,1052.57
+WO-00547,Heartlake Medical Plaza,4/11/2026 5:30,4/11/2026 15:06,Fire & Life Safety,P3 - Routine,Reactive,Closed,5.8,9.6,1703.16
+WO-00548,Bramalea Logistics Centre,4/12/2026 1:00,4/12/2026 22:48,Elevator,P4 - Low,Preventive,Closed,15.4,21.8,985.63
+WO-00549,Bramalea Logistics Centre,4/12/2026 10:45,4/12/2026 18:03,HVAC,P2 - Urgent,Reactive,Closed,2,7.3,585.41
+WO-00550,Bramalea Logistics Centre,4/12/2026 16:45,4/13/2026 3:51,Plumbing,P3 - Routine,Reactive,Closed,7.4,11.1,759.1
+WO-00551,Heartlake Medical Plaza,4/12/2026 17:30,4/12/2026 22:48,Electrical,P3 - Routine,Reactive,Closed,3.1,5.3,1683.45
+WO-00552,Steeles Corporate Campus,4/12/2026 19:00,4/13/2026 1:18,General Maintenance,P3 - Routine,Reactive,Closed,3.4,6.3,354.73
+WO-00553,Bramalea Logistics Centre,4/12/2026 20:30,4/13/2026 7:30,General Maintenance,P3 - Routine,Reactive,Closed,8.2,11,397.07
+WO-00554,Bramalea Logistics Centre,4/13/2026 6:00,4/14/2026 0:18,Electrical,P4 - Low,Reactive,Closed,13.7,18.3,911.66
+WO-00555,Steeles Corporate Campus,4/13/2026 9:30,4/13/2026 18:12,HVAC,P3 - Routine,Reactive,Closed,5.4,8.7,548.72
+WO-00556,Heartlake Medical Plaza,4/13/2026 18:00,4/14/2026 19:00,Grounds & Snow,P4 - Low,Preventive,Closed,20,25,464.43
+WO-00557,Bramalea Logistics Centre,4/13/2026 21:45,4/14/2026 8:03,Grounds & Snow,P2 - Urgent,Reactive,Closed,2.7,10.3,713.08
+WO-00558,Heartlake Medical Plaza,4/14/2026 1:30,4/14/2026 9:42,Electrical,P3 - Routine,Reactive,Closed,3.6,8.2,1225.65
+WO-00559,Heartlake Medical Plaza,4/14/2026 4:30,4/14/2026 21:18,Electrical,P4 - Low,Reactive,Closed,13.3,16.8,597.23
+WO-00560,Bramalea Logistics Centre,4/14/2026 11:15,4/14/2026 17:51,General Maintenance,P2 - Urgent,Reactive,Closed,1.5,6.6,503.71
+WO-00561,Bramalea Logistics Centre,4/14/2026 20:15,4/15/2026 14:27,Elevator,P3 - Routine,Reactive,Closed,5.3,18.2,1682.39
+WO-00562,Bramalea Logistics Centre,4/14/2026 20:30,4/15/2026 6:12,Plumbing,P3 - Routine,Reactive,Closed,6.7,9.7,599.42
+WO-00563,Steeles Corporate Campus,4/14/2026 21:15,4/15/2026 6:51,Plumbing,P3 - Routine,Preventive,Closed,7.6,9.6,290.08
+WO-00564,Steeles Corporate Campus,4/15/2026 0:00,4/15/2026 7:06,Plumbing,P3 - Routine,Preventive,Closed,2.7,7.1,469.64
+WO-00565,Steeles Corporate Campus,4/15/2026 12:00,4/16/2026 10:30,HVAC,P3 - Routine,Preventive,Closed,18,22.5,408.51
+WO-00566,Heartlake Medical Plaza,4/16/2026 1:00,4/16/2026 14:18,Grounds & Snow,P3 - Routine,Preventive,Closed,8.9,13.3,429.13
+WO-00567,Heartlake Medical Plaza,4/16/2026 7:00,4/16/2026 20:12,Grounds & Snow,P3 - Routine,Reactive,Closed,5.7,13.2,857.2
+WO-00568,Heartlake Medical Plaza,4/16/2026 14:15,4/17/2026 3:51,HVAC,P3 - Routine,Reactive,Closed,6,13.6,798.31
+WO-00569,Bramalea Logistics Centre,4/17/2026 2:00,4/17/2026 12:48,Grounds & Snow,P3 - Routine,Preventive,Closed,9.1,10.8,227
+WO-00570,Heartlake Medical Plaza,4/17/2026 5:30,4/18/2026 1:18,General Maintenance,P4 - Low,Preventive,Closed,12.4,19.8,580.53
+WO-00571,Bramalea Logistics Centre,4/17/2026 12:15,4/18/2026 0:51,Plumbing,P3 - Routine,Reactive,Closed,7.1,12.6,927.89
+WO-00572,Steeles Corporate Campus,4/17/2026 12:45,4/18/2026 17:15,HVAC,P4 - Low,Reactive,Closed,25.2,28.5,786.82
+WO-00573,Heartlake Medical Plaza,4/17/2026 13:30,4/18/2026 10:42,Plumbing,P4 - Low,Preventive,Closed,19.2,21.2,382.43
+WO-00574,Heartlake Medical Plaza,4/17/2026 16:00,4/18/2026 8:30,HVAC,P3 - Routine,Reactive,Closed,7.1,16.5,2138.05
+WO-00575,Heartlake Medical Plaza,4/17/2026 23:45,4/18/2026 13:15,Electrical,P3 - Routine,Reactive,Closed,8.2,13.5,1530.65
+WO-00576,Heartlake Medical Plaza,4/18/2026 3:45,4/19/2026 7:03,General Maintenance,P3 - Routine,Reactive,Closed,19.5,27.3,806.45
+WO-00577,Steeles Corporate Campus,4/18/2026 4:30,4/19/2026 3:00,HVAC,P4 - Low,Preventive,Closed,16.8,22.5,660.19
+WO-00578,Bramalea Logistics Centre,4/18/2026 23:30,4/19/2026 10:54,General Maintenance,P3 - Routine,Reactive,Closed,8.8,11.4,346.51
+WO-00579,Bramalea Logistics Centre,4/19/2026 3:15,4/19/2026 12:27,HVAC,P3 - Routine,Preventive,Closed,5.4,9.2,999.7
+WO-00580,Bramalea Logistics Centre,4/19/2026 7:45,4/19/2026 14:57,Electrical,P2 - Urgent,Reactive,Closed,1.8,7.2,508.19
+WO-00581,Steeles Corporate Campus,4/20/2026 0:45,4/20/2026 10:57,Plumbing,P3 - Routine,Preventive,Closed,6.6,10.2,433.25
+WO-00582,Heartlake Medical Plaza,4/20/2026 0:45,4/21/2026 1:21,Grounds & Snow,P4 - Low,Reactive,Closed,21.6,24.6,623.72
+WO-00583,Steeles Corporate Campus,4/20/2026 1:30,4/20/2026 8:06,Plumbing,P3 - Routine,Preventive,Closed,4.5,6.6,262.43
+WO-00584,Heartlake Medical Plaza,4/20/2026 6:45,4/20/2026 22:33,HVAC,P3 - Routine,Reactive,Closed,12.7,15.8,1554.67
+WO-00585,Heartlake Medical Plaza,4/20/2026 7:45,4/21/2026 9:03,Fire & Life Safety,P3 - Routine,Reactive,Closed,12.1,25.3,1236.16
+WO-00586,Steeles Corporate Campus,4/20/2026 11:00,4/21/2026 13:12,Electrical,P4 - Low,Preventive,Closed,23.8,26.2,364.87
+WO-00587,Bramalea Logistics Centre,4/20/2026 11:00,4/20/2026 20:36,General Maintenance,P3 - Routine,Reactive,Closed,6.4,9.6,603.24
+WO-00588,Heartlake Medical Plaza,4/20/2026 16:30,4/20/2026 20:12,Plumbing,P2 - Urgent,Reactive,Closed,1.7,3.7,529.38
+WO-00589,Bramalea Logistics Centre,4/20/2026 23:15,4/21/2026 9:39,HVAC,P3 - Routine,Reactive,Closed,8.9,10.4,365.49
+WO-00590,Bramalea Logistics Centre,4/21/2026 0:30,4/21/2026 13:54,HVAC,P2 - Urgent,Reactive,Closed,4.2,13.4,1119.86
+WO-00591,Steeles Corporate Campus,4/21/2026 2:15,4/21/2026 12:21,Fire & Life Safety,P3 - Routine,Reactive,Closed,5.2,10.1,970.48
+WO-00592,Bramalea Logistics Centre,4/21/2026 6:00,4/21/2026 15:06,Grounds & Snow,P3 - Routine,Reactive,Closed,7.7,9.1,285.15
+WO-00593,Heartlake Medical Plaza,4/22/2026 3:15,4/22/2026 16:45,General Maintenance,P3 - Routine,Reactive,Closed,9.5,13.5,472.13
+WO-00594,Bramalea Logistics Centre,4/22/2026 5:15,4/22/2026 10:15,Grounds & Snow,P2 - Urgent,Reactive,Closed,1.6,5,558.89
+WO-00595,Heartlake Medical Plaza,4/22/2026 6:15,4/22/2026 17:57,Electrical,P4 - Low,Reactive,Closed,9.3,11.7,384.21
+WO-00596,Steeles Corporate Campus,4/23/2026 1:45,4/24/2026 2:33,Fire & Life Safety,P4 - Low,Reactive,Closed,21.8,24.8,1101.31
+WO-00597,Steeles Corporate Campus,4/23/2026 14:00,4/24/2026 4:54,HVAC,P3 - Routine,Preventive,Closed,12.6,14.9,601.79
+WO-00598,Steeles Corporate Campus,4/23/2026 14:00,4/24/2026 9:42,HVAC,P3 - Routine,Preventive,Closed,6.6,19.7,1410.34
+WO-00599,Steeles Corporate Campus,4/23/2026 14:15,4/25/2026 13:51,Electrical,P4 - Low,Reactive,Closed,30.2,47.6,1658.88
+WO-00600,Steeles Corporate Campus,4/23/2026 19:30,4/24/2026 11:54,General Maintenance,P3 - Routine,Reactive,Closed,11.4,16.4,490.32
+WO-00601,Steeles Corporate Campus,4/23/2026 23:30,4/24/2026 10:48,Plumbing,P3 - Routine,Reactive,Closed,7.6,11.3,408.99
+WO-00602,Bramalea Logistics Centre,4/24/2026 4:00,4/25/2026 14:36,HVAC,P4 - Low,Reactive,Closed,13.3,34.6,2562.13
+WO-00603,Bramalea Logistics Centre,4/24/2026 7:15,4/24/2026 22:09,General Maintenance,P3 - Routine,Reactive,Closed,11.3,14.9,419.59
+WO-00604,Heartlake Medical Plaza,4/24/2026 14:45,4/24/2026 23:27,Electrical,P1 - Emergency,Reactive,Closed,0.3,8.7,1935.93
+WO-00605,Steeles Corporate Campus,4/24/2026 15:30,4/25/2026 3:00,HVAC,P2 - Urgent,Reactive,Closed,1.6,11.5,1819.38
+WO-00606,Heartlake Medical Plaza,4/24/2026 22:45,4/28/2026 21:03,Electrical,P4 - Low,Reactive,Closed,84.8,94.3,1147.84
+WO-00607,Steeles Corporate Campus,4/24/2026 22:45,4/25/2026 6:45,Electrical,P2 - Urgent,Reactive,Closed,3.1,8,452.63
+WO-00608,Heartlake Medical Plaza,4/25/2026 7:45,4/25/2026 19:21,Electrical,P3 - Routine,Reactive,Closed,7.2,11.6,609.63
+WO-00609,Heartlake Medical Plaza,4/25/2026 8:30,4/25/2026 11:30,General Maintenance,P2 - Urgent,Reactive,Closed,1.1,3,312.06
+WO-00610,Heartlake Medical Plaza,4/25/2026 10:45,4/26/2026 5:57,Electrical,P3 - Routine,Reactive,Closed,12.6,19.2,798.7
+WO-00611,Heartlake Medical Plaza,4/25/2026 17:30,4/26/2026 9:00,HVAC,P3 - Routine,Preventive,Closed,7.1,15.5,1006.15
+WO-00612,Heartlake Medical Plaza,4/26/2026 16:00,4/27/2026 4:30,Electrical,P3 - Routine,Reactive,Closed,4.6,12.5,1421.43
+WO-00613,Steeles Corporate Campus,4/26/2026 18:30,4/27/2026 7:12,Electrical,P4 - Low,Reactive,Closed,8.8,12.7,448.4
+WO-00614,Bramalea Logistics Centre,4/26/2026 23:15,4/27/2026 9:27,Plumbing,P3 - Routine,Reactive,Closed,5.5,10.2,723.68
+WO-00615,Steeles Corporate Campus,4/26/2026 23:30,4/28/2026 6:18,HVAC,P4 - Low,Preventive,Closed,26.9,30.8,784.21
+WO-00616,Steeles Corporate Campus,4/27/2026 6:00,4/27/2026 11:48,Electrical,P3 - Routine,Preventive,Closed,2.8,5.8,649.29
+WO-00617,Bramalea Logistics Centre,4/27/2026 11:30,4/27/2026 23:00,HVAC,P3 - Routine,Reactive,Closed,8,11.5,941.39
+WO-00618,Heartlake Medical Plaza,4/27/2026 19:45,4/28/2026 8:39,Grounds & Snow,P3 - Routine,Reactive,Closed,10.4,12.9,726.16
+WO-00619,Heartlake Medical Plaza,4/27/2026 21:45,4/28/2026 3:21,Plumbing,P3 - Routine,Preventive,Closed,3.6,5.6,297.39
+WO-00620,Heartlake Medical Plaza,4/28/2026 5:30,4/28/2026 10:36,Fire & Life Safety,P1 - Emergency,Reactive,Closed,0.2,5.1,1427.03
+WO-00621,Heartlake Medical Plaza,4/28/2026 6:15,4/28/2026 17:57,Electrical,P1 - Emergency,Reactive,Closed,0.8,11.7,3693.75
+WO-00622,Steeles Corporate Campus,4/28/2026 6:45,4/28/2026 17:15,Grounds & Snow,P3 - Routine,Reactive,Closed,6.1,10.5,687.46
+WO-00623,Heartlake Medical Plaza,4/28/2026 7:45,4/28/2026 21:45,Elevator,P3 - Routine,Preventive,Closed,7.9,14,934.73
+WO-00624,Bramalea Logistics Centre,4/28/2026 23:00,4/29/2026 10:42,General Maintenance,P3 - Routine,Preventive,Closed,8.7,11.7,479.49
+WO-00625,Heartlake Medical Plaza,4/29/2026 7:30,4/30/2026 3:48,HVAC,P4 - Low,Preventive,Closed,11.9,20.3,852.51
+WO-00626,Heartlake Medical Plaza,4/29/2026 11:30,4/29/2026 21:18,General Maintenance,P3 - Routine,Preventive,Closed,6.1,9.8,317.84
+WO-00627,Bramalea Logistics Centre,4/29/2026 23:45,4/30/2026 17:21,Electrical,P4 - Low,Preventive,Closed,15.8,17.6,301
+WO-00628,Heartlake Medical Plaza,4/30/2026 3:30,5/1/2026 2:36,Fire & Life Safety,P3 - Routine,Reactive,Closed,7.5,23.1,2467.86
+WO-00629,Steeles Corporate Campus,4/30/2026 5:00,4/30/2026 19:36,Plumbing,P3 - Routine,Preventive,Closed,12.7,14.6,283.36
+WO-00630,Bramalea Logistics Centre,4/30/2026 21:15,5/1/2026 7:03,Fire & Life Safety,P3 - Routine,Reactive,Closed,2.3,9.8,1332.91
+WO-00631,Bramalea Logistics Centre,5/1/2026 5:45,5/1/2026 15:57,General Maintenance,P2 - Urgent,Reactive,Closed,1.6,10.2,843.72
+WO-00632,Bramalea Logistics Centre,5/1/2026 8:00,5/1/2026 20:36,General Maintenance,P3 - Routine,Reactive,Closed,8.2,12.6,730.58
+WO-00633,Heartlake Medical Plaza,5/1/2026 9:15,5/2/2026 0:45,Plumbing,P3 - Routine,Preventive,Closed,10.3,15.5,469.22
+WO-00634,Bramalea Logistics Centre,5/1/2026 11:00,5/2/2026 21:42,HVAC,P4 - Low,Preventive,Closed,32.4,34.7,404.36
+WO-00635,Steeles Corporate Campus,5/1/2026 13:00,5/4/2026 19:54,HVAC,P4 - Low,Reactive,Closed,71.8,78.9,858.83
+WO-00636,Steeles Corporate Campus,5/2/2026 5:15,5/2/2026 11:39,General Maintenance,P3 - Routine,Preventive,Closed,5.7,6.4,98.73
+WO-00637,Bramalea Logistics Centre,5/2/2026 7:15,5/3/2026 2:51,HVAC,P3 - Routine,Reactive,Closed,14.9,19.6,902.06
+WO-00638,Bramalea Logistics Centre,5/3/2026 1:45,5/3/2026 12:57,General Maintenance,P3 - Routine,Reactive,Closed,8.9,11.2,229.01
+WO-00639,Heartlake Medical Plaza,5/3/2026 3:30,5/3/2026 9:06,HVAC,P2 - Urgent,Reactive,Closed,2,5.6,879.33
+WO-00640,Steeles Corporate Campus,5/3/2026 3:45,5/3/2026 23:57,Plumbing,P3 - Routine,Reactive,Closed,16.1,20.2,477.38
+WO-00641,Bramalea Logistics Centre,5/3/2026 9:00,5/4/2026 12:12,Elevator,P4 - Low,Reactive,Closed,20.5,27.2,1139.16
+WO-00642,Steeles Corporate Campus,5/3/2026 10:45,5/3/2026 21:33,Plumbing,P3 - Routine,Preventive,Closed,4.6,10.8,589.91
+WO-00643,Bramalea Logistics Centre,5/4/2026 3:30,5/5/2026 2:06,Plumbing,P4 - Low,Preventive,Closed,21.9,22.6,174.43
+WO-00644,Heartlake Medical Plaza,5/4/2026 22:30,5/5/2026 22:18,General Maintenance,P3 - Routine,Reactive,Closed,16.8,23.8,817.1
+WO-00645,Bramalea Logistics Centre,5/4/2026 22:45,5/5/2026 16:09,General Maintenance,P3 - Routine,Reactive,Closed,12,17.4,669.55
+WO-00646,Heartlake Medical Plaza,5/5/2026 12:30,5/6/2026 9:18,Electrical,P4 - Low,Reactive,Closed,18.9,20.8,663.4
+WO-00647,Bramalea Logistics Centre,5/5/2026 13:30,5/5/2026 22:48,Electrical,P1 - Emergency,Reactive,Closed,0.3,9.3,909.37
+WO-00648,Bramalea Logistics Centre,5/5/2026 16:15,5/6/2026 20:33,Electrical,P4 - Low,Reactive,Closed,27.1,28.3,388.42
+WO-00649,Bramalea Logistics Centre,5/5/2026 18:00,5/6/2026 1:00,Grounds & Snow,P3 - Routine,Reactive,Closed,5.5,7,584.02
+WO-00650,Bramalea Logistics Centre,5/5/2026 18:45,5/6/2026 1:39,Plumbing,P3 - Routine,Reactive,Closed,4.1,6.9,692.21
+WO-00651,Steeles Corporate Campus,5/6/2026 0:15,5/6/2026 5:51,Electrical,P2 - Urgent,Reactive,Closed,2.5,5.6,563.52
+WO-00652,Bramalea Logistics Centre,5/6/2026 9:30,5/6/2026 21:18,General Maintenance,P3 - Routine,Preventive,Closed,9.6,11.8,233.83
+WO-00653,Bramalea Logistics Centre,5/6/2026 10:00,5/6/2026 16:06,Electrical,P3 - Routine,Preventive,Closed,5.1,6.1,166.8
+WO-00654,Steeles Corporate Campus,5/6/2026 10:45,5/6/2026 17:21,General Maintenance,P3 - Routine,Reactive,Closed,4.6,6.6,379.09
+WO-00655,Bramalea Logistics Centre,5/6/2026 11:00,5/6/2026 19:48,General Maintenance,P3 - Routine,Preventive,Closed,6.2,8.8,308.81
+WO-00656,Steeles Corporate Campus,5/6/2026 16:00,5/8/2026 14:18,General Maintenance,P4 - Low,Reactive,Closed,45.3,46.3,478.36
+WO-00657,Steeles Corporate Campus,5/8/2026 1:45,5/9/2026 6:51,Fire & Life Safety,P4 - Low,Preventive,Closed,23.8,29.1,829.99
+WO-00658,Bramalea Logistics Centre,5/8/2026 7:00,5/8/2026 18:24,Plumbing,P3 - Routine,Reactive,Closed,6.8,11.4,603.46
+WO-00659,Heartlake Medical Plaza,5/8/2026 9:45,5/9/2026 4:45,General Maintenance,P4 - Low,Reactive,Closed,17.5,19,610.32
+WO-00660,Bramalea Logistics Centre,5/9/2026 2:30,5/9/2026 11:30,HVAC,P3 - Routine,Preventive,Closed,5.4,9,500.59
+WO-00661,Heartlake Medical Plaza,5/9/2026 4:15,5/9/2026 22:45,Plumbing,P4 - Low,Preventive,Closed,16.4,18.5,585.82
+WO-00662,Bramalea Logistics Centre,5/9/2026 5:15,5/9/2026 14:09,Plumbing,P3 - Routine,Preventive,Closed,6.7,8.9,332.19
+WO-00663,Heartlake Medical Plaza,5/9/2026 5:15,5/9/2026 8:21,Plumbing,P2 - Urgent,Reactive,Closed,1.7,3.1,188.79
+WO-00664,Bramalea Logistics Centre,5/9/2026 5:45,5/9/2026 13:39,Elevator,P2 - Urgent,Reactive,Closed,0.8,7.9,837.76
+WO-00665,Bramalea Logistics Centre,5/10/2026 0:00,5/10/2026 7:00,Electrical,P3 - Routine,Preventive,Closed,4.9,7,200.42
+WO-00666,Steeles Corporate Campus,5/10/2026 6:45,5/10/2026 18:21,Grounds & Snow,P2 - Urgent,Reactive,Closed,1.3,11.6,948.89
+WO-00667,Bramalea Logistics Centre,5/10/2026 9:15,5/11/2026 3:33,Elevator,P2 - Urgent,Reactive,Closed,2.5,18.3,2464.3
+WO-00668,Heartlake Medical Plaza,5/10/2026 23:15,5/13/2026 5:57,HVAC,P4 - Low,Reactive,Closed,49.4,54.7,745.15
+WO-00669,Heartlake Medical Plaza,5/11/2026 11:30,5/12/2026 4:24,General Maintenance,P3 - Routine,Reactive,Closed,11.6,16.9,777.12
+WO-00670,Steeles Corporate Campus,5/11/2026 14:30,5/11/2026 22:42,General Maintenance,P3 - Routine,Preventive,Closed,2.8,8.2,543.4
+WO-00671,Steeles Corporate Campus,5/11/2026 15:45,5/12/2026 3:39,HVAC,P3 - Routine,Preventive,Closed,8.6,11.9,550.55
+WO-00672,Heartlake Medical Plaza,5/11/2026 23:00,5/12/2026 14:24,HVAC,P3 - Routine,Preventive,Closed,3.7,15.4,1069.97
+WO-00673,Bramalea Logistics Centre,5/12/2026 22:15,5/13/2026 15:15,Grounds & Snow,P3 - Routine,Reactive,Closed,12.5,17,1073.64
+WO-00674,Bramalea Logistics Centre,5/13/2026 3:00,5/14/2026 6:00,HVAC,P4 - Low,Reactive,Closed,15.3,27,1071.76
+WO-00675,Bramalea Logistics Centre,5/13/2026 10:45,5/13/2026 20:33,Elevator,P3 - Routine,Preventive,Closed,6.9,9.8,590.03
+WO-00676,Bramalea Logistics Centre,5/13/2026 16:00,5/14/2026 5:42,General Maintenance,P3 - Routine,Reactive,Closed,10,13.7,534.94
+WO-00677,Bramalea Logistics Centre,5/14/2026 1:45,5/14/2026 15:33,HVAC,P3 - Routine,Reactive,Closed,8.9,13.8,891.87
+WO-00678,Bramalea Logistics Centre,5/14/2026 3:30,5/14/2026 18:54,Elevator,P3 - Routine,Reactive,Closed,4.5,15.4,1411.49
+WO-00679,Steeles Corporate Campus,5/14/2026 7:15,5/15/2026 9:27,HVAC,P3 - Routine,Preventive,Closed,16,26.2,1106.81
+WO-00680,Bramalea Logistics Centre,5/15/2026 0:00,5/16/2026 0:36,Elevator,P3 - Routine,Reactive,Closed,11.4,24.6,1502.75
+WO-00681,Bramalea Logistics Centre,5/16/2026 3:45,5/16/2026 14:27,Plumbing,P3 - Routine,Preventive,Closed,8.4,10.7,207.52
+WO-00682,Heartlake Medical Plaza,5/16/2026 16:00,5/17/2026 7:36,HVAC,P4 - Low,Reactive,Closed,9.3,15.6,1404.53
+WO-00683,Bramalea Logistics Centre,5/16/2026 23:30,5/17/2026 6:42,Grounds & Snow,P3 - Routine,Reactive,Closed,6.1,7.2,211.64
+WO-00684,Bramalea Logistics Centre,5/17/2026 0:00,5/17/2026 11:12,HVAC,P3 - Routine,Reactive,Closed,7.9,11.2,444.61
+WO-00685,Heartlake Medical Plaza,5/17/2026 8:45,5/17/2026 20:45,HVAC,P3 - Routine,Preventive,Closed,6.6,12,593.37
+WO-00686,Heartlake Medical Plaza,5/17/2026 16:15,5/19/2026 0:09,Grounds & Snow,P4 - Low,Reactive,Closed,29.1,31.9,385.11
+WO-00687,Bramalea Logistics Centre,5/17/2026 23:45,5/18/2026 14:45,Fire & Life Safety,P2 - Urgent,Reactive,Closed,1.8,15,1720.91
+WO-00688,Bramalea Logistics Centre,5/18/2026 9:00,5/18/2026 23:06,Elevator,P2 - Urgent,Reactive,Closed,2.7,14.1,1222.85
+WO-00689,Heartlake Medical Plaza,5/18/2026 11:15,5/19/2026 1:51,Elevator,P3 - Routine,Reactive,Closed,6.1,14.6,1300.63
+WO-00690,Steeles Corporate Campus,5/18/2026 18:00,5/19/2026 6:36,General Maintenance,P3 - Routine,Preventive,Closed,10.9,12.6,221.2
+WO-00691,Bramalea Logistics Centre,5/18/2026 22:15,5/19/2026 8:39,Grounds & Snow,P3 - Routine,Preventive,Closed,7.3,10.4,317.49
+WO-00692,Bramalea Logistics Centre,5/19/2026 2:00,5/19/2026 14:48,Fire & Life Safety,P3 - Routine,Preventive,Closed,11.5,12.8,161.9
+WO-00693,Heartlake Medical Plaza,5/19/2026 10:00,5/20/2026 16:06,General Maintenance,P4 - Low,Preventive,Closed,27.3,30.1,262.41
+WO-00694,Bramalea Logistics Centre,5/19/2026 20:45,5/20/2026 17:15,Electrical,P3 - Routine,Reactive,Closed,15,20.5,947.37
+WO-00695,Steeles Corporate Campus,5/19/2026 22:15,5/20/2026 11:57,Plumbing,P3 - Routine,Preventive,Closed,7.8,13.7,634.64
+WO-00696,Steeles Corporate Campus,5/20/2026 6:30,5/20/2026 23:48,General Maintenance,P4 - Low,Reactive,Closed,15.4,17.3,329.82
+WO-00697,Heartlake Medical Plaza,5/20/2026 20:30,5/21/2026 8:24,Plumbing,P3 - Routine,Reactive,Closed,6.6,11.9,763.07
+WO-00698,Steeles Corporate Campus,5/21/2026 2:45,5/21/2026 19:45,General Maintenance,P3 - Routine,Reactive,Closed,15.6,17,248.46
+WO-00699,Steeles Corporate Campus,5/21/2026 5:15,5/21/2026 12:45,General Maintenance,P3 - Routine,Preventive,Closed,5.2,7.5,272.14
+WO-00700,Bramalea Logistics Centre,5/21/2026 7:45,5/21/2026 22:27,Electrical,P3 - Routine,Preventive,Closed,12.1,14.7,605.51
+WO-00701,Heartlake Medical Plaza,5/21/2026 12:30,5/21/2026 20:24,General Maintenance,P3 - Routine,Preventive,Closed,4.1,7.9,335.72
+WO-00702,Steeles Corporate Campus,5/21/2026 23:30,5/22/2026 18:00,HVAC,P2 - Urgent,Reactive,Closed,1.3,18.5,1679.05
+WO-00703,Heartlake Medical Plaza,5/22/2026 3:00,5/22/2026 13:30,General Maintenance,P3 - Routine,Preventive,Closed,9,10.5,157.87
+WO-00704,Steeles Corporate Campus,5/22/2026 3:00,5/22/2026 14:00,Electrical,P3 - Routine,Reactive,Closed,9.9,11,226.19
+WO-00705,Bramalea Logistics Centre,5/22/2026 19:15,5/23/2026 2:57,Plumbing,P3 - Routine,Preventive,Closed,4.1,7.7,451.95
+WO-00706,Bramalea Logistics Centre,5/22/2026 19:15,5/23/2026 8:39,HVAC,P2 - Urgent,Reactive,Closed,3.4,13.4,1364.01
+WO-00707,Steeles Corporate Campus,5/22/2026 22:45,5/23/2026 21:03,Elevator,P4 - Low,Reactive,Closed,18.5,22.3,693.41
+WO-00708,Steeles Corporate Campus,5/22/2026 22:45,5/23/2026 14:27,HVAC,P3 - Routine,Preventive,Closed,12.2,15.7,507.96
+WO-00709,Bramalea Logistics Centre,5/23/2026 3:00,5/23/2026 10:36,Grounds & Snow,P2 - Urgent,Reactive,Closed,4.9,7.6,648.02
+WO-00710,Heartlake Medical Plaza,5/23/2026 14:15,5/24/2026 2:27,Grounds & Snow,P3 - Routine,Reactive,Closed,8.7,12.2,567.87
+WO-00711,Heartlake Medical Plaza,5/24/2026 1:00,5/24/2026 19:42,HVAC,P3 - Routine,Preventive,Closed,6.5,18.7,1279.49
+WO-00712,Bramalea Logistics Centre,5/24/2026 1:00,5/24/2026 5:12,HVAC,P1 - Emergency,Reactive,Closed,0.7,4.2,1063.23
+WO-00713,Heartlake Medical Plaza,5/24/2026 6:15,5/24/2026 13:45,Electrical,P2 - Urgent,Reactive,Closed,1.1,7.5,656.36
+WO-00714,Heartlake Medical Plaza,5/24/2026 17:15,5/24/2026 22:39,Electrical,P2 - Urgent,Reactive,Closed,1.3,5.4,952.3
+WO-00715,Steeles Corporate Campus,5/25/2026 4:30,5/25/2026 19:00,Grounds & Snow,P4 - Low,Reactive,Closed,10.7,14.5,418.24
+WO-00716,Bramalea Logistics Centre,5/25/2026 19:15,5/26/2026 8:15,General Maintenance,P3 - Routine,Reactive,Closed,8.4,13,475.1
+WO-00717,Bramalea Logistics Centre,5/26/2026 16:30,5/27/2026 6:42,General Maintenance,P3 - Routine,Reactive,Closed,12.6,14.2,213.84
+WO-00718,Heartlake Medical Plaza,5/26/2026 17:30,5/27/2026 5:36,General Maintenance,P4 - Low,Preventive,Closed,11.5,12.1,300.43
+WO-00719,Heartlake Medical Plaza,5/27/2026 16:45,5/28/2026 4:33,Grounds & Snow,P3 - Routine,Preventive,Closed,9.6,11.8,351.47
+WO-00720,Bramalea Logistics Centre,5/28/2026 10:00,5/28/2026 17:24,HVAC,P3 - Routine,Preventive,Closed,4.7,7.4,332.05
+WO-00721,Bramalea Logistics Centre,5/28/2026 13:30,5/28/2026 20:54,General Maintenance,P3 - Routine,Preventive,Closed,5.7,7.4,234.77
+WO-00722,Steeles Corporate Campus,5/28/2026 14:15,5/29/2026 4:09,HVAC,P3 - Routine,Reactive,Closed,5.6,13.9,764.18
+WO-00723,Heartlake Medical Plaza,5/28/2026 18:30,5/29/2026 17:42,HVAC,P1 - Emergency,Reactive,Closed,0.6,23.2,2728.07
+WO-00724,Heartlake Medical Plaza,5/29/2026 7:45,5/29/2026 19:51,General Maintenance,P3 - Routine,Reactive,Closed,8.9,12.1,372.66
+WO-00725,Bramalea Logistics Centre,5/29/2026 14:45,5/30/2026 3:33,Electrical,P3 - Routine,Reactive,Closed,7.5,12.8,838.51
+WO-00726,Heartlake Medical Plaza,5/30/2026 11:30,5/30/2026 19:54,Electrical,P3 - Routine,Preventive,Closed,3.5,8.4,482.94
+WO-00727,Steeles Corporate Campus,5/31/2026 6:15,5/31/2026 20:45,HVAC,P3 - Routine,Reactive,Closed,4.9,14.5,1035.33
+WO-00728,Bramalea Logistics Centre,5/31/2026 11:45,5/31/2026 23:21,HVAC,P3 - Routine,Reactive,Closed,6.4,11.6,747.86
+WO-00729,Heartlake Medical Plaza,5/31/2026 22:00,6/1/2026 8:06,Plumbing,P3 - Routine,Preventive,Closed,7.2,10.1,605.02
+WO-00730,Steeles Corporate Campus,6/1/2026 7:15,6/2/2026 8:45,General Maintenance,P4 - Low,Reactive,Closed,20.5,25.5,684.07
+WO-00731,Heartlake Medical Plaza,6/1/2026 11:45,6/3/2026 3:15,Plumbing,P4 - Low,Reactive,Closed,37.7,39.5,783.35
+WO-00732,Bramalea Logistics Centre,6/1/2026 20:00,6/2/2026 15:54,Plumbing,P3 - Routine,Reactive,Closed,17.3,19.9,637.26
+WO-00733,Steeles Corporate Campus,6/3/2026 1:15,6/3/2026 16:27,Plumbing,P3 - Routine,Reactive,Closed,12.5,15.2,553.62
+WO-00734,Steeles Corporate Campus,6/3/2026 3:45,6/4/2026 3:33,Electrical,P3 - Routine,Preventive,Closed,15.3,23.8,1046.9
+WO-00735,Heartlake Medical Plaza,6/3/2026 9:45,6/4/2026 4:45,General Maintenance,P4 - Low,Preventive,Closed,18,19,256.77
+WO-00736,Bramalea Logistics Centre,6/3/2026 22:15,6/4/2026 23:09,Plumbing,P4 - Low,Preventive,Closed,22.4,24.9,546.59
+WO-00737,Steeles Corporate Campus,6/4/2026 8:15,6/4/2026 14:45,HVAC,P2 - Urgent,Reactive,Closed,1.7,6.5,646.11
+WO-00738,Steeles Corporate Campus,6/5/2026 14:45,6/5/2026 20:57,General Maintenance,P3 - Routine,Preventive,Closed,3.2,6.2,423.19
+WO-00739,Bramalea Logistics Centre,6/5/2026 16:15,6/6/2026 1:15,Plumbing,P3 - Routine,Preventive,Closed,6.6,9,297.79
+WO-00740,Heartlake Medical Plaza,6/6/2026 15:45,6/7/2026 6:15,Plumbing,P3 - Routine,Reactive,Closed,8.8,14.5,646.5
+WO-00741,Heartlake Medical Plaza,6/6/2026 21:00,6/7/2026 1:06,Grounds & Snow,P2 - Urgent,Reactive,Closed,0.9,4.1,431.71
+WO-00742,Steeles Corporate Campus,6/7/2026 15:30,6/8/2026 3:36,HVAC,P3 - Routine,Reactive,Closed,6.1,12.1,912.3
+WO-00743,Heartlake Medical Plaza,6/8/2026 0:30,6/8/2026 13:06,HVAC,P3 - Routine,Preventive,Closed,7.8,12.6,553.72
+WO-00744,Bramalea Logistics Centre,6/8/2026 0:30,6/9/2026 0:18,Fire & Life Safety,P3 - Routine,Reactive,Closed,14.9,23.8,912.82
+WO-00745,Bramalea Logistics Centre,6/8/2026 4:45,6/8/2026 13:39,General Maintenance,P3 - Routine,Reactive,Closed,4.1,8.9,577.36
+WO-00746,Bramalea Logistics Centre,6/9/2026 1:45,6/9/2026 10:57,HVAC,P2 - Urgent,Reactive,Closed,2.9,9.2,786.65
+WO-00747,Steeles Corporate Campus,6/9/2026 7:45,6/9/2026 16:45,HVAC,P3 - Routine,Reactive,Closed,3.7,9,1255.71
+WO-00748,Bramalea Logistics Centre,6/9/2026 13:15,6/10/2026 19:21,HVAC,P4 - Low,Preventive,Closed,26.9,30.1,435.68
+WO-00749,Bramalea Logistics Centre,6/10/2026 10:30,6/11/2026 3:18,Plumbing,P3 - Routine,Reactive,Closed,5.1,16.8,910.89
+WO-00750,Heartlake Medical Plaza,6/11/2026 2:00,6/11/2026 11:42,Grounds & Snow,P3 - Routine,Preventive,Closed,8.6,9.7,273.48
+WO-00751,Heartlake Medical Plaza,6/11/2026 2:30,6/11/2026 15:42,General Maintenance,P3 - Routine,Preventive,Closed,9.7,13.2,470.07
+WO-00752,Bramalea Logistics Centre,6/11/2026 9:30,6/12/2026 3:42,Grounds & Snow,P4 - Low,Reactive,Closed,12.9,18.2,565.5
+WO-00753,Steeles Corporate Campus,6/11/2026 12:30,6/12/2026 7:06,Plumbing,P4 - Low,Reactive,Closed,13.9,18.6,789.4
+WO-00754,Steeles Corporate Campus,6/11/2026 16:15,6/12/2026 4:27,Electrical,P3 - Routine,Reactive,Closed,9.2,12.2,921.35
+WO-00755,Heartlake Medical Plaza,6/12/2026 23:15,6/14/2026 4:57,Elevator,P4 - Low,Reactive,Closed,25.8,29.7,1056.27
+WO-00756,Bramalea Logistics Centre,6/13/2026 12:45,6/14/2026 2:57,Fire & Life Safety,P3 - Routine,Reactive,Closed,11.7,14.2,1186.36
+WO-00757,Bramalea Logistics Centre,6/13/2026 17:00,6/13/2026 21:42,Plumbing,P2 - Urgent,Reactive,Closed,1.4,4.7,451.32
+WO-00758,Steeles Corporate Campus,6/15/2026 17:30,6/16/2026 0:18,Plumbing,P3 - Routine,Preventive,Closed,4.5,6.8,291.31
+WO-00759,Bramalea Logistics Centre,6/16/2026 8:00,6/17/2026 0:54,Electrical,P3 - Routine,Reactive,Closed,4,16.9,1230.65
+WO-00760,Bramalea Logistics Centre,6/16/2026 12:30,6/17/2026 2:54,Fire & Life Safety,P3 - Routine,Preventive,Closed,7.5,14.4,932.61
+WO-00761,Steeles Corporate Campus,6/17/2026 11:45,6/17/2026 18:15,General Maintenance,P2 - Urgent,Reactive,Closed,2.3,6.5,404.85
+WO-00762,Bramalea Logistics Centre,6/17/2026 13:15,6/18/2026 0:51,Fire & Life Safety,P3 - Routine,Preventive,Closed,9.3,11.6,418.63
+WO-00763,Heartlake Medical Plaza,6/17/2026 18:30,6/18/2026 1:42,General Maintenance,P2 - Urgent,Reactive,Closed,4,7.2,276.47
+WO-00764,Steeles Corporate Campus,6/17/2026 21:00,6/19/2026 16:06,Grounds & Snow,P4 - Low,Reactive,Closed,41,43.1,306.55
+WO-00765,Steeles Corporate Campus,6/17/2026 23:15,6/18/2026 20:51,Grounds & Snow,P3 - Routine,Reactive,Closed,20,21.6,276.53
+WO-00766,Bramalea Logistics Centre,6/18/2026 1:15,6/19/2026 5:51,Grounds & Snow,P4 - Low,Reactive,Closed,24.5,28.6,514.99
+WO-00767,Steeles Corporate Campus,6/18/2026 3:15,6/20/2026 1:03,Plumbing,P4 - Low,Reactive,Closed,42.8,45.8,522.59
+WO-00768,Bramalea Logistics Centre,6/18/2026 10:15,6/19/2026 23:27,Plumbing,P4 - Low,Reactive,Closed,31.1,37.2,813.72
+WO-00769,Bramalea Logistics Centre,6/18/2026 11:00,6/19/2026 9:54,Electrical,P3 - Routine,Preventive,Closed,10.1,22.9,1043.08
+WO-00770,Heartlake Medical Plaza,6/18/2026 15:30,6/19/2026 4:12,Plumbing,P3 - Routine,Reactive,Closed,10,12.7,384.13
+WO-00771,Steeles Corporate Campus,6/18/2026 20:30,6/19/2026 17:00,HVAC,P2 - Urgent,Reactive,Closed,2.3,20.5,1729.95
+WO-00772,Steeles Corporate Campus,6/18/2026 23:15,6/19/2026 10:33,Elevator,P1 - Emergency,Reactive,Closed,1,11.3,2625.69
+WO-00773,Bramalea Logistics Centre,6/19/2026 18:00,6/20/2026 3:30,General Maintenance,P3 - Routine,Preventive,Closed,7,9.5,296.75
+WO-00774,Steeles Corporate Campus,6/20/2026 6:30,6/20/2026 21:48,HVAC,P3 - Routine,Preventive,Closed,10.1,15.3,534.13
+WO-00775,Bramalea Logistics Centre,6/20/2026 15:15,6/21/2026 2:21,HVAC,P3 - Routine,Reactive,Closed,5.9,11.1,585.58
+WO-00776,Bramalea Logistics Centre,6/20/2026 20:15,6/21/2026 14:03,HVAC,P4 - Low,Preventive,Closed,13,17.8,510.52
+WO-00777,Bramalea Logistics Centre,6/21/2026 1:45,6/21/2026 9:03,General Maintenance,P3 - Routine,Preventive,Closed,6.1,7.3,226.2
+WO-00778,Bramalea Logistics Centre,6/21/2026 14:15,6/22/2026 18:33,General Maintenance,P4 - Low,Preventive,Closed,26.1,28.3,210.65
+WO-00779,Steeles Corporate Campus,6/22/2026 1:45,6/23/2026 7:21,General Maintenance,P4 - Low,Preventive,Closed,27.8,29.6,180.2
+WO-00780,Heartlake Medical Plaza,6/22/2026 5:00,6/22/2026 12:18,General Maintenance,P3 - Routine,Reactive,Closed,5.2,7.3,268.89
+WO-00781,Steeles Corporate Campus,6/22/2026 14:00,6/23/2026 17:36,Fire & Life Safety,P4 - Low,Preventive,Closed,22.1,27.6,570.4
+WO-00782,Bramalea Logistics Centre,6/22/2026 16:30,6/23/2026 20:06,HVAC,P4 - Low,Preventive,Closed,16,27.6,1029.67
+WO-00783,Bramalea Logistics Centre,6/24/2026 13:45,6/25/2026 16:09,Plumbing,P4 - Low,Reactive,Closed,22.6,26.4,421.63
+WO-00784,Heartlake Medical Plaza,6/24/2026 15:00,6/25/2026 0:42,Plumbing,P3 - Routine,Preventive,Closed,8.1,9.7,361.82
+WO-00785,Bramalea Logistics Centre,6/24/2026 15:00,6/25/2026 4:06,Electrical,P3 - Routine,Reactive,Closed,11.3,13.1,283.83
+WO-00786,Bramalea Logistics Centre,6/25/2026 5:30,6/25/2026 19:54,Grounds & Snow,P4 - Low,Preventive,Closed,13.1,14.4,284.46
+WO-00787,Steeles Corporate Campus,6/25/2026 8:30,6/26/2026 0:06,Plumbing,P3 - Routine,Preventive,Closed,11.2,15.6,588.04
+WO-00788,Bramalea Logistics Centre,6/25/2026 10:00,6/25/2026 23:06,HVAC,P3 - Routine,Reactive,Closed,4.8,13.1,1088.06
+WO-00789,Steeles Corporate Campus,6/26/2026 6:15,6/26/2026 13:15,General Maintenance,P2 - Urgent,Reactive,Closed,3,7,400.82
+WO-00790,Bramalea Logistics Centre,6/26/2026 16:00,6/27/2026 3:42,General Maintenance,P3 - Routine,Reactive,Closed,6.8,11.7,462.15
+WO-00791,Steeles Corporate Campus,6/26/2026 16:45,6/29/2026 15:39,Plumbing,P4 - Low,Reactive,Closed,65.6,70.9,646.96
+WO-00792,Steeles Corporate Campus,6/27/2026 17:30,6/29/2026 8:54,HVAC,P4 - Low,Reactive,Closed,30.6,39.4,927.7
+WO-00793,Steeles Corporate Campus,6/27/2026 19:30,6/28/2026 15:42,Electrical,P3 - Routine,Preventive,Closed,15.5,20.2,529.89
+WO-00794,Heartlake Medical Plaza,6/27/2026 22:00,6/28/2026 19:54,Grounds & Snow,P3 - Routine,Preventive,Closed,20.3,21.9,371.88
+WO-00795,Steeles Corporate Campus,6/27/2026 22:45,6/28/2026 13:45,HVAC,P3 - Routine,Preventive,Closed,8.5,15,692.48
+WO-00796,Steeles Corporate Campus,6/28/2026 7:45,6/28/2026 22:51,Plumbing,P3 - Routine,Reactive,Closed,11.6,15.1,467.37
+WO-00797,Bramalea Logistics Centre,6/28/2026 10:15,6/28/2026 17:33,Elevator,P1 - Emergency,Reactive,Closed,0.5,7.3,9428.57
+WO-00798,Steeles Corporate Campus,6/28/2026 12:30,6/28/2026 23:18,Fire & Life Safety,P3 - Routine,Preventive,Closed,6.8,10.8,627.9
+WO-00799,Steeles Corporate Campus,6/28/2026 23:00,6/29/2026 9:24,Plumbing,P3 - Routine,Reactive,Closed,7.1,10.4,580.98
+WO-00800,Steeles Corporate Campus,6/29/2026 9:45,6/30/2026 16:51,HVAC,P4 - Low,Reactive,Closed,24,31.1,1308.03
+WO-00801,Bramalea Logistics Centre,6/29/2026 14:30,6/30/2026 5:30,Electrical,P4 - Low,Preventive,Closed,12.4,15,536.48
+WO-00802,Bramalea Logistics Centre,6/29/2026 20:00,6/30/2026 16:06,Fire & Life Safety,P3 - Routine,Preventive,Closed,16.4,20.1,840.96
+WO-00803,Steeles Corporate Campus,6/30/2026 5:15,6/30/2026 8:45,Grounds & Snow,P1 - Emergency,Reactive,Closed,0.5,3.5,556.02
+WO-00804,Bramalea Logistics Centre,6/30/2026 9:15,6/30/2026 19:33,Plumbing,P3 - Routine,Preventive,Closed,6.7,10.3,549.74
+WO-00805,Steeles Corporate Campus,6/30/2026 9:45,7/1/2026 7:51,HVAC,P3 - Routine,Reactive,Closed,17.7,22.1,811.72
+WO-00806,Heartlake Medical Plaza,6/30/2026 10:15,7/1/2026 6:39,Grounds & Snow,P4 - Low,Preventive,Closed,15.3,20.4,501.26
+WO-00807,Heartlake Medical Plaza,6/30/2026 14:30,6/30/2026 21:36,Plumbing,P3 - Routine,Preventive,Closed,4.1,7.1,419.49
+WO-00808,Heartlake Medical Plaza,6/30/2026 17:45,7/1/2026 23:15,Plumbing,P4 - Low,Reactive,Closed,25.9,29.5,477.45
+WO-00809,Bramalea Logistics Centre,6/30/2026 22:15,7/1/2026 10:39,Elevator,P3 - Routine,Reactive,Closed,6,12.4,1298.02
+WO-00810,Heartlake Medical Plaza,7/1/2026 0:30,7/1/2026 17:30,HVAC,P3 - Routine,Preventive,Closed,11.5,17,716.35
+WO-00811,Heartlake Medical Plaza,7/1/2026 6:00,7/1/2026 17:30,Electrical,P3 - Routine,Reactive,Closed,4.9,11.5,759.63
+WO-00812,Heartlake Medical Plaza,7/1/2026 10:30,7/1/2026 19:48,Plumbing,P4 - Low,Preventive,Closed,7.3,9.3,271.09
+WO-00813,Heartlake Medical Plaza,7/1/2026 18:30,7/2/2026 3:48,Electrical,P1 - Emergency,Reactive,Closed,0.6,9.3,1366.01
+WO-00814,Bramalea Logistics Centre,7/1/2026 18:45,7/2/2026 2:15,HVAC,P2 - Urgent,Reactive,Closed,1.6,7.5,766.93
+WO-00815,Bramalea Logistics Centre,7/2/2026 0:30,7/2/2026 12:18,General Maintenance,P2 - Urgent,Reactive,Closed,5,11.8,644.85
+WO-00816,Steeles Corporate Campus,7/2/2026 2:45,7/2/2026 14:03,HVAC,P3 - Routine,Preventive,Closed,4.6,11.3,636.36
+WO-00817,Steeles Corporate Campus,7/2/2026 7:30,7/2/2026 22:18,Plumbing,P1 - Emergency,Reactive,Closed,0.6,14.8,1591.16
+WO-00818,Heartlake Medical Plaza,7/2/2026 11:00,7/3/2026 4:18,Plumbing,P4 - Low,Preventive,Closed,15.5,17.3,337.19
+WO-00819,Bramalea Logistics Centre,7/3/2026 3:00,7/4/2026 8:54,HVAC,P3 - Routine,Reactive,Closed,23.2,29.9,1444.99
+WO-00820,Bramalea Logistics Centre,7/3/2026 12:00,7/3/2026 21:54,Electrical,P3 - Routine,Reactive,Closed,4.8,9.9,393.48
+WO-00821,Heartlake Medical Plaza,7/4/2026 2:15,7/4/2026 12:27,Grounds & Snow,P2 - Urgent,Reactive,Closed,2.3,10.2,1041.48
+WO-00822,Bramalea Logistics Centre,7/4/2026 5:15,7/6/2026 9:45,Elevator,P4 - Low,Reactive,Closed,37,52.5,2428.86
+WO-00823,Steeles Corporate Campus,7/4/2026 7:00,7/4/2026 16:06,Grounds & Snow,P3 - Routine,Reactive,Closed,4.2,9.1,1366.3
+WO-00824,Heartlake Medical Plaza,7/4/2026 14:15,7/5/2026 1:39,Plumbing,P3 - Routine,Reactive,Closed,7.4,11.4,709.12
+WO-00825,Bramalea Logistics Centre,7/4/2026 17:15,7/5/2026 17:27,Electrical,P3 - Routine,Reactive,Closed,17.9,24.2,541.97
+WO-00826,Heartlake Medical Plaza,7/5/2026 4:30,7/5/2026 13:54,Electrical,P3 - Routine,Preventive,Closed,6.9,9.4,363.59
+WO-00827,Bramalea Logistics Centre,7/5/2026 9:30,7/6/2026 1:30,HVAC,P3 - Routine,Preventive,Closed,8.6,16,735.78
+WO-00828,Heartlake Medical Plaza,7/5/2026 10:45,7/6/2026 6:51,Plumbing,P4 - Low,Preventive,Closed,18.2,20.1,341.86
+WO-00829,Steeles Corporate Campus,7/5/2026 22:00,7/6/2026 16:48,HVAC,P3 - Routine,Reactive,Closed,8.4,18.8,1102.02
+WO-00830,Bramalea Logistics Centre,7/6/2026 8:00,7/6/2026 14:54,General Maintenance,P3 - Routine,Reactive,Closed,4.1,6.9,453.58
+WO-00831,Bramalea Logistics Centre,7/6/2026 15:00,7/7/2026 4:42,General Maintenance,P3 - Routine,Reactive,Closed,10,13.7,361.35
+WO-00832,Heartlake Medical Plaza,7/6/2026 15:45,7/7/2026 9:03,General Maintenance,P4 - Low,Preventive,Closed,15.9,17.3,213.58
+WO-00833,Bramalea Logistics Centre,7/7/2026 2:00,7/7/2026 7:42,General Maintenance,P3 - Routine,Reactive,Closed,3.4,5.7,281.15
+WO-00834,Heartlake Medical Plaza,7/7/2026 16:15,7/8/2026 3:51,Electrical,P3 - Routine,Reactive,Closed,9.3,11.6,1222.02
+WO-00835,Heartlake Medical Plaza,7/8/2026 9:30,7/9/2026 0:24,Electrical,P3 - Routine,Reactive,Closed,9.2,14.9,628.94
+WO-00836,Steeles Corporate Campus,7/9/2026 8:45,7/9/2026 12:39,Plumbing,P2 - Urgent,Reactive,Closed,1.1,3.9,387.3
+WO-00837,Heartlake Medical Plaza,7/9/2026 17:15,7/10/2026 2:51,General Maintenance,P3 - Routine,Preventive,Closed,7.8,9.6,176.34
+WO-00838,Heartlake Medical Plaza,7/10/2026 0:15,7/10/2026 19:27,Grounds & Snow,P3 - Routine,Reactive,Closed,12.9,19.2,1167.61
+WO-00839,Heartlake Medical Plaza,7/10/2026 22:30,7/11/2026 21:42,Grounds & Snow,P3 - Routine,Reactive,Closed,16.8,23.2,1013.1
+WO-00840,Bramalea Logistics Centre,7/11/2026 1:45,7/12/2026 18:39,Grounds & Snow,P4 - Low,Reactive,Closed,38.4,40.9,644.6
+WO-00841,Bramalea Logistics Centre,7/11/2026 6:15,7/11/2026 16:09,Electrical,P3 - Routine,Preventive,Closed,5.5,9.9,425.82
+WO-00842,Steeles Corporate Campus,7/11/2026 13:15,7/12/2026 14:51,Plumbing,P4 - Low,Reactive,Closed,22.8,25.6,480.79
+WO-00843,Steeles Corporate Campus,7/11/2026 23:15,7/12/2026 13:27,General Maintenance,P3 - Routine,Reactive,Closed,9.8,14.2,478.22
+WO-00844,Steeles Corporate Campus,7/12/2026 2:30,7/13/2026 0:00,General Maintenance,P4 - Low,Preventive,Closed,18.7,21.5,304.49
+WO-00845,Bramalea Logistics Centre,7/12/2026 11:15,7/12/2026 22:15,Grounds & Snow,P3 - Routine,Preventive,Closed,9,11,340.22
+WO-00846,Steeles Corporate Campus,7/13/2026 1:00,7/13/2026 19:06,Elevator,P3 - Routine,Preventive,Closed,10.2,18.1,1003.92
+WO-00847,Bramalea Logistics Centre,7/13/2026 8:45,7/14/2026 1:39,Plumbing,P3 - Routine,Reactive,Closed,11.1,16.9,589.17
+WO-00848,Heartlake Medical Plaza,7/13/2026 13:30,7/13/2026 17:48,General Maintenance,P2 - Urgent,Reactive,Closed,1.6,4.3,375.77
+WO-00849,Heartlake Medical Plaza,7/13/2026 18:30,7/14/2026 12:24,Plumbing,P4 - Low,Reactive,Closed,16.8,17.9,635.22
+WO-00850,Steeles Corporate Campus,7/13/2026 21:30,7/14/2026 7:00,Electrical,P1 - Emergency,Reactive,Closed,0.6,9.5,1170.59
+WO-00851,Bramalea Logistics Centre,7/13/2026 22:00,7/15/2026 8:06,Electrical,P3 - Routine,Reactive,Closed,24.3,34.1,1066.1
+WO-00852,Steeles Corporate Campus,7/13/2026 23:45,7/14/2026 22:15,Grounds & Snow,P3 - Routine,Reactive,Closed,12.7,22.5,1028.41
+WO-00853,Bramalea Logistics Centre,7/14/2026 5:00,7/15/2026 5:54,Electrical,P4 - Low,Reactive,Closed,20.7,24.9,955.87
+WO-00854,Bramalea Logistics Centre,7/14/2026 9:00,7/14/2026 22:54,HVAC,P3 - Routine,Preventive,Closed,6.9,13.9,1015.37
+WO-00855,Heartlake Medical Plaza,7/14/2026 9:45,7/14/2026 20:03,Plumbing,P3 - Routine,Preventive,Closed,8.3,10.3,356.7
+WO-00856,Steeles Corporate Campus,7/14/2026 12:45,7/15/2026 0:21,Plumbing,P3 - Routine,Reactive,Closed,8,11.6,766.07
+WO-00857,Bramalea Logistics Centre,7/14/2026 13:15,7/14/2026 23:57,Fire & Life Safety,P3 - Routine,Reactive,Closed,7.9,10.7,557.95
+WO-00858,Heartlake Medical Plaza,7/14/2026 18:15,7/15/2026 10:51,Plumbing,P3 - Routine,Reactive,Closed,11.7,16.6,550.83
+WO-00859,Heartlake Medical Plaza,7/15/2026 0:45,7/15/2026 22:39,Plumbing,P4 - Low,Preventive,Closed,20.3,21.9,400.25
+WO-00860,Heartlake Medical Plaza,7/15/2026 1:00,7/15/2026 8:18,HVAC,P2 - Urgent,Reactive,Closed,2,7.3,830.95
+WO-00861,Bramalea Logistics Centre,7/15/2026 7:30,7/16/2026 11:00,Electrical,P4 - Low,Preventive,Closed,23.2,27.5,729.65
+WO-00862,Steeles Corporate Campus,7/15/2026 11:00,7/15/2026 16:36,General Maintenance,P3 - Routine,Reactive,Closed,3.4,5.6,304.06
+WO-00863,Bramalea Logistics Centre,7/15/2026 15:15,7/16/2026 13:33,Electrical,P4 - Low,Reactive,Closed,15.3,22.3,882.33
+WO-00864,Heartlake Medical Plaza,7/16/2026 0:00,7/16/2026 14:12,HVAC,P3 - Routine,Reactive,Closed,8.9,14.2,851.32
+WO-00865,Steeles Corporate Campus,7/16/2026 8:45,7/17/2026 3:51,General Maintenance,P4 - Low,Reactive,Closed,15.7,19.1,342.63
+WO-00866,Bramalea Logistics Centre,7/16/2026 15:30,7/16/2026 23:24,General Maintenance,P3 - Routine,Preventive,Closed,7,7.9,213.87
+WO-00867,Steeles Corporate Campus,7/16/2026 17:45,7/17/2026 7:27,Plumbing,P3 - Routine,Preventive,Closed,11.9,13.7,307.82
+WO-00868,Steeles Corporate Campus,7/17/2026 4:30,7/17/2026 16:30,Plumbing,P3 - Routine,Preventive,Closed,7,12,443.64
+WO-00869,Bramalea Logistics Centre,7/17/2026 15:45,7/19/2026 0:39,Electrical,P3 - Routine,Reactive,Closed,25.6,32.9,848.4
+WO-00870,Steeles Corporate Campus,7/18/2026 0:30,7/18/2026 15:36,HVAC,P3 - Routine,Reactive,Closed,9.9,15.1,655.14
+WO-00871,Heartlake Medical Plaza,7/18/2026 8:00,7/18/2026 19:12,Elevator,P3 - Routine,Preventive,Closed,7.8,11.2,670.9
+WO-00872,Steeles Corporate Campus,7/18/2026 8:00,7/19/2026 4:30,Grounds & Snow,P4 - Low,Preventive,Closed,17.8,20.5,360.54
+WO-00873,Bramalea Logistics Centre,7/18/2026 10:30,7/18/2026 16:30,Plumbing,P2 - Urgent,Reactive,Closed,2.8,6,784.07
+WO-00874,Steeles Corporate Campus,7/18/2026 20:00,7/19/2026 13:12,Fire & Life Safety,P4 - Low,Preventive,Closed,12.1,17.2,638.59
+WO-00875,Steeles Corporate Campus,7/19/2026 14:30,7/20/2026 14:00,Fire & Life Safety,P3 - Routine,Reactive,Closed,9.4,23.5,1798.85
+WO-00876,Bramalea Logistics Centre,7/19/2026 17:45,7/20/2026 2:27,HVAC,P2 - Urgent,Reactive,Closed,2.3,8.7,917.38
+WO-00877,Steeles Corporate Campus,7/20/2026 9:30,7/20/2026 23:24,Elevator,P3 - Routine,Preventive,Closed,8.1,13.9,868.98
+WO-00878,Bramalea Logistics Centre,7/21/2026 16:45,7/22/2026 7:57,Fire & Life Safety,P3 - Routine,Reactive,Closed,6.1,15.2,1459.13
+WO-00879,Heartlake Medical Plaza,7/21/2026 20:15,7/22/2026 6:15,HVAC,P3 - Routine,Preventive,Closed,6.9,10,577.52
+WO-00880,Bramalea Logistics Centre,7/21/2026 21:15,7/22/2026 5:09,Plumbing,P3 - Routine,Reactive,Closed,6.6,7.9,278.83
+WO-00881,Bramalea Logistics Centre,7/22/2026 22:00,7/23/2026 7:42,Elevator,P3 - Routine,Preventive,Closed,3.7,9.7,1040.88
+WO-00882,Steeles Corporate Campus,7/24/2026 6:45,7/24/2026 10:39,Electrical,P2 - Urgent,Reactive,Closed,0.5,3.9,632.21
+WO-00883,Heartlake Medical Plaza,7/24/2026 16:15,7/25/2026 8:57,General Maintenance,P4 - Low,Preventive,Closed,12.7,16.7,559.93
+WO-00884,Bramalea Logistics Centre,7/25/2026 8:45,7/26/2026 16:45,Electrical,P4 - Low,Reactive,Closed,29.1,32,656.71
+WO-00885,Steeles Corporate Campus,7/25/2026 11:00,7/25/2026 19:18,Plumbing,P3 - Routine,Reactive,Closed,6.4,8.3,335.52
+WO-00886,Steeles Corporate Campus,7/25/2026 14:45,7/26/2026 0:33,Electrical,P2 - Urgent,Reactive,Closed,2,9.8,788.87
+WO-00887,Heartlake Medical Plaza,7/25/2026 18:30,7/26/2026 1:54,General Maintenance,P3 - Routine,Reactive,Closed,3.9,7.4,374.1
+WO-00888,Heartlake Medical Plaza,7/26/2026 23:00,7/27/2026 17:24,General Maintenance,P4 - Low,Reactive,Closed,16.7,18.4,280.71
+WO-00889,Bramalea Logistics Centre,7/27/2026 12:15,7/27/2026 21:03,HVAC,P1 - Emergency,Reactive,Closed,0.4,8.8,1152.29
+WO-00890,Heartlake Medical Plaza,7/27/2026 21:15,7/29/2026 9:39,HVAC,P4 - Low,Preventive,Closed,31.3,36.4,991.88
+WO-00891,Bramalea Logistics Centre,7/28/2026 5:15,7/28/2026 23:45,Fire & Life Safety,P3 - Routine,Reactive,Closed,14.1,18.5,645.18
+WO-00892,Heartlake Medical Plaza,7/28/2026 14:45,7/28/2026 20:21,General Maintenance,P3 - Routine,Preventive,Closed,4.2,5.6,207.02
+WO-00893,Heartlake Medical Plaza,7/29/2026 2:30,7/29/2026 16:18,Fire & Life Safety,P3 - Routine,Preventive,Closed,8.9,13.8,1218.74
+WO-00894,Steeles Corporate Campus,7/29/2026 9:30,7/29/2026 23:30,HVAC,P3 - Routine,Reactive,Closed,10.1,14,693.65
+WO-00895,Bramalea Logistics Centre,7/29/2026 15:15,7/30/2026 4:15,HVAC,P3 - Routine,Preventive,Closed,7.6,13,1098.28
+WO-00896,Heartlake Medical Plaza,7/29/2026 16:15,7/29/2026 23:03,Plumbing,P3 - Routine,Preventive,Closed,2.3,6.8,660.37
+WO-00897,Heartlake Medical Plaza,7/29/2026 18:45,7/30/2026 8:45,HVAC,P3 - Routine,Preventive,Closed,11.7,14,403.61
+WO-00898,Heartlake Medical Plaza,7/30/2026 1:15,7/30/2026 9:45,General Maintenance,P3 - Routine,Reactive,Closed,6.7,8.5,509.4
+WO-00899,Heartlake Medical Plaza,7/30/2026 14:15,7/30/2026 22:57,HVAC,P2 - Urgent,Reactive,Closed,4,8.7,1293.36
+WO-00900,Steeles Corporate Campus,7/30/2026 15:45,7/31/2026 19:03,Electrical,P4 - Low,Preventive,Closed,25.7,27.3,359.92
+WO-00901,Bramalea Logistics Centre,7/30/2026 16:00,7/31/2026 1:12,Fire & Life Safety,P3 - Routine,Preventive,Closed,4.6,9.2,1019.02
+WO-00902,Heartlake Medical Plaza,7/31/2026 0:15,7/31/2026 8:39,Electrical,P1 - Emergency,Reactive,Closed,0.5,8.4,1655.34
+WO-00903,Steeles Corporate Campus,7/31/2026 2:00,7/31/2026 17:06,Grounds & Snow,P3 - Routine,Preventive,Closed,11.2,15.1,399.47
+WO-00904,Steeles Corporate Campus,7/31/2026 7:00,7/31/2026 23:06,Fire & Life Safety,P1 - Emergency,Reactive,Closed,0.3,16.1,1891.66
+WO-00905,Heartlake Medical Plaza,7/31/2026 17:30,8/1/2026 1:06,HVAC,P3 - Routine,Preventive,Closed,5.7,7.6,424.05
+WO-00906,Heartlake Medical Plaza,8/1/2026 6:45,8/1/2026 21:27,HVAC,P3 - Routine,Preventive,Closed,6.7,14.7,929.26
+WO-00907,Bramalea Logistics Centre,8/1/2026 17:30,8/2/2026 9:12,Grounds & Snow,P3 - Routine,Preventive,Closed,10.1,15.7,576.49
+WO-00908,Steeles Corporate Campus,8/1/2026 23:30,8/2/2026 15:06,HVAC,P3 - Routine,Preventive,Closed,12.5,15.6,387.4
+WO-00909,Heartlake Medical Plaza,8/2/2026 0:00,8/2/2026 8:06,Grounds & Snow,P3 - Routine,Reactive,Closed,4.4,8.1,507.29
+WO-00910,Steeles Corporate Campus,8/2/2026 7:15,8/2/2026 20:03,Plumbing,P3 - Routine,Reactive,Closed,6.8,12.8,697.99
+WO-00911,Heartlake Medical Plaza,8/2/2026 15:15,8/2/2026 22:57,General Maintenance,P3 - Routine,Preventive,Closed,5.8,7.7,231.04
+WO-00912,Steeles Corporate Campus,8/2/2026 23:15,8/3/2026 3:27,Elevator,P2 - Urgent,Reactive,Closed,1.3,4.2,540.3
+WO-00913,Heartlake Medical Plaza,8/3/2026 17:45,8/4/2026 1:57,Electrical,P3 - Routine,Preventive,Closed,2.7,8.2,741.63
+WO-00914,Steeles Corporate Campus,8/3/2026 19:45,8/4/2026 4:09,Grounds & Snow,P3 - Routine,Reactive,Closed,6.9,8.4,303.28
+WO-00915,Heartlake Medical Plaza,8/3/2026 21:00,8/4/2026 23:18,HVAC,P1 - Emergency,Reactive,Closed,1,26.3,2668.46
+WO-00916,Bramalea Logistics Centre,8/4/2026 5:30,8/4/2026 23:36,Grounds & Snow,P4 - Low,Reactive,Closed,16.1,18.1,490.04
+WO-00917,Steeles Corporate Campus,8/4/2026 11:45,8/4/2026 21:27,Grounds & Snow,P3 - Routine,Reactive,Closed,6.1,9.7,629.9
+WO-00918,Bramalea Logistics Centre,8/5/2026 9:30,8/6/2026 20:24,Plumbing,P4 - Low,Reactive,Closed,27.8,34.9,1057.88
+WO-00919,Steeles Corporate Campus,8/5/2026 10:00,8/6/2026 6:36,HVAC,P4 - Low,Preventive,Closed,15.8,20.6,465.34
+WO-00920,Steeles Corporate Campus,8/6/2026 0:15,,General Maintenance,P3 - Routine,Reactive,Awaiting Parts,15.1,,201.66
+WO-00921,Heartlake Medical Plaza,8/6/2026 0:30,8/6/2026 10:36,Plumbing,P3 - Routine,Preventive,Closed,6.4,10.1,698.42
+WO-00922,Heartlake Medical Plaza,8/6/2026 4:15,8/6/2026 9:45,Electrical,P2 - Urgent,Reactive,Closed,2.2,5.5,717.41
+WO-00923,Steeles Corporate Campus,8/6/2026 5:15,8/6/2026 22:15,HVAC,P3 - Routine,Preventive,Closed,11.1,17,677.9
+WO-00924,Bramalea Logistics Centre,8/7/2026 0:00,8/7/2026 10:24,HVAC,P2 - Urgent,Reactive,Closed,1.7,10.4,1103.17
+WO-00925,Steeles Corporate Campus,8/7/2026 10:15,8/7/2026 18:27,Plumbing,P3 - Routine,Reactive,Closed,5.6,8.2,502.01
+WO-00926,Steeles Corporate Campus,8/7/2026 14:00,8/7/2026 21:48,Plumbing,P1 - Emergency,Reactive,Closed,0.4,7.8,874.79
+WO-00927,Bramalea Logistics Centre,8/7/2026 23:45,8/9/2026 10:39,Grounds & Snow,P4 - Low,Reactive,Closed,33,34.9,304.11
+WO-00928,Bramalea Logistics Centre,8/8/2026 12:00,8/9/2026 0:36,Electrical,P3 - Routine,Reactive,Closed,10,12.6,402.84
+WO-00929,Bramalea Logistics Centre,8/8/2026 22:45,8/9/2026 4:51,General Maintenance,P3 - Routine,Preventive,Closed,4.5,6.1,389.95
+WO-00930,Steeles Corporate Campus,8/9/2026 5:00,8/10/2026 6:36,Electrical,P4 - Low,Preventive,Closed,22.2,25.6,597.18
+WO-00931,Heartlake Medical Plaza,8/9/2026 5:15,8/9/2026 16:09,Electrical,P3 - Routine,Preventive,Closed,5.9,10.9,621.55
+WO-00932,Bramalea Logistics Centre,8/9/2026 9:00,8/10/2026 9:06,Elevator,P3 - Routine,Reactive,Closed,15.3,24.1,1612.88
+WO-00933,Bramalea Logistics Centre,8/9/2026 10:45,8/9/2026 17:03,Grounds & Snow,P2 - Urgent,Reactive,Closed,1.3,6.3,862.4
+WO-00934,Heartlake Medical Plaza,8/9/2026 12:00,8/11/2026 8:18,General Maintenance,P3 - Routine,Reactive,Closed,37,44.3,854.59
+WO-00935,Heartlake Medical Plaza,8/9/2026 23:15,8/10/2026 19:09,General Maintenance,P4 - Low,Preventive,Closed,18.8,19.9,180.13
+WO-00936,Heartlake Medical Plaza,8/10/2026 0:15,8/11/2026 1:33,HVAC,P3 - Routine,Reactive,Closed,19.6,25.3,959.37
+WO-00937,Bramalea Logistics Centre,8/10/2026 20:00,8/12/2026 1:24,HVAC,P3 - Routine,Reactive,Closed,27.4,29.4,736.61
+WO-00938,Bramalea Logistics Centre,8/10/2026 23:45,8/11/2026 15:09,Grounds & Snow,P3 - Routine,Reactive,Closed,9.4,15.4,873.53
+WO-00939,Heartlake Medical Plaza,8/11/2026 0:45,8/11/2026 22:21,Fire & Life Safety,P3 - Routine,Reactive,Closed,10.8,21.6,1941.07
+WO-00940,Bramalea Logistics Centre,8/11/2026 2:45,8/11/2026 7:03,General Maintenance,P2 - Urgent,Reactive,Closed,1.8,4.3,319.62
+WO-00941,Steeles Corporate Campus,8/11/2026 6:30,8/12/2026 5:30,Plumbing,P3 - Routine,Reactive,Closed,19.5,23,606.97
+WO-00942,Steeles Corporate Campus,8/11/2026 6:30,8/11/2026 13:42,Plumbing,P3 - Routine,Preventive,Closed,4.1,7.2,338.19
+WO-00943,Heartlake Medical Plaza,8/11/2026 9:30,8/12/2026 17:18,Elevator,P4 - Low,Preventive,Closed,16.9,31.8,1584.53
+WO-00944,Bramalea Logistics Centre,8/11/2026 11:15,8/11/2026 20:45,Electrical,P3 - Routine,Preventive,Closed,6.3,9.5,684.02
+WO-00945,Bramalea Logistics Centre,8/11/2026 14:15,8/11/2026 19:09,Grounds & Snow,P2 - Urgent,Reactive,Closed,2.6,4.9,626.38
+WO-00946,Heartlake Medical Plaza,8/12/2026 0:45,8/13/2026 14:15,Elevator,P4 - Low,Preventive,Closed,27.1,37.5,1992.89
+WO-00947,Bramalea Logistics Centre,8/12/2026 6:30,8/12/2026 22:06,General Maintenance,P3 - Routine,Reactive,Closed,12.2,15.6,381.72
+WO-00948,Bramalea Logistics Centre,8/12/2026 7:00,8/12/2026 15:54,Fire & Life Safety,P3 - Routine,Preventive,Closed,3.9,8.9,854.27
+WO-00949,Bramalea Logistics Centre,8/12/2026 12:45,8/13/2026 10:15,Plumbing,P4 - Low,Preventive,Closed,16.7,21.5,618.19
+WO-00950,Bramalea Logistics Centre,8/12/2026 19:45,8/13/2026 14:39,HVAC,P1 - Emergency,Reactive,Closed,0.6,18.9,1710.44
+WO-00951,Heartlake Medical Plaza,8/12/2026 21:30,8/13/2026 15:42,Electrical,P3 - Routine,Reactive,Closed,13.1,18.2,732.38
+WO-00952,Heartlake Medical Plaza,8/13/2026 5:15,8/13/2026 20:03,Plumbing,P3 - Routine,Reactive,Closed,10.9,14.8,514.71
+WO-00953,Heartlake Medical Plaza,8/13/2026 12:30,8/14/2026 0:18,General Maintenance,P3 - Routine,Reactive,Closed,7.6,11.8,472.41
+WO-00954,Steeles Corporate Campus,8/13/2026 20:30,8/14/2026 12:48,Plumbing,P3 - Routine,Reactive,Closed,13.5,16.3,614.27
+WO-00955,Bramalea Logistics Centre,8/13/2026 23:15,8/14/2026 9:09,General Maintenance,P3 - Routine,Reactive,Closed,6.7,9.9,549.5
+WO-00956,Bramalea Logistics Centre,8/14/2026 6:00,8/15/2026 1:42,General Maintenance,P3 - Routine,Reactive,Closed,18.6,19.7,185.18
+WO-00957,Bramalea Logistics Centre,8/14/2026 13:45,8/17/2026 2:39,Elevator,P4 - Low,Reactive,Closed,50.4,60.9,1552.21
+WO-00958,Heartlake Medical Plaza,8/15/2026 18:15,8/16/2026 4:27,Fire & Life Safety,P3 - Routine,Preventive,Closed,3,10.2,792.58
+WO-00959,Heartlake Medical Plaza,8/15/2026 19:30,8/18/2026 8:18,HVAC,P4 - Low,Preventive,Closed,50.4,60.8,893.28
+WO-00960,Heartlake Medical Plaza,8/15/2026 22:30,8/16/2026 9:54,Electrical,P3 - Routine,Reactive,Closed,9.7,11.4,417.58
+WO-00961,Bramalea Logistics Centre,8/16/2026 3:15,8/17/2026 8:03,HVAC,P4 - Low,Reactive,Closed,16.4,28.8,1397.79
+WO-00962,Bramalea Logistics Centre,8/16/2026 4:15,8/17/2026 14:57,Elevator,P3 - Routine,Reactive,Closed,19.6,34.7,2182.05
+WO-00963,Bramalea Logistics Centre,8/16/2026 13:15,8/16/2026 23:33,Grounds & Snow,P3 - Routine,Preventive,Closed,4.9,10.3,529.79
+WO-00964,Steeles Corporate Campus,8/16/2026 13:30,8/16/2026 21:54,Plumbing,P3 - Routine,Reactive,Closed,5.8,8.4,437.64
+WO-00965,Bramalea Logistics Centre,8/16/2026 17:00,8/17/2026 0:06,Grounds & Snow,P2 - Urgent,Reactive,Closed,3.1,7.1,522.85
+WO-00966,Bramalea Logistics Centre,8/17/2026 4:30,8/17/2026 12:48,Electrical,P3 - Routine,Preventive,Closed,5.1,8.3,343.63
+WO-00967,Heartlake Medical Plaza,8/17/2026 22:15,8/18/2026 6:27,Electrical,P3 - Routine,Reactive,Closed,6.2,8.2,848.84
+WO-00968,Heartlake Medical Plaza,8/18/2026 9:45,8/18/2026 20:57,Fire & Life Safety,P2 - Urgent,Reactive,Closed,1.8,11.2,1106.87
+WO-00969,Heartlake Medical Plaza,8/18/2026 13:00,8/18/2026 21:06,Fire & Life Safety,P3 - Routine,Preventive,Closed,5.9,8.1,670.85
+WO-00970,Heartlake Medical Plaza,8/18/2026 18:45,8/19/2026 15:39,Elevator,P4 - Low,Preventive,Closed,10.8,20.9,1872.86
+WO-00971,Heartlake Medical Plaza,8/19/2026 5:30,8/21/2026 15:48,Grounds & Snow,P4 - Low,Reactive,Closed,56.4,58.3,974.61
+WO-00972,Heartlake Medical Plaza,8/19/2026 8:00,8/19/2026 17:00,Fire & Life Safety,P2 - Urgent,Reactive,Closed,1.3,9,2092.45
+WO-00973,Heartlake Medical Plaza,8/20/2026 1:30,8/21/2026 0:06,General Maintenance,P4 - Low,Preventive,Closed,21.4,22.6,191.34
+WO-00974,Heartlake Medical Plaza,8/20/2026 4:15,8/20/2026 12:15,Plumbing,P3 - Routine,Preventive,Closed,3.1,8,695.54
+WO-00975,Bramalea Logistics Centre,8/20/2026 6:15,,Plumbing,P3 - Routine,Reactive,Awaiting Parts,8.5,,262.35
+WO-00976,Steeles Corporate Campus,8/20/2026 10:15,8/20/2026 23:39,Elevator,P3 - Routine,Preventive,Closed,4.4,13.4,980.95
+WO-00977,Heartlake Medical Plaza,8/20/2026 12:30,8/21/2026 9:24,Plumbing,P3 - Routine,Reactive,Closed,13.9,20.9,992.49
+WO-00978,Heartlake Medical Plaza,8/20/2026 20:15,8/21/2026 8:09,HVAC,P3 - Routine,Preventive,Closed,9.1,11.9,305.47
+WO-00979,Bramalea Logistics Centre,8/21/2026 1:15,8/22/2026 19:09,HVAC,P4 - Low,Reactive,Closed,34.6,41.9,833.4
+WO-00980,Steeles Corporate Campus,8/21/2026 5:45,8/21/2026 10:03,Fire & Life Safety,P3 - Routine,Preventive,Closed,2.7,4.3,615.28
+WO-00981,Steeles Corporate Campus,8/21/2026 6:15,8/22/2026 3:33,Plumbing,P4 - Low,Preventive,Closed,16.4,21.3,443.31
+WO-00982,Bramalea Logistics Centre,8/21/2026 11:30,8/22/2026 6:12,Plumbing,P3 - Routine,Reactive,Closed,17.3,18.7,519.52
+WO-00983,Heartlake Medical Plaza,8/23/2026 0:00,8/23/2026 13:42,HVAC,P3 - Routine,Preventive,Closed,9.1,13.7,463.82
+WO-00984,Heartlake Medical Plaza,8/23/2026 16:15,8/24/2026 1:09,HVAC,P3 - Routine,Preventive,Closed,3.9,8.9,752.03
+WO-00985,Heartlake Medical Plaza,8/24/2026 9:15,,General Maintenance,P3 - Routine,Preventive,In Progress,10.4,,66.69
+WO-00986,Heartlake Medical Plaza,8/24/2026 10:15,8/24/2026 16:39,Grounds & Snow,P2 - Urgent,Reactive,Closed,3.2,6.4,425.57
+WO-00987,Heartlake Medical Plaza,8/24/2026 12:30,8/25/2026 12:30,General Maintenance,P4 - Low,Reactive,Closed,19.6,24,463.74
+WO-00988,Heartlake Medical Plaza,8/24/2026 21:00,8/25/2026 10:54,HVAC,P2 - Urgent,Reactive,Closed,5.2,13.9,992.09
+WO-00989,Steeles Corporate Campus,8/25/2026 0:30,8/25/2026 12:30,Electrical,P3 - Routine,Preventive,Closed,7.3,12,460.89
+WO-00990,Steeles Corporate Campus,8/25/2026 7:15,8/25/2026 17:21,HVAC,P3 - Routine,Reactive,Closed,5.7,10.1,638.8
+WO-00991,Bramalea Logistics Centre,8/25/2026 17:30,8/26/2026 4:24,HVAC,P1 - Emergency,Reactive,Closed,0.8,10.9,1647.54
+WO-00992,Bramalea Logistics Centre,8/26/2026 1:15,8/27/2026 20:15,General Maintenance,P4 - Low,Reactive,Closed,37.5,43,530.04
+WO-00993,Heartlake Medical Plaza,8/26/2026 10:45,8/26/2026 20:51,HVAC,P2 - Urgent,Reactive,Closed,1.1,10.1,2201.81
+WO-00994,Bramalea Logistics Centre,8/26/2026 19:00,8/27/2026 6:54,Plumbing,P2 - Urgent,Reactive,Closed,3.9,11.9,710.47
+WO-00995,Heartlake Medical Plaza,8/27/2026 8:00,8/27/2026 23:36,Grounds & Snow,P3 - Routine,Preventive,Closed,13.4,15.6,482.06
+WO-00996,Heartlake Medical Plaza,8/27/2026 18:00,8/28/2026 7:00,Grounds & Snow,P3 - Routine,Preventive,Closed,9.2,13,536.95
+WO-00997,Steeles Corporate Campus,8/27/2026 22:30,8/28/2026 23:18,Electrical,P4 - Low,Preventive,Closed,20.5,24.8,460.22
+WO-00998,Bramalea Logistics Centre,8/28/2026 15:00,8/29/2026 1:00,Electrical,P3 - Routine,Reactive,Closed,5.2,10,729.1
+WO-00999,Bramalea Logistics Centre,8/30/2026 0:00,8/30/2026 21:00,HVAC,P3 - Routine,Reactive,Closed,15.2,21,1261.5
+WO-01000,Steeles Corporate Campus,8/30/2026 3:15,8/30/2026 16:27,Electrical,P3 - Routine,Preventive,Closed,9.9,13.2,464.59
+WO-01001,Steeles Corporate Campus,8/30/2026 11:00,8/31/2026 0:36,Elevator,P3 - Routine,Reactive,Closed,7.4,13.6,1238.24
+WO-01002,Bramalea Logistics Centre,8/30/2026 22:45,8/31/2026 8:33,HVAC,P3 - Routine,Reactive,Closed,4.4,9.8,634.95
+WO-01003,Bramalea Logistics Centre,8/31/2026 0:45,9/1/2026 6:03,HVAC,P4 - Low,Preventive,Closed,21.9,29.3,956.37
+WO-01004,Bramalea Logistics Centre,8/31/2026 5:15,9/1/2026 5:21,General Maintenance,P3 - Routine,Reactive,Closed,19.6,24.1,492.84
+WO-01005,Bramalea Logistics Centre,8/31/2026 5:30,9/1/2026 10:06,HVAC,P4 - Low,Reactive,Closed,24.3,28.6,1882.73
+WO-01006,Steeles Corporate Campus,8/31/2026 7:30,9/1/2026 5:42,Fire & Life Safety,P3 - Routine,Preventive,Closed,5.7,22.2,1991.23
+WO-01007,Steeles Corporate Campus,8/31/2026 9:45,9/1/2026 4:57,General Maintenance,P3 - Routine,Reactive,Closed,9.1,19.2,731.38
+WO-01008,Bramalea Logistics Centre,8/31/2026 18:30,9/1/2026 15:42,Plumbing,P4 - Low,Reactive,Closed,16.5,21.2,538.45
+WO-01009,Bramalea Logistics Centre,9/1/2026 1:15,9/1/2026 14:51,General Maintenance,P3 - Routine,Reactive,Closed,11.3,13.6,357.11
+WO-01010,Bramalea Logistics Centre,9/1/2026 5:15,9/1/2026 15:09,Fire & Life Safety,P2 - Urgent,Reactive,Closed,2,9.9,1277.04
+WO-01011,Heartlake Medical Plaza,9/1/2026 15:00,9/1/2026 17:30,Electrical,P1 - Emergency,Reactive,Closed,0.6,2.5,496.3
+WO-01012,Heartlake Medical Plaza,9/1/2026 20:00,9/2/2026 1:42,Electrical,P3 - Routine,Reactive,Closed,4.1,5.7,582.5
+WO-01013,Steeles Corporate Campus,9/1/2026 23:45,9/3/2026 1:03,HVAC,P3 - Routine,Reactive,Closed,12.4,25.3,1915
+WO-01014,Bramalea Logistics Centre,9/2/2026 3:45,9/2/2026 16:09,Elevator,P1 - Emergency,Reactive,Closed,0.9,12.4,3845.27
+WO-01015,Heartlake Medical Plaza,9/2/2026 11:30,9/3/2026 2:00,Electrical,P3 - Routine,Reactive,Closed,12,14.5,912.18
+WO-01016,Heartlake Medical Plaza,9/2/2026 15:30,9/3/2026 14:00,HVAC,P4 - Low,Preventive,Closed,16.6,22.5,613.31
+WO-01017,Bramalea Logistics Centre,9/2/2026 17:30,9/3/2026 17:42,Electrical,P4 - Low,Reactive,Closed,20.3,24.2,474.91
+WO-01018,Steeles Corporate Campus,9/3/2026 5:15,9/3/2026 19:15,General Maintenance,P3 - Routine,Preventive,Closed,11.1,14,323.8
+WO-01019,Bramalea Logistics Centre,9/3/2026 6:45,9/3/2026 18:21,Fire & Life Safety,P3 - Routine,Reactive,Closed,7.5,11.6,943.96
+WO-01020,Heartlake Medical Plaza,9/3/2026 10:15,9/3/2026 23:03,Fire & Life Safety,P3 - Routine,Reactive,Closed,7.3,12.8,1074.39
+WO-01021,Heartlake Medical Plaza,9/3/2026 21:00,9/4/2026 6:12,Grounds & Snow,P3 - Routine,Preventive,Closed,7.7,9.2,320.1
+WO-01022,Heartlake Medical Plaza,9/4/2026 3:15,,Elevator,P3 - Routine,Preventive,Open,6.7,,323.88
+WO-01023,Bramalea Logistics Centre,9/4/2026 6:45,9/4/2026 18:45,Grounds & Snow,P3 - Routine,Reactive,Closed,9.4,12,472.85
+WO-01024,Steeles Corporate Campus,9/4/2026 7:15,9/5/2026 14:15,Grounds & Snow,P4 - Low,Preventive,Closed,26.3,31,371.29
+WO-01025,Steeles Corporate Campus,9/4/2026 10:45,9/4/2026 22:51,Grounds & Snow,P3 - Routine,Reactive,Closed,7,12.1,564.27
+WO-01026,Steeles Corporate Campus,9/4/2026 11:30,9/6/2026 9:30,Grounds & Snow,P4 - Low,Preventive,Closed,44.2,46,174.46
+WO-01027,Heartlake Medical Plaza,9/4/2026 14:00,9/4/2026 17:42,Plumbing,P3 - Routine,Preventive,Closed,2.2,3.7,342.66
+WO-01028,Heartlake Medical Plaza,9/5/2026 4:45,,Plumbing,P3 - Routine,Reactive,Open,28,,412.63
+WO-01029,Steeles Corporate Campus,9/5/2026 9:00,9/5/2026 22:06,General Maintenance,P3 - Routine,Preventive,Closed,11.3,13.1,255.4
+WO-01030,Bramalea Logistics Centre,9/5/2026 9:15,9/5/2026 17:33,Plumbing,P3 - Routine,Reactive,Closed,6.8,8.3,849.98
+WO-01031,Bramalea Logistics Centre,9/5/2026 9:30,,Grounds & Snow,P3 - Routine,Preventive,Awaiting Parts,4.4,,93.37
+WO-01032,Steeles Corporate Campus,9/5/2026 16:30,9/6/2026 3:18,Plumbing,P3 - Routine,Reactive,Closed,5.8,10.8,772.26
+WO-01033,Heartlake Medical Plaza,9/5/2026 22:30,,HVAC,P3 - Routine,Preventive,In Progress,2.9,,153.71
+WO-01034,Heartlake Medical Plaza,9/6/2026 22:45,9/7/2026 2:51,Plumbing,P3 - Routine,Reactive,Closed,2.3,4.1,1281.53
+WO-01035,Bramalea Logistics Centre,9/7/2026 17:15,9/8/2026 8:57,HVAC,P3 - Routine,Preventive,Closed,12.5,15.7,463.93
+WO-01036,Bramalea Logistics Centre,9/8/2026 2:15,9/8/2026 13:21,Fire & Life Safety,P3 - Routine,Preventive,Closed,5.5,11.1,563.35
+WO-01037,Heartlake Medical Plaza,9/8/2026 17:45,,Elevator,P3 - Routine,Reactive,Awaiting Parts,9.5,,452.5
+WO-01038,Bramalea Logistics Centre,9/9/2026 5:00,9/9/2026 16:30,General Maintenance,P3 - Routine,Reactive,Closed,7.7,11.5,690.55
+WO-01039,Bramalea Logistics Centre,9/9/2026 10:15,9/9/2026 20:45,Electrical,P3 - Routine,Preventive,Closed,4.3,10.5,679.12
+WO-01040,Heartlake Medical Plaza,9/9/2026 16:30,9/10/2026 5:12,Grounds & Snow,P3 - Routine,Reactive,Closed,8.3,12.7,764.56
+WO-01041,Bramalea Logistics Centre,9/10/2026 2:00,9/11/2026 0:12,Fire & Life Safety,P2 - Urgent,Reactive,Closed,4.6,22.2,2129.27
+WO-01042,Steeles Corporate Campus,9/10/2026 9:00,9/12/2026 9:06,HVAC,P4 - Low,Reactive,Closed,44.2,48.1,802.14
+WO-01043,Steeles Corporate Campus,9/10/2026 11:00,9/10/2026 16:48,Electrical,P2 - Urgent,Reactive,Closed,1.7,5.8,565.64
+WO-01044,Bramalea Logistics Centre,9/10/2026 16:15,9/11/2026 8:27,General Maintenance,P4 - Low,Preventive,Closed,14.6,16.2,212.46
+WO-01045,Steeles Corporate Campus,9/10/2026 21:00,9/12/2026 6:48,Grounds & Snow,P4 - Low,Reactive,Closed,31.4,33.8,317.51
+WO-01046,Heartlake Medical Plaza,9/11/2026 5:30,9/11/2026 13:30,Electrical,P2 - Urgent,Reactive,Closed,1.2,8,1858.66
+WO-01047,Bramalea Logistics Centre,9/11/2026 7:00,9/11/2026 15:42,General Maintenance,P3 - Routine,Preventive,Closed,5.4,8.7,332.66
+WO-01048,Bramalea Logistics Centre,9/12/2026 11:15,9/12/2026 20:09,HVAC,P3 - Routine,Reactive,Closed,6.9,8.9,500.3
+WO-01049,Bramalea Logistics Centre,9/12/2026 13:45,,Elevator,P4 - Low,Preventive,In Progress,10.7,,340.42
+WO-01050,Steeles Corporate Campus,9/12/2026 16:00,9/12/2026 23:06,HVAC,P2 - Urgent,Reactive,Closed,1.1,7.1,752.75
+WO-01051,Bramalea Logistics Centre,9/12/2026 22:15,9/13/2026 12:51,General Maintenance,P4 - Low,Preventive,Closed,11.7,14.6,386.78
+WO-01052,Steeles Corporate Campus,9/13/2026 4:15,9/13/2026 23:45,HVAC,P1 - Emergency,Reactive,Closed,1,19.5,1786.06
+WO-01053,Heartlake Medical Plaza,9/14/2026 8:00,9/16/2026 19:48,General Maintenance,P4 - Low,Reactive,Closed,59.1,59.8,249.53
+WO-01054,Heartlake Medical Plaza,9/14/2026 15:45,9/15/2026 3:51,Plumbing,P3 - Routine,Preventive,Closed,7.1,12.1,649.2
+WO-01055,Steeles Corporate Campus,9/15/2026 10:00,9/15/2026 20:24,General Maintenance,P3 - Routine,Reactive,Closed,9,10.4,150.14
+WO-01056,Bramalea Logistics Centre,9/15/2026 14:45,9/16/2026 0:57,HVAC,P3 - Routine,Preventive,Closed,3.8,10.2,665.5
+WO-01057,Steeles Corporate Campus,9/15/2026 16:45,9/16/2026 6:45,Elevator,P3 - Routine,Reactive,Closed,7.4,14,1353.39
+WO-01058,Bramalea Logistics Centre,9/15/2026 18:00,,Grounds & Snow,P3 - Routine,Preventive,Open,5.7,,103.4
+WO-01059,Heartlake Medical Plaza,9/15/2026 23:00,9/16/2026 3:06,Electrical,P3 - Routine,Reactive,Closed,1.9,4.1,788.76
+WO-01060,Bramalea Logistics Centre,9/16/2026 0:15,9/17/2026 15:57,HVAC,P4 - Low,Reactive,Closed,31.5,39.7,1080.33
+WO-01061,Bramalea Logistics Centre,9/16/2026 4:00,9/17/2026 8:18,Electrical,P4 - Low,Reactive,Closed,22,28.3,673.28
+WO-01062,Steeles Corporate Campus,9/16/2026 10:30,9/16/2026 20:36,Fire & Life Safety,P4 - Low,Preventive,Closed,7.1,10.1,476.86
+WO-01063,Heartlake Medical Plaza,9/16/2026 21:30,9/17/2026 11:18,General Maintenance,P4 - Low,Preventive,Closed,13.1,13.8,325.7
+WO-01064,Bramalea Logistics Centre,9/17/2026 12:30,9/18/2026 6:12,HVAC,P3 - Routine,Reactive,Closed,7.1,17.7,972.59
+WO-01065,Bramalea Logistics Centre,9/17/2026 13:45,,Electrical,P4 - Low,Reactive,In Progress,40.4,,106.33
+WO-01066,Steeles Corporate Campus,9/17/2026 17:00,9/18/2026 2:36,General Maintenance,P3 - Routine,Reactive,Closed,7,9.6,350.08
+WO-01067,Steeles Corporate Campus,9/17/2026 22:00,9/18/2026 5:30,Electrical,P3 - Routine,Preventive,Closed,5.7,7.5,275.74
+WO-01068,Heartlake Medical Plaza,9/18/2026 2:00,9/18/2026 11:12,HVAC,P3 - Routine,Reactive,Closed,3.8,9.2,1254.38
+WO-01069,Steeles Corporate Campus,9/18/2026 3:45,9/18/2026 9:57,Grounds & Snow,P4 - Low,Preventive,Closed,4.5,6.2,439.28
+WO-01070,Heartlake Medical Plaza,9/18/2026 8:45,9/18/2026 15:33,Fire & Life Safety,P3 - Routine,Preventive,Closed,3.1,6.8,842.15
+WO-01071,Bramalea Logistics Centre,9/18/2026 21:45,,Plumbing,P2 - Urgent,Reactive,In Progress,2.2,,193.55
+WO-01072,Heartlake Medical Plaza,9/19/2026 2:00,9/19/2026 18:30,HVAC,P1 - Emergency,Reactive,Closed,0.5,16.5,1625.71
+WO-01073,Bramalea Logistics Centre,9/19/2026 3:45,9/19/2026 17:27,HVAC,P3 - Routine,Reactive,Closed,6.3,13.7,1254.18
+WO-01074,Heartlake Medical Plaza,9/19/2026 14:45,,Grounds & Snow,P1 - Emergency,Reactive,Open,0.4,,245.83
+WO-01075,Steeles Corporate Campus,9/19/2026 17:30,9/20/2026 16:24,HVAC,P3 - Routine,Preventive,Closed,18.3,22.9,445.02
+WO-01076,Heartlake Medical Plaza,9/20/2026 0:30,,HVAC,P2 - Urgent,Reactive,In Progress,7.7,,456
+WO-01077,Steeles Corporate Campus,9/20/2026 9:00,9/20/2026 17:30,HVAC,P2 - Urgent,Reactive,Closed,2.6,8.5,915.99
+WO-01078,Steeles Corporate Campus,9/20/2026 12:00,9/20/2026 21:48,Plumbing,P3 - Routine,Reactive,Closed,7.6,9.8,280.7
+WO-01079,Heartlake Medical Plaza,9/20/2026 12:30,9/21/2026 17:24,Elevator,P3 - Routine,Reactive,Closed,16.6,28.9,1550
+WO-01080,Steeles Corporate Campus,9/20/2026 14:15,9/21/2026 11:33,HVAC,P4 - Low,Reactive,Closed,15.6,21.3,555.85
+WO-01081,Bramalea Logistics Centre,9/20/2026 20:15,9/21/2026 7:57,Plumbing,P4 - Low,Reactive,Closed,8.2,11.7,564.91
+WO-01082,Heartlake Medical Plaza,9/21/2026 0:00,9/22/2026 3:30,Grounds & Snow,P4 - Low,Preventive,Closed,25.2,27.5,470.31
+WO-01083,Steeles Corporate Campus,9/21/2026 19:15,9/22/2026 10:09,General Maintenance,P3 - Routine,Reactive,Closed,10.1,14.9,445.91
+WO-01084,Heartlake Medical Plaza,9/21/2026 22:45,,Electrical,P3 - Routine,Reactive,Awaiting Parts,15.3,,502.93
+WO-01085,Bramalea Logistics Centre,9/22/2026 2:30,9/22/2026 18:54,HVAC,P3 - Routine,Preventive,Closed,13.7,16.4,251.07
+WO-01086,Bramalea Logistics Centre,9/22/2026 3:45,9/22/2026 16:57,General Maintenance,P4 - Low,Preventive,Closed,11.1,13.2,455.08
+WO-01087,Steeles Corporate Campus,9/22/2026 4:00,9/22/2026 11:24,Electrical,P3 - Routine,Reactive,Closed,4,7.4,466.67
+WO-01088,Steeles Corporate Campus,9/22/2026 10:00,9/22/2026 21:42,Electrical,P3 - Routine,Reactive,Closed,7.7,11.7,488.14
+WO-01089,Steeles Corporate Campus,9/23/2026 10:00,9/24/2026 0:36,HVAC,P3 - Routine,Preventive,Closed,6.6,14.6,872.02
+WO-01090,Steeles Corporate Campus,9/23/2026 18:15,9/24/2026 10:33,General Maintenance,P3 - Routine,Reactive,Closed,8.6,16.3,742.22
+WO-01091,Bramalea Logistics Centre,9/23/2026 18:30,9/24/2026 4:12,Plumbing,P3 - Routine,Preventive,Closed,6.1,9.7,538.71
+WO-01092,Bramalea Logistics Centre,9/23/2026 20:45,9/24/2026 12:03,Fire & Life Safety,P3 - Routine,Reactive,Closed,10.4,15.3,1204.93
+WO-01093,Bramalea Logistics Centre,9/24/2026 17:15,9/25/2026 6:27,General Maintenance,P3 - Routine,Reactive,Closed,11,13.2,273.05
+WO-01094,Steeles Corporate Campus,9/24/2026 17:45,,Grounds & Snow,P3 - Routine,Preventive,Open,14.7,,87.79
+WO-01095,Steeles Corporate Campus,9/25/2026 2:15,,Electrical,P2 - Urgent,Reactive,In Progress,1.6,,166.8
+WO-01096,Heartlake Medical Plaza,9/25/2026 10:00,,Electrical,P3 - Routine,Reactive,Awaiting Parts,7.4,,142.24
+WO-01097,Bramalea Logistics Centre,9/25/2026 15:45,9/26/2026 22:57,General Maintenance,P4 - Low,Reactive,Closed,28.6,31.2,274.13
+WO-01098,Bramalea Logistics Centre,9/25/2026 22:15,9/26/2026 7:09,HVAC,P3 - Routine,Reactive,Closed,3.6,8.9,1398.93
+WO-01099,Steeles Corporate Campus,9/26/2026 0:15,,HVAC,P3 - Routine,Preventive,Open,8.6,,190.31
+WO-01100,Bramalea Logistics Centre,9/26/2026 13:45,,Grounds & Snow,P4 - Low,Reactive,In Progress,26.6,,186.29
+WO-01101,Heartlake Medical Plaza,9/26/2026 16:30,9/27/2026 2:36,Electrical,P3 - Routine,Reactive,Closed,6.7,10.1,693.95
+WO-01102,Bramalea Logistics Centre,9/26/2026 21:00,,Elevator,P3 - Routine,Reactive,In Progress,2.7,,412.19
+WO-01103,Heartlake Medical Plaza,9/26/2026 22:45,9/27/2026 3:51,Grounds & Snow,P2 - Urgent,Reactive,Closed,2.6,5.1,334.28
+WO-01104,Bramalea Logistics Centre,9/27/2026 3:30,,General Maintenance,P4 - Low,Reactive,Open,12.9,,52.52
+WO-01105,Steeles Corporate Campus,9/27/2026 8:15,9/27/2026 22:57,HVAC,P3 - Routine,Reactive,Closed,4.3,14.7,2277.43
+WO-01106,Bramalea Logistics Centre,9/27/2026 12:45,,Grounds & Snow,P3 - Routine,Reactive,In Progress,5.4,,131.68
+WO-01107,Heartlake Medical Plaza,9/27/2026 19:30,,Fire & Life Safety,P2 - Urgent,Reactive,Awaiting Parts,0.7,,264.24
+WO-01108,Heartlake Medical Plaza,9/28/2026 4:00,9/28/2026 12:54,General Maintenance,P3 - Routine,Reactive,Closed,5.8,8.9,598.71
+WO-01109,Bramalea Logistics Centre,9/28/2026 5:45,9/28/2026 17:57,General Maintenance,P3 - Routine,Reactive,Closed,6.8,12.2,450.89
+WO-01110,Heartlake Medical Plaza,9/28/2026 10:15,9/29/2026 1:33,General Maintenance,P4 - Low,Preventive,Closed,13.3,15.3,447.37
+WO-01111,Heartlake Medical Plaza,9/28/2026 14:15,9/28/2026 23:21,Plumbing,P3 - Routine,Preventive,Closed,6,9.1,524.07
+WO-01112,Heartlake Medical Plaza,9/29/2026 6:15,9/29/2026 12:33,Plumbing,P2 - Urgent,Reactive,Closed,0.9,6.3,1288.82
+WO-01113,Bramalea Logistics Centre,9/29/2026 10:45,9/29/2026 23:15,Electrical,P4 - Low,Preventive,Closed,11.5,12.5,290.59
+WO-01114,Heartlake Medical Plaza,9/29/2026 19:00,,General Maintenance,P3 - Routine,Reactive,In Progress,22.9,,203.68
+WO-01115,Heartlake Medical Plaza,9/30/2026 2:00,9/30/2026 6:54,Plumbing,P2 - Urgent,Reactive,Closed,3.3,4.9,466.85
+WO-01116,Heartlake Medical Plaza,9/30/2026 6:30,9/30/2026 22:24,Elevator,P3 - Routine,Preventive,Closed,4.5,15.9,1389.17
+WO-01117,Heartlake Medical Plaza,9/30/2026 21:45,10/1/2026 8:39,General Maintenance,P3 - Routine,Preventive,Closed,9.3,10.9,313.02
+WO-01118,Bramalea Logistics Centre,10/1/2026 10:30,10/2/2026 17:54,Grounds & Snow,P4 - Low,Reactive,Closed,29.8,31.4,379.82
+WO-01119,Bramalea Logistics Centre,10/1/2026 11:30,10/3/2026 0:06,Plumbing,P4 - Low,Preventive,Closed,27.7,36.6,1197.46
+WO-01120,Steeles Corporate Campus,10/1/2026 12:00,10/1/2026 20:00,Electrical,P3 - Routine,Reactive,Closed,4,8,745.33
+WO-01121,Heartlake Medical Plaza,10/1/2026 14:45,10/2/2026 3:21,Electrical,P3 - Routine,Preventive,Closed,10.9,12.6,426.06
+WO-01122,Heartlake Medical Plaza,10/3/2026 2:45,10/4/2026 8:09,HVAC,P3 - Routine,Reactive,Closed,25,29.4,1224.18
+WO-01123,Steeles Corporate Campus,10/3/2026 4:15,,Plumbing,P3 - Routine,Preventive,In Progress,9,,83.62
+WO-01124,Bramalea Logistics Centre,10/3/2026 14:45,10/4/2026 12:51,HVAC,P3 - Routine,Preventive,Closed,14.2,22.1,1049.72
+WO-01125,Steeles Corporate Campus,10/4/2026 5:15,10/5/2026 12:33,HVAC,P4 - Low,Preventive,Closed,28.5,31.3,357.11
+WO-01126,Bramalea Logistics Centre,10/5/2026 1:15,10/6/2026 1:33,Plumbing,P3 - Routine,Reactive,Closed,21.6,24.3,408.99
+WO-01127,Bramalea Logistics Centre,10/5/2026 4:45,10/6/2026 4:15,Grounds & Snow,P4 - Low,Preventive,Closed,22.6,23.5,151.93
+WO-01128,Heartlake Medical Plaza,10/6/2026 2:00,10/7/2026 13:42,HVAC,P4 - Low,Reactive,Closed,25.4,35.7,1332.33
+WO-01129,Bramalea Logistics Centre,10/6/2026 4:30,10/6/2026 9:06,HVAC,P3 - Routine,Preventive,Closed,2,4.6,624.97
+WO-01130,Bramalea Logistics Centre,10/6/2026 12:30,10/6/2026 21:42,General Maintenance,P3 - Routine,Preventive,Closed,7.6,9.2,149.32
+WO-01131,Heartlake Medical Plaza,10/6/2026 17:30,10/7/2026 7:48,General Maintenance,P3 - Routine,Preventive,Closed,10.7,14.3,417.55
+WO-01132,Steeles Corporate Campus,10/7/2026 10:45,10/7/2026 18:21,Grounds & Snow,P3 - Routine,Reactive,Closed,3.1,7.6,477.69
+WO-01133,Bramalea Logistics Centre,10/7/2026 11:00,10/8/2026 2:42,Fire & Life Safety,P3 - Routine,Reactive,Closed,11.7,15.7,929.95
+WO-01134,Heartlake Medical Plaza,10/7/2026 12:15,,Fire & Life Safety,P3 - Routine,Preventive,In Progress,8.3,,124.27
+WO-01135,Steeles Corporate Campus,10/7/2026 15:45,,Plumbing,P3 - Routine,Reactive,Awaiting Parts,10.3,,128.2
+WO-01136,Heartlake Medical Plaza,10/7/2026 16:15,,Fire & Life Safety,P3 - Routine,Reactive,Awaiting Parts,2.8,,445.86
+WO-01137,Bramalea Logistics Centre,10/8/2026 1:15,10/8/2026 11:51,Elevator,P2 - Urgent,Reactive,Closed,3.5,10.6,1907.98
+WO-01138,Steeles Corporate Campus,10/8/2026 6:00,10/9/2026 14:06,Fire & Life Safety,P4 - Low,Preventive,Closed,30,32.1,305.59
+WO-01139,Steeles Corporate Campus,10/9/2026 14:30,10/10/2026 11:42,Electrical,P3 - Routine,Reactive,Closed,14.2,21.2,751.1
+WO-01140,Heartlake Medical Plaza,10/9/2026 17:30,10/10/2026 4:12,General Maintenance,P3 - Routine,Reactive,Closed,7.8,10.7,726.71
+WO-01141,Heartlake Medical Plaza,10/9/2026 21:00,10/12/2026 2:00,HVAC,P4 - Low,Reactive,Closed,47,53,1391.05
+WO-01142,Heartlake Medical Plaza,10/10/2026 14:45,10/11/2026 1:03,HVAC,P3 - Routine,Reactive,Closed,4.6,10.3,1019.58
+WO-01143,Bramalea Logistics Centre,10/10/2026 16:00,10/11/2026 16:24,Grounds & Snow,P3 - Routine,Reactive,Closed,20.3,24.4,644.79
+WO-01144,Bramalea Logistics Centre,10/11/2026 1:15,10/12/2026 0:27,HVAC,P3 - Routine,Reactive,Closed,14.9,23.2,827.83
+WO-01145,Heartlake Medical Plaza,10/11/2026 19:00,10/12/2026 11:30,Fire & Life Safety,P3 - Routine,Reactive,Closed,9.6,16.5,866.49
+WO-01146,Bramalea Logistics Centre,10/11/2026 22:15,,General Maintenance,P3 - Routine,Reactive,In Progress,3.7,,160.12
+WO-01147,Bramalea Logistics Centre,10/12/2026 6:00,10/12/2026 16:06,Plumbing,P3 - Routine,Reactive,Closed,6,10.1,680.3
+WO-01148,Steeles Corporate Campus,10/12/2026 9:15,,General Maintenance,P3 - Routine,Preventive,Open,4.9,,157.7
+WO-01149,Heartlake Medical Plaza,10/12/2026 17:00,10/13/2026 4:42,HVAC,P3 - Routine,Reactive,Closed,4.4,11.7,1908.46
+WO-01150,Bramalea Logistics Centre,10/12/2026 23:30,,General Maintenance,P3 - Routine,Reactive,Awaiting Parts,4.6,,382.64
+WO-01151,Heartlake Medical Plaza,10/13/2026 5:00,10/13/2026 13:48,HVAC,P3 - Routine,Reactive,Closed,6.4,8.8,664.26
+WO-01152,Heartlake Medical Plaza,10/13/2026 10:30,10/14/2026 1:42,HVAC,P3 - Routine,Reactive,Closed,9.4,15.2,883.47
+WO-01153,Steeles Corporate Campus,10/13/2026 13:00,10/13/2026 17:54,General Maintenance,P2 - Urgent,Reactive,Closed,0.6,4.9,539.9
+WO-01154,Bramalea Logistics Centre,10/13/2026 16:45,,General Maintenance,P3 - Routine,Reactive,In Progress,6.7,,218.74
+WO-01155,Heartlake Medical Plaza,10/14/2026 2:45,10/14/2026 14:57,Plumbing,P3 - Routine,Reactive,Closed,8,12.2,757.64
+WO-01156,Steeles Corporate Campus,10/14/2026 7:00,,Fire & Life Safety,P2 - Urgent,Reactive,Awaiting Parts,1.4,,295.79
+WO-01157,Heartlake Medical Plaza,10/14/2026 7:30,,HVAC,P3 - Routine,Reactive,Awaiting Parts,8.5,,323.67
+WO-01158,Steeles Corporate Campus,10/14/2026 21:30,10/16/2026 0:36,Plumbing,P3 - Routine,Reactive,Closed,14.4,27.1,1454.47
+WO-01159,Bramalea Logistics Centre,10/15/2026 2:30,,Plumbing,P4 - Low,Preventive,Awaiting Parts,19.3,,117.46
+WO-01160,Bramalea Logistics Centre,10/16/2026 11:00,10/16/2026 15:36,General Maintenance,P2 - Urgent,Reactive,Closed,1.3,4.6,435.53
+WO-01161,Heartlake Medical Plaza,10/16/2026 12:30,,HVAC,P3 - Routine,Preventive,Awaiting Parts,5.3,,186.78
+WO-01162,Heartlake Medical Plaza,10/16/2026 14:45,10/16/2026 22:15,Plumbing,P3 - Routine,Reactive,Closed,2.5,7.5,761.11
+WO-01163,Bramalea Logistics Centre,10/16/2026 23:15,,HVAC,P4 - Low,Preventive,Awaiting Parts,20.6,,258.56
+WO-01164,Bramalea Logistics Centre,10/16/2026 23:30,10/18/2026 1:48,Plumbing,P4 - Low,Preventive,Closed,23.7,26.3,299.61
+WO-01165,Bramalea Logistics Centre,10/17/2026 5:30,10/18/2026 5:12,HVAC,P3 - Routine,Reactive,Closed,17.2,23.7,877.34
+WO-01166,Steeles Corporate Campus,10/17/2026 16:00,,Elevator,P4 - Low,Preventive,Open,24.1,,134.26
+WO-01167,Steeles Corporate Campus,10/17/2026 19:45,,Fire & Life Safety,P3 - Routine,Preventive,Awaiting Parts,5.3,,339.94
+WO-01168,Bramalea Logistics Centre,10/17/2026 20:45,10/18/2026 8:03,HVAC,P3 - Routine,Reactive,Closed,8.2,11.3,482.6
+WO-01169,Heartlake Medical Plaza,10/18/2026 0:30,,Electrical,P3 - Routine,Preventive,Open,8.1,,154.51
+WO-01170,Bramalea Logistics Centre,10/19/2026 1:15,10/19/2026 9:03,Electrical,P3 - Routine,Preventive,Closed,6.3,7.8,320.27
+WO-01171,Heartlake Medical Plaza,10/19/2026 17:00,10/21/2026 10:30,Electrical,P4 - Low,Reactive,Closed,32.1,41.5,1334.54
+WO-01172,Heartlake Medical Plaza,10/19/2026 17:30,10/21/2026 4:00,HVAC,P4 - Low,Preventive,Closed,25.6,34.5,1114.41
+WO-01173,Heartlake Medical Plaza,10/20/2026 18:00,10/21/2026 9:24,Electrical,P3 - Routine,Reactive,Closed,11,15.4,604.79
+WO-01174,Heartlake Medical Plaza,10/21/2026 4:15,10/21/2026 16:27,General Maintenance,P3 - Routine,Preventive,Closed,11.2,12.2,117.89
+WO-01175,Bramalea Logistics Centre,10/21/2026 15:15,10/22/2026 15:27,Plumbing,P3 - Routine,Reactive,Closed,21.7,24.2,730.92
+WO-01176,Bramalea Logistics Centre,10/21/2026 16:00,10/22/2026 5:54,General Maintenance,P3 - Routine,Reactive,Closed,12.7,13.9,195.03
+WO-01177,Steeles Corporate Campus,10/22/2026 1:45,10/22/2026 11:33,General Maintenance,P3 - Routine,Reactive,Closed,6.9,9.8,419.89
+WO-01178,Steeles Corporate Campus,10/22/2026 8:30,10/22/2026 18:54,Grounds & Snow,P3 - Routine,Reactive,Closed,8.3,10.4,265.78
+WO-01179,Steeles Corporate Campus,10/22/2026 16:30,10/23/2026 3:36,General Maintenance,P3 - Routine,Reactive,Closed,8.1,11.1,292.38
+WO-01180,Heartlake Medical Plaza,10/22/2026 17:30,,HVAC,P3 - Routine,Reactive,In Progress,6,,269.59
+WO-01181,Bramalea Logistics Centre,10/23/2026 0:00,10/23/2026 7:36,General Maintenance,P3 - Routine,Reactive,Closed,5.4,7.6,358.56
+WO-01182,Steeles Corporate Campus,10/23/2026 0:45,10/23/2026 19:09,Electrical,P3 - Routine,Reactive,Closed,10.4,18.4,1039.96
+WO-01183,Bramalea Logistics Centre,10/23/2026 16:15,,Fire & Life Safety,P2 - Urgent,Reactive,In Progress,1.5,,183.5
+WO-01184,Steeles Corporate Campus,10/24/2026 2:15,,General Maintenance,P3 - Routine,Reactive,In Progress,6.8,,49.96
+WO-01185,Bramalea Logistics Centre,10/24/2026 10:30,10/25/2026 19:36,General Maintenance,P4 - Low,Reactive,Closed,31.7,33.1,544.91
+WO-01186,Bramalea Logistics Centre,10/24/2026 11:45,10/24/2026 22:21,HVAC,P3 - Routine,Reactive,Closed,7.5,10.6,1072.49
+WO-01187,Heartlake Medical Plaza,10/26/2026 6:45,,Grounds & Snow,P3 - Routine,Preventive,In Progress,4.4,,101.21
+WO-01188,Steeles Corporate Campus,10/26/2026 10:15,,Grounds & Snow,P3 - Routine,Reactive,Awaiting Parts,7.2,,151.54
+WO-01189,Bramalea Logistics Centre,10/27/2026 0:45,10/27/2026 8:45,Electrical,P2 - Urgent,Reactive,Closed,1.1,8,732.64
+WO-01190,Bramalea Logistics Centre,10/27/2026 22:30,10/28/2026 21:00,General Maintenance,P3 - Routine,Reactive,Closed,20.5,22.5,342.83
+WO-01191,Bramalea Logistics Centre,10/28/2026 4:45,10/29/2026 1:15,Plumbing,P4 - Low,Reactive,Closed,8.9,20.5,1137.15
+WO-01192,Heartlake Medical Plaza,10/28/2026 11:30,10/29/2026 0:42,Fire & Life Safety,P3 - Routine,Reactive,Closed,4.3,13.2,1603.53
+WO-01193,Steeles Corporate Campus,10/29/2026 3:45,10/29/2026 10:09,HVAC,P2 - Urgent,Reactive,Closed,0.9,6.4,925.42
+WO-01194,Heartlake Medical Plaza,10/29/2026 5:15,10/29/2026 11:15,General Maintenance,P2 - Urgent,Reactive,Closed,1.7,6,704.5
+WO-01195,Steeles Corporate Campus,10/29/2026 18:15,10/30/2026 4:39,Plumbing,P3 - Routine,Reactive,Closed,7.8,10.4,469.9
+WO-01196,Bramalea Logistics Centre,10/30/2026 2:00,10/30/2026 20:12,Plumbing,P4 - Low,Reactive,Closed,15,18.2,641.51
+WO-01197,Bramalea Logistics Centre,10/30/2026 10:15,10/31/2026 10:57,Electrical,P3 - Routine,Preventive,Closed,20.4,24.7,441.26
+WO-01198,Bramalea Logistics Centre,10/30/2026 17:30,,Electrical,P3 - Routine,Reactive,Awaiting Parts,13.3,,290.19
+WO-01199,Bramalea Logistics Centre,10/30/2026 22:30,,Elevator,P2 - Urgent,Reactive,Awaiting Parts,1.2,,928.5
+WO-01200,Steeles Corporate Campus,10/31/2026 12:00,,Plumbing,P4 - Low,Reactive,Awaiting Parts,20.2,,250.81
